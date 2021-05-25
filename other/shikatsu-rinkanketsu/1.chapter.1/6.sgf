@@ -1,5 +1,5 @@
 
-(;GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]CA[UTF-8]SZ[19]FG[259:]PB[ ]PW[ ]PM[2]GN[ ]
+(;SZ[19]AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]ST[2]PM[2]FG[259:]PB[ ]PW[ ]GN[ ]
 ;B[qd];W[dd];B[pq];W[dp];B[oc]
 (
 ;W[qo];B[qp];W[po];B[nq];W[qk];B[cj];W[lq];B[qi];W[mo];B[cn];W[pp];B[qq];W[or];B[oq];W[nr];B[pr];W[mq]
@@ -7,7 +7,7 @@
 ;C[95 点]B[rr];W[rp];B[rq];W[ro];B[ps];W[sq];B[sr]
 )
 (
-;FG[259:]PM[2]
+;PM[2]FG[259:]
 (
 ;C[広げて生きる]B[ro]
 ;W[rn];B[sp]
@@ -15,31 +15,35 @@
 ;W[rr];B[rq];W[sn];B[so];W[sr];B[sq]
 )
 (
-;FG[259:]PM[2];W[rq];B[rr]
+;PM[2]FG[259:];W[rq];B[rr]
 )
 
 )
 (
-;FG[259:]PM[2];B[cf];W[rp];B[rq];W[ro]
+;PM[2]FG[259:];B[cf];W[rp];B[rq];W[ro]
 )
 
 )
 
 )
 (
-;FG[259:]PM[2];W[po];B[qo];W[qn];B[qp];W[pn];B[nq];W[qj]
+;PM[2]FG[259:];W[po];B[qo];W[qn];B[qp];W[pn];B[nq];W[qj]
 (
 ;B[cn];W[lq];B[fq];W[mo];B[qh];W[pp];B[qq];W[or];B[oq];W[nr];B[pr];W[mq]
 (
 ;B[eo];W[ro];B[rp];W[rn];B[rr]
 )
 (
-;FG[259:]PM[2];B[rn];W[rm];B[so];W[eo]
+;PM[2]FG[259:];B[rn];W[rm];B[so];W[eo]
 )
 
 )
 (
-;FG[259:]PM[2];B[qh];W[pp];B[qq];W[lq];B[cn];W[mo];B[fq];W[or];B[oq];W[nr];B[pr];W[mq]
+;PM[2]FG[259:];B[qh];W[pp];B[qq];W[lq];B[cn];W[mo];B[fq];W[or];B[oq];W[nr];B[pr];W[mq]
+)
+
+(
+;PM[2]FG[259:];B[tt];W[pp];B[qq];W[lq];B[cn];W[mo];B[fq];W[or];B[oq];W[nr];B[pr];W[mq]
 )
 
 )

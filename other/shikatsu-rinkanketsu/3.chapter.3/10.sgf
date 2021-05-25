@@ -1,9 +1,9 @@
 
-(;ST[2]GM[1]SZ[19]CA[UTF-8]FF[4]AP[GOWrite:3.0.18]PB[ ]FG[259:]PW[ ]GN[ ]PM[2]
+(;AP[GOWrite:3.0.18]GM[1]ST[2]FF[4]CA[UTF-8]SZ[19]PM[2]GN[ ]FG[259:]PB[ ]PW[ ]
 ;B[pd];W[dd];B[pp];W[dq];B[do];W[co];B[cn];W[cp];B[fc];W[cf];B[dm];W[fq];B[ci];W[qf];B[nc];W[rd];B[qc];W[qi];B[id];W[qn];B[nq];W[rp];B[cc];W[dc];B[cd];W[ce];B[db];W[eb];B[cb];W[ec];B[fb]
 (
-;W[fa]C[7.sgf 参照？
-こちらにハネたら、みたい]
+;C[7.sgf 参照？
+こちらにハネたら、みたい]W[fa]
 (
 ;B[de];W[fd];B[ga];W[ea]
 ;C[隅は二眼？]B[da]
@@ -11,7 +11,7 @@
 ;W[ed];B[ef]
 (
 ;W[gc];B[eh];W[bd];B[bc];W[be];B[ba];W[bh];B[bi];W[dg];B[eg]
-;W[bg]C[これで白も生き]
+;C[これで白も生き]W[bg]
 ;B[ib]
 )
 (
@@ -45,6 +45,10 @@
 )
 (
 ;FG[259:]PM[2];W[ea];B[bd];W[fd]
+)
+
+(
+;FG[259:]PM[2];W[bd];B[bc];W[be]
 )
 
 )
