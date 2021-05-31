@@ -1,5 +1,5 @@
 
-(;ST[2]GM[1]SZ[19]CA[UTF-8]FF[4]AP[GOWrite:3.0.18]PB[ ]FG[259:]PW[ ]GN[ ]PM[2]
+(;GM[1]FF[4]SZ[19]CA[UTF-8]ST[2]AP[GOWrite:3.0.18]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]
 ;B[qd];W[dp];B[pq];W[cc];B[oc];W[qn];B[qp];W[pj];B[ec];W[de];B[id];W[kq];B[iq];W[nq];B[fq];W[cn];B[dr];W[cq];B[pl];W[ql];B[pm];W[qm];B[pn];W[pk];B[qo];W[no];B[nm];W[dj];B[qh];W[cr];B[eq];W[jo]
 (
 ;B[rj];W[rk];B[qj];W[qk]
@@ -17,13 +17,18 @@
 ;FG[259:]PM[2];B[rn];W[rm];B[ro];W[oh];B[qf];W[nj]
 )
 
+(
+;FG[259:]PM[2];B[tt];W[ro];B[rp];W[rm];B[sl];W[sk]
+;B[so]C[黒の目を奪える]
+)
+
 )
 (
 ;FG[259:]PM[2];B[rk];W[rj];B[qk];W[rl];B[rn];W[qj]
 )
 
 (
-;FG[259:]PM[2];B[fo];W[rj];B[oh];W[kc]
+;FG[259:]PM[2];B[fo]C[5 図];W[rj];B[oh];W[kc]
 )
 
 )
