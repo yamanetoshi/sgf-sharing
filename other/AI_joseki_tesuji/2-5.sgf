@@ -1,0 +1,103 @@
+
+(;GM[1]FF[4]SZ[19]CA[UTF-8]ST[2]AP[GOWrite:3.0.18]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]
+;B[pd];W[dq];B[pp];W[dd];B[co];W[dl]
+;B[ep]C[6 のハサミにこれが有力]
+;W[dp];B[do];W[eo];B[eq];W[er];B[fr];W[dr];B[en];W[fo];B[gp]
+;W[fm]C[基本形]
+(
+;B[fn];W[go];B[gn];W[ho];B[hq];W[dn]
+(
+;B[bq];W[iq];B[ir];W[hp];B[gq];W[jr];B[jq];W[ip]
+(
+;B[hr];W[br];B[ar];W[dm];B[bo];W[fp];B[fq];W[kq];B[cr];W[gs];B[fs];W[is];B[ds]
+;W[jp]C[左下を削りつつ白厚い]
+;
+)
+(
+;FG[259:]PM[2];B[kr]
+;W[fp]C[黒 L2 はこれで失敗]
+)
+
+)
+(
+;FG[259:]PM[2];B[dm]
+;W[cn]C[これは捕まらない]
+)
+
+)
+(
+;FG[259:]PM[2];B[cm]
+(
+;W[cl]
+;B[bp]C[左辺補強が簡明]
+;W[bq]C[白は左下を守る必要がある]
+;B[bl]
+(
+;W[bk];B[em];W[el]
+;LB[fn:a][br:b]B[bn]C[左辺を万全にして a, b などの薄さを狙えるl]
+;W[al];B[bm];W[cp]
+;LB[fq:a]B[cj]C[a の断点を守るのが好手順]
+;W[ck];B[fn];W[go];B[ho];W[gn]
+;LB[gm:b]B[hp]C[ここの傷があるため白は左辺を取りにいけない]
+;W[gm]C[傷を守る]
+;B[aq];W[ar];B[ap];W[br];B[fk];W[fl];B[kp];W[cf]
+;LB[ej:a][ch:b]B[qn]C[a, b などの荒らす狙いも残る]
+)
+(
+;FG[259:]PM[2]
+;W[dn]C[外側を厚くする変化]
+;B[dm];W[em];B[bk];W[fn];B[bn]
+;W[gq]C[左辺を突破されるかわりに下辺の黒を攻める狙い]
+;B[fp];W[hp];B[go]
+;W[hn]C[左下と左辺側を効果的に守る構想]
+;B[hq];W[hr];B[iq];W[gr];B[ho];W[io];B[ip];W[fq];B[jo];W[in];B[jn]
+;W[gn]C[取られるけど下辺を連打できれば良い]
+;B[qn];W[hp];B[kq]
+)
+
+(
+;FG[259:]PM[2];W[dm];B[bn];W[dn]
+;LB[ho:a][ar:b]B[cj]C[軽くかわせるのが大きな利点 (a の利きや b の死活を狙える]
+)
+
+)
+(
+;FG[259:]PM[2]
+;W[bp]C[これまでの変化を避けるため、こう受ける相場]
+;B[cl];W[dj];B[cp];W[cq]
+;LB[em:a][bq:b]B[bo]C[a の傷、b の守る手などを見ている]
+(
+;W[fn];B[iq];W[ck]
+;B[bq]C[封鎖された時、ここから左辺を守りながら傷を突いていく]
+;W[br];B[ap];W[ar];B[em];W[el]
+;B[fl]C[周囲の黒は万全の構え]
+)
+(
+;FG[259:]PM[2]
+;W[ip]C[下辺に迫るなら]
+;B[ho];W[fn]
+;LB[fq:a]B[hr]C[a の断点を守る (間接的に左辺の守りに働く]
+;W[ck];B[bq];W[br];B[ap];W[ar];B[es];W[cs]
+;LB[em:a][nq:b]B[io]C[左辺の一目取りが先手になる。a, b を狙って黒満足]
+)
+
+)
+
+)
+
+(
+;FG[259:]PM[2]
+;B[bq]C[これまでは左下の眼形を奪って左辺を守るのが常識だったが難解な変化になるとのこと]
+;W[br];B[cq];W[cr];B[cm];W[cl];B[bl];W[dm]
+(
+;B[dn];W[bm];B[bn]
+;W[cn]C[コウ争いは研究量の勝負になる]
+)
+(
+;FG[259:]PM[2];B[bn];W[dn];B[cj]
+;LB[bm:a][bo:b]W[cn]C[a, b 見合いで黒ツブレ]
+)
+
+)
+
+)

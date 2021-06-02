@@ -1,0 +1,127 @@
+
+(;GM[1]FF[4]SZ[19]CA[UTF-8]ST[2]AP[GOWrite:3.0.18]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]
+;B[pd];W[dd];B[pq];W[dp];B[fq];W[eq];B[fp];W[dn];B[jp];W[po];B[qo];W[qn];B[qp];W[pn];B[np]
+;W[lo]C[右辺にいかず、出方を伺う手法 (どこまで右辺を広げるべきかを決めるため]
+(
+;B[lp];W[ko]
+(
+;B[kp];W[no];B[mp];W[pp];B[qq]
+;W[qf]C[下辺を囲うと押さえこんで大きく広げる]
+(
+;B[nc];W[qd];B[qc];W[rc];B[qe];W[rd]
+(
+;B[pe];W[re];B[qb]
+;W[pf]C[右上を整形しつつ右辺を拡大]
+)
+(
+;FG[259:]PM[2];B[re];W[pe];B[rf];W[pc];B[od];W[pb];B[qg]
+;LB[pf:a]W[pj]C[a を横目に]
+;B[nh];W[md];B[mc];W[ld];B[nf]
+;W[fc]C[O12 には上辺に白陣地を築いて悪くなi]
+)
+
+)
+(
+;FG[259:]PM[2]
+;B[pj]C[右辺を割られた場合]
+;W[nd]C[両ガカリで対抗]
+;B[ne];W[me];B[nf];W[qc];B[qd];W[pc];B[od];W[oc];B[rc];W[rb];B[re];W[sc]
+;B[sd]C[コウは大丈夫、が黒の意図]
+;W[rd];B[md];W[nc];B[rc];W[mf]
+;B[sb]C[解消、ただ白は機敏に立ち回る構想を用意]
+;W[ld];B[ng];W[mg];B[nh];W[qk];B[qj];W[rj];B[ri]
+;W[fc]C[上辺に模様を築きつつ、右辺も補強]
+;B[pk]C[追求されても]
+;W[op];B[oq];W[rk];B[pl]
+;W[rm]C[大丈夫。黒は地を増やしづらい碁型]
+)
+
+)
+(
+;FG[259:]PM[2]
+;B[mp]C[こちらに受けられた場合]
+;W[pj]C[堅く守る]
+;B[qh]
+;W[hp]C[R12 にツメられたら割り打ち]
+(
+;B[hq];W[ip];B[iq];W[kp];B[kq];W[jo];B[jq];W[nc];B[oc];W[nd];B[pf]
+;LB[nn:a][ri:b]W[gc]C[広く。右辺は a, b の守りを見て安定]
+)
+(
+;FG[259:]PM[2]
+;B[jo]C[割り打ちに反発]
+;W[hn];B[jm];W[iq];B[jq]
+;W[fm]C[黒 2 子を飲み込む]
+;B[pl]C[打ち込まれても]
+;W[ql];B[qk];W[pk];B[rl];W[qm];B[qj];W[pi];B[qi]
+;W[ol]C[問題なし。左辺の損失よりも左下の利益が勝る]
+)
+
+)
+
+)
+(
+;FG[259:]PM[2]
+;B[nn]C[これまでの変化はいずれも微妙なため、反発]
+;W[lq]
+(
+;B[mp];W[lp];B[mr]
+;W[qj]C[M3 と下辺に進出した後に右辺を守るのがこの手法の流れ]
+;B[qh];W[pk];B[jn];W[io];B[jo];W[iq]
+(
+;B[ip]
+;LB[hp:a]W[hr]C[黒は白 a を防ぐ必要がある]
+(
+;B[er];W[dr]
+;B[hp]C[分断しながら守る]
+;W[mq];B[nq]
+;LB[nr:a][lm:b]W[lr]C[a, b を見合いにして治まる]
+)
+(
+;FG[259:]PM[2]
+;B[jq]C[下辺を裂くなら?]
+;W[hp];B[gn];W[jr];B[kr]
+;LB[lr:a][js:b][is:c]W[fr]C[地を稼ぐ。後に a 以下の手段を狙う]
+)
+
+)
+(
+;FG[259:]PM[2]
+;B[jq]C[単に裂かれても]
+;W[hr]C[この受け方は変わらない]
+;B[gr];W[jr];B[kr];W[pp];B[qq];W[lr];B[js];W[ir];B[kq]
+;W[hn]C[下辺脱出しつつ左下を狙う]
+;B[ip];W[hp];B[hs];W[nr];B[or]
+;W[mn]C[O2 と受け方を見てからのコスミツケが手筋]
+(
+;B[nm]C[以降について、例えばノビ]
+;W[ms]C[ ]
+;LB[ks:a]B[is]C[a を防ぐためにこちらに手を戻さざるを得ない]
+;W[no];B[mo]
+;W[nq]C[白有利な戦い]
+)
+(
+;FG[259:]PM[2]
+;B[go]C[こちらに受けられると下辺の白が捨てづらくなる]
+;W[nm]C[のでこちらに守る]
+;B[ho]C[取られるかわりに]
+;W[ck]C[地を稼いで十分]
+)
+
+)
+
+)
+(
+;FG[259:]PM[2]
+;B[pj]C[こちらに反撃された場合]
+;W[oq]C[厳しい一手]
+;B[nq];W[pp];B[pr]
+;W[qq]C[O3, Q2 の反撃に切りが好手]
+;B[rq]C[こう受けざるを得ない]
+;W[or];B[qr];W[nr];B[op];W[mq];B[mm]
+;W[ok]C[分断しながら各所の白を補強して白有利。黒は右下の守りを省けない]
+)
+
+)
+
+)

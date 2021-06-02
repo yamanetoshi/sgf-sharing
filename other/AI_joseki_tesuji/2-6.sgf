@@ -1,0 +1,238 @@
+
+(;GM[1]FF[4]SZ[19]CA[UTF-8]ST[2]AP[GOWrite:3.0.18]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]
+;B[qd];W[dd];B[pq];W[dp];B[nd];W[qo]
+;B[ql]C[このハサミが現代主流の手法。]
+;W[op];B[pp];W[po];B[oo];W[np]
+;B[on]C[切断して戦う意図。隅を捨てて厚くする選択肢がある。]
+;W[rp]C[対策したい受け方]
+(
+;B[rq]
+;W[pm]C[S3 の守りは Q7 と脱出された後に分断された石を狙われる]
+)
+(
+;FG[259:]PM[2];B[pn];W[rn];B[nr];W[qm];B[pl]
+;LB[pm:a][or:b]W[rl]C[Q6 の封鎖は S6 で追求が続かない。O2 など右下を守る必要があり R7 以下で a, b を見られて薄くなる]
+)
+
+(
+;FG[259:]PM[2]
+;B[rn]C[左辺の白に迫りながら封鎖するのが好手]
+(
+;W[or]
+(
+;B[rq]C[簡明に収束したi場合、P2 にこう受ける]
+;W[rr]C[手筋];B[sq];W[qq];B[qp];W[qr];B[ro];W[pr];B[sp]
+;W[fq]C[黒の厚みと白の地で互角のワカレ]
+)
+(
+;FG[259:]PM[2]
+;B[pr]C[強く受けるのも有力]
+;W[oq];B[rr]
+;LB[qm:a][qr:b]W[rq]C[S3 で a と b を狙う]
+;B[os];W[ns]
+;B[pn]C[狙いの意図を崩しているl?]
+(
+;W[sr];B[qr];W[qn];B[qm];W[ps]
+(
+;LB[rs:a][fc:b]B[mn]C[白が黒 a の手段を消すなら b に先着して十分]
+)
+(
+;FG[259:]PM[2]
+;B[ro]C[焦りすぎ]
+;W[qp];B[rs]
+;W[mn]C[右辺の模様を制限されて不満。右下の白はすぐに取れなiのでタイミングが重要とのこと]
+)
+
+)
+(
+;FG[259:]PM[2]
+;W[qr]C[取りにきたとき、粘れる]
+;B[ps];W[rs]
+;LB[sr:a]B[nr]C[脱出を図りつつ、手数を延ばして a と隅を取る手段を狙う]
+(
+;W[mr];B[ms]
+;W[lr]C[封鎖を図る]
+;B[mq];W[nq]
+;B[lq]C[下辺全てを捨て石にフリカワリ狙い]
+;W[kr];B[mo];W[ns];B[dc];W[mp];B[lp];W[nr]
+;B[cd]C[右辺の封鎖と左上の実利で下辺の損失は取り戻せている]
+)
+(
+;FG[259:]PM[2]
+;W[mq]C[これだと右下取れる模様]
+;B[lr];W[mr];B[ms];W[kq];B[kr];W[jq];B[jr];W[iq];B[ir];W[hq];B[hr];W[gq]
+;B[sr]C[黒の実利は大きい]
+)
+
+)
+
+)
+
+)
+(
+;FG[259:]PM[2];W[rr]
+;B[or]C[右下に迫られたら抵抗]
+(
+;W[nr]
+;B[mr]C[ハサミツケで様子見]
+(
+;W[ns];B[nq];W[oq];B[mq];W[pr];B[mp];W[no]
+;B[mn]C[右下は捨てて外側を厚くする]
+)
+(
+;FG[259:]PM[2]
+;W[nq]C[こちらはどうか]
+;B[qr];W[qs];B[ns];W[qq]
+;B[pr]C[目を奪う]
+;W[lq]C[黒が定位置を強いられるが]
+;B[lr];W[kq];B[kr];W[jq];B[qp];W[ro];B[rq];W[sq];B[jr];W[iq];B[ir];W[hq]
+;LB[hr:a]B[pm]C[封鎖。コウは a 周辺にコウ材あり]
+)
+
+)
+(
+;FG[259:]PM[2]
+;W[mq]C[進出を止める]
+;LB[qr:a][qq:b]B[rq]C[止められたらこちらが狙い。白からは a, b の抵抗が考えられる]
+(
+;W[qr];B[qq];W[sq];B[pr];W[ro];B[qn];W[nr]
+;B[qs]C[セキ形?]
+)
+(
+;FG[259:]PM[2];W[qq]C[抵抗];B[qp];W[ro];B[qr];W[sq]
+;B[mo]C[外側補強が簡明]
+(
+;W[kq]
+;B[qq]C[L3 にはツギが成立]
+;W[qm];B[pm];W[rm];B[rl];W[sn];B[sp];W[sr];B[rs];W[so]
+;LB[pl:a][qj:b]B[nr]C[手数を延ばして攻め合い黒勝ち (a には b で]
+)
+(
+;FG[259:]PM[2]
+;W[qq]C[生きを図るなら]
+;B[mp]C[外側を厚く]
+;W[nr]C[右下が取られそうだが]
+;B[lq];W[lr];B[kq];W[kr];B[jq];W[jr];B[iq]
+;W[rq]C[右下は白が制したが]
+;B[cn]
+;W[fq]C[大場に走れる]
+;B[fc];W[cf];B[dc];W[cc];B[cb]
+)
+
+)
+
+)
+
+(
+;FG[259:]PM[2]
+;W[pm]C[外側の薄みをつかれることを想定したい]
+;B[pn];W[qn];B[qm]
+;LB[pl:a][mq:b]W[ro]C[a, b が白の狙い]
+(
+;B[mq]C[下辺を守る]
+;W[pk];B[rj];W[mp];B[lq];W[lp];B[nm]
+;LB[rm:a][qr:b]W[kq]C[Q9、N4 と圧をかけられる。右下白は a, b が見合いで生きている]
+)
+(
+;FG[259:]PM[2]
+;B[qr]C[白の意図を崩す打開策]
+(
+;W[rm]C[変化];B[rl];W[sn];B[rq];W[sq];B[qq];W[pl];B[nm];W[qk];B[rk];W[qj];B[rj];W[qi];B[ri];W[qh]
+;LB[sp:a][mq:b]B[rg]
+;C[攻め合い黒勝ち]
+(
+;W[qs];B[pr];W[kr]
+;B[nr]C[R2, R3 の交換で右下白の目を奪っている]
+)
+(
+;FG[259:]PM[2]
+;W[rs]C[白の抵抗]
+;B[kr]C[生きが堅実]
+;W[jr];B[ks];W[jq]
+;LB[qp:a][nk:b]B[mr]C[a, b がある]
+)
+
+)
+(
+;FG[259:]PM[2];W[qq];B[mq];W[pk];B[rj];W[mp];B[lq];W[lp];B[nm];W[kq];B[rm]
+(
+;W[qs];B[pr];W[kr]
+;B[nr]C[攻め合い黒勝ち]
+)
+(
+;FG[259:]PM[2];W[rs]C[抵抗];B[kr];W[jr];B[ks];W[jq];LB[qp:a]B[mr]
+)
+
+)
+
+(
+;FG[259:]PM[2];W[pl];B[nm];W[pk];B[rm]
+(
+;W[rq];B[qj]
+(
+;W[mq];B[mr];W[lr];B[nr]
+;LB[ps:a][ml:b]W[lo]C[封鎖には手数を増やす (a, b があり苦しそうだが]
+;B[lp]C[ツケが妙手]
+(
+;W[kp]
+;LB[ml:a]B[rs]C[右下に回れる、ツケの交換で a の封鎖を無力化]
+;W[pj];B[qi];W[ps];B[qs];W[ml];B[nl]
+(
+;W[mk];B[nk];W[nj];B[mm];W[lm]
+;LB[oi:a][ln:b]B[oj]C[白 a は黒 b で突破可能]
+;
+)
+(
+;FG[259:]PM[2]
+;W[nk]C[受けられたら]
+;B[mm];W[ll];B[mo];W[mp]
+;B[km]C[脱出 (右下白を取る狙いと右辺の白を攻める狙い]
+)
+
+)
+(
+;FG[259:]PM[2]
+(
+;W[mp]C[こちらのハネには?]
+;B[ko]
+;W[kp]C[この交換が肝心]
+;LB[ln:a]B[rs]C[a の利きで封鎖されない形にしてこちらに先着]
+)
+(
+;FG[259:]PM[2];W[mo]C[抵抗]
+;B[nk]C[右辺に先着]
+;W[rs];B[lq];W[kr];B[jq];W[jr];B[iq];W[ir]
+;LB[hr:a][mp:b]B[hq]C[a, b が見合いにできて下辺の黒は助かる]
+)
+
+)
+
+)
+(
+;FG[259:]PM[2];W[nr];B[nq];W[mq]
+;B[oq]C[白 O2 なら黒 O3 以下で]
+)
+
+)
+(
+;FG[259:]PM[2]
+;W[qk]C[取りにきた]
+;B[rk];W[rj];B[rq];W[sq];B[qq];W[sl]
+;LB[rl:a][qp:b][sp:c][rs:d]B[sn]C[白 a でも黒 b 以下で一手勝ち]
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+(
+;FG[259:]PM[2]
+)
+
+)

@@ -1,0 +1,138 @@
+
+(;GM[1]FF[4]SZ[19]CA[UTF-8]ST[2]AP[GOWrite:3.0.18]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]
+;B[qd];W[dd];B[pq];W[dp];B[nd];W[qo];B[qp];W[po];B[np]
+;LB[mp:A][no:B]W[mo]C[黒から A, B の手段があるが、いずれも白悪くない変化になる]
+(
+;B[mp];W[lp];B[lq];W[kq]
+(
+;B[no]
+;LB[op:a][or:b]W[oq]C[黒 a か b の出方を見て整形できる]
+(
+;B[op];W[pp];B[qq];W[lr];B[mq]
+;W[or]C[狙いの一手]
+;B[nr];W[mr]
+(
+;B[pr]
+;W[jr]C[これが先手になる?]
+;B[os];W[qk]
+)
+(
+;FG[259:]PM[2];B[ns]
+;LB[nq:a][lo:b]W[nn]C[a の切りを強調。黒 a と守るなら b と封鎖]
+)
+
+)
+(
+;FG[259:]PM[2];B[or];W[lo];B[nn];W[qk]
+(
+;B[lr]
+;LB[op:a]W[qh]C[白 a と削る手段も残っている]
+)
+(
+;FG[259:]PM[2];B[qi];W[nr];B[nq];W[lr];B[mr];W[mq];B[ns];W[fp]
+)
+
+)
+
+)
+(
+;FG[259:]PM[2]
+(
+;B[lo]C[黒から切られる手段は怖くはなi]
+;W[kp];B[no];W[qk];B[mn];W[lr];B[mq];W[gq]
+)
+(
+;FG[259:]PM[2]
+;B[kp]C[下辺へ反発された場合はどうするべきか]
+;W[lo];B[jq];W[kr];B[lr];W[jr];B[iq]
+(
+;W[oq]C[相手の出方を見る]
+;B[op];W[pp];B[qq];W[nr]
+;B[ir]C[下辺白 3 子は取られるが]
+;W[pr]C[下辺を捨て石に厚みを築くことができる]
+;B[qr];W[rp];B[rq];W[ro];B[sq];W[jn];B[ko];W[kn];B[io];W[no];B[mq];W[oo]
+;LB[or:a]B[js]C[これを手抜くと a で右下隅の攻め合いが黒苦しくなる]
+;W[qi]
+)
+(
+;FG[259:]PM[2];W[jp];B[ko];W[ip];B[ln];W[kn];B[jo];W[hq]
+;LB[qk:a]B[nn]C[黒 3 子を捨て石に a と大きく右下を攻められる]
+)
+
+)
+
+)
+
+)
+(
+;FG[259:]PM[2];B[no]
+;W[oq]C[こちらの受けにはツケコシが手筋]
+(
+;B[op];W[pp];B[qq];W[nq]
+(
+;B[mq];W[mr];B[lq];W[pr];B[qr];W[lr];B[kq];W[kr]
+(
+;B[jq]
+;W[or]C[黒は隅を守る必要があるが]
+;B[ro];W[rn];B[sp];W[qm];B[jr];W[ns];B[qk];W[nn];B[mp]
+;LB[qs:a][rs:b][sr:c]W[on]C[白 a 以下を狙いつつ右辺や下辺への反撃を見る]
+)
+(
+;FG[259:]PM[2]
+;B[ps]C[目を奪うのは右下黒が取られ]
+;W[or];B[os];W[nr];B[jq];W[rp];B[rq]
+;LB[jr:a][rs:b]W[ro]C[黒 a は白 b で一手勝ち]
+)
+
+)
+(
+;FG[259:]PM[2];B[mp]
+;W[lr]C[18 スベリで捕まらなi]
+(
+;B[mq];W[mr];B[pr];W[os];B[kq];W[kr];B[jq];W[jr];B[or];W[nr];B[ro];W[rn];B[sp];W[pm];B[iq];W[ir];B[hq];W[hr];B[qk]
+;LB[mn:a][nm:b][lo:c][mm:d]W[nn]C[黒 a 切りには白 b 以下で整形できる]
+;B[on]C[反撃];W[om];B[nm];W[mn];B[mm]
+;LB[lq:a][oo:b]W[ko]C[a, b が見合い。右の白は見た目以上に強い]
+)
+(
+;FG[259:]PM[2];B[lq];W[kq];B[kr];W[mr];B[kp];W[jq];B[jr];W[iq];B[ir];W[hq];B[hr];W[pr];B[qr]
+;LB[rp:a][gq:b]W[or]C[a, b が見合いで黒有利 (要検証]
+)
+
+)
+
+)
+(
+;FG[259:]PM[2];B[nq];W[pp];B[qq];W[or];B[op];W[nr]
+(
+;B[mr];W[mq];B[lr];W[lq];B[pr];W[nn];B[os]
+(
+;W[mm]C[これで白悪くなi]
+)
+(
+;FG[259:]PM[2];W[fc]
+(
+;B[mn];W[nm];B[ln];W[qk]C[足早]
+)
+(
+;FG[259:]PM[2];B[on];W[om];B[mn];W[nm];B[lo]
+;W[ql]C[手抜きの着想は実利派の方にオススメ]
+)
+
+)
+
+)
+(
+;FG[259:]PM[2]
+;B[lq]C[大きく取りに]
+;W[mr];B[lr];W[ro];B[pr]
+;W[rr]C[右下を大きく削れる]
+;B[mq];W[rp];B[ms];W[rq];B[os]
+;W[fc]C[大場に先着できる]
+)
+
+)
+
+)
+
+)
