@@ -1,0 +1,131 @@
+
+(;GM[1]FF[4]SZ[19]CA[UTF-8]ST[2]AP[GOWrite:3.0.18]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]
+;B[pd];W[dp];B[pp];W[dd];B[pj];W[nc];B[nd]
+(
+;W[md]
+;B[ne]C[カカリにツケノビを使う、と言う特徴]
+(
+;W[oc];B[pc]
+(
+;W[lc];B[pg];W[nq];B[np];W[mp];B[no];W[oq];B[pq];W[lq]
+;B[pm]C[ツケノビ二発]
+;W[dj];B[lf]
+(
+;W[id]
+;B[cc]C[からの三々]
+;W[dc];B[cd];W[ce];B[be];W[cf];B[bf];W[cg];B[bg];W[ch]
+;B[ln]C[下辺でも同じ打ち方を]
+)
+(
+;FG[259:]PM[2]
+;W[ln]C[模様拡大を牽制されたら?]
+;B[jc];W[ke];B[le];W[kd];B[fc];W[cf]
+;B[id]C[右上を攻めつつ上辺を割る (周辺の黒は強いので一方的に攻めることができる]
+)
+
+)
+(
+;FG[259:]PM[2]
+;W[jc]C[広く構えられた場合、Q13 と断点を守る必要はない]
+;LB[od:a][oe:b][pe:c]B[nq]C[広く構える (a 以下の出切りは心配ない]
+(
+;W[cf];B[fq];W[cn]
+;B[fo]C[模様を広げる]
+)
+(
+;FG[259:]PM[2]
+;W[od]C[出切り]
+;B[oe];W[pe]
+;LB[mc:a][pf:b]B[pb]C[これで a, b を見合いにして対応 (この対策があるので受ける必要がない]
+;W[ob]C[これには?]
+;B[pf]C[右上を呑みこむ]
+;W[qe]C[ ];B[qf];W[rd];B[rf]
+;W[rb]C[厄介な抵抗だが有力な受け方を用意]
+;B[mc];W[mb];B[lc];W[lb];B[rc];W[qc];B[qd];W[re];B[qb]
+;LB[oa:a]W[sc]C[コウにされても a の利きがあるので抜き返せるのが自慢]
+)
+
+)
+
+)
+(
+;FG[259:]PM[2]
+(
+;W[ob]
+;B[qc]C[P18 には堅く受ける]
+;W[me];B[mf]
+(
+;W[lf];B[lg];W[kf];B[mg]
+(
+;W[fc]
+;B[jh]C[模様を拡大して好調]
+)
+(
+;FG[259:]PM[2]
+;W[kg]C[右辺拡大を牽制]
+;B[fc];W[hc];B[hd];W[ic]
+;B[df]C[上辺に侵入。ハサミには H16 以下で左上に働きかける]
+;W[ef];B[eg];W[ff];B[de];W[ed];B[cd];W[cc]
+;B[bc]C[裂かれたら隅に進出]
+;W[bd]C[これには?]
+;B[ce];W[bb]
+;B[ee]C[突破できる]
+)
+
+)
+(
+;FG[259:]PM[2]
+;W[nf]C[ハネずに切るなら?]
+;B[mg];W[of];B[pe];W[pf];B[qf];W[qg];B[rf];W[oi];B[oj];W[ni]
+;LB[kd:a][li:b]B[kg]C[右上を守りながら応戦。a, b と追求する狙いあり]
+)
+
+)
+(
+;FG[259:]PM[2]
+;W[qc]C[三々対策]
+;B[oc]C[封鎖]
+(
+;W[re];B[rg];W[qd]
+;LB[ob:a]B[qf]C[a の利きがaるので見た目以上に厚い]
+;W[mc]C[例えば上辺に先着した場合]
+;B[ob];W[jc]
+;B[ra]C[これで右上を取れる]
+)
+(
+;FG[259:]PM[2]
+)
+
+(
+;FG[259:]PM[2];W[rf];B[qd];W[rd];B[fq];W[cn];B[nq];W[mc];B[qf];W[qe];B[pe];W[re];B[qb]
+;LB[jc:a][qg:b]W[rc]C[a, b が見合い]
+)
+
+)
+
+)
+
+)
+(
+;FG[259:]PM[2]
+;W[oc]C[こちらにノビるのが現代手法]
+)
+
+(
+;FG[259:]PM[2]
+;W[oc]C[現代手法]
+;B[od];W[pc];B[qd];W[md];B[me];W[le];B[mf];W[ld];B[lf];W[nq];B[np];W[oq];B[op];W[pq];B[qp];W[mp];B[mo];W[lo];B[mn];W[lp]
+;LB[qc:a][qq:b]B[ln]C[黒は a, b のどちらかを打てる]
+;W[dj];B[cq];W[dq];B[cp]
+(
+;W[co];B[bo];W[cn];B[bn];W[cm];B[bm];W[cl]
+;B[jn]C[黒満足]
+)
+(
+;FG[259:]PM[2];W[do];B[co];W[cn];B[bn];W[kn];B[km];W[jm];B[kl];W[jn]
+;LB[cm:a][dn:b][cr:c]B[jl]C[a, b, c の手段もある]
+)
+
+)
+
+)
