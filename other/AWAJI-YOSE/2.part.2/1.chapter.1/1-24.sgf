@@ -1,0 +1,38 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]TR[jq][jp][hn][im]AB[dl][el][gl][dm][cn][bm][bo][bp][cp]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]C[△くらいの白地で A に黒石がない形]LB[fq:A]AW[cq][dp][co][do][dn][en][em][hn][im][jp][jq]
+(
+;W[bq]C[オサエは星三つ、F3 に黒がある場合よりも小さい]
+;B[dq]
+(
+;W[eq];B[dr];W[er];B[br];W[cr];B[aq];W[ds]C[相場]
+)
+(
+;FG[259:]PM[2]
+;W[dr]C[こちらから]
+;B[eq]
+;W[br]C[がんばる手があればそのほうが得なんですが]
+;B[er];W[cs]
+;B[gn]C[ツケの味があって怖い]
+)
+
+)
+(
+;FG[259:]PM[2];W[tt]
+;B[dq]C[黒から打つ場合]
+;W[eq];B[dr]
+(
+;W[er]
+;LB[es:a][fs:b][ds:c][fr:d]B[cr]C[星三つ、a-d は黒の権利]
+;W[br];B[bq]
+;LB[ds:a][es:b]W[cs]C[この手筋がここでも (星三つ
+
+続いて黒 a なら白 b が先手になるのでハネツギされるより白得だが黒もすぐに受ける]
+)
+(
+;FG[259:]PM[2];W[cr];B[er];W[fr];B[fq];W[es];B[ep];W[ds];B[eq];W[gr];B[gq];W[hq];B[hp];W[iq]
+;B[gn]C[外側白が丈夫なら C2 が成立しますが。。。]
+)
+
+)
+
+)

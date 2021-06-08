@@ -1,0 +1,37 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[ep]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[cp]
+;W[gq]C[有名な定石]
+;B[cq];W[dq];B[dp];W[eq];B[fq];W[fp];B[fr];W[cr];B[bq];W[er];B[co];W[gr]
+;LB[eo:a]B[fo]C[ ]
+;LB[eo:a]W[gp]C[a の断点があるので隅は保留して進行]
+;AW[jq]AB[en][cl]
+(
+;W[br]C[断点がなく、黒の根拠の問題がなければこれは先手ヨセ]
+;B[bp]C[これは星三つ強]
+)
+(
+;FG[259:]PM[2]
+;B[br]C[逆ヨセ]
+(
+;W[tt]C[手抜き]
+;B[ds]C[これがうまいヨセ]
+;W[dr];B[cs]
+;W[fs]C[D2 ツギは C1 が]
+)
+(
+;FG[259:]PM[2]
+;W[es]C[ここに受けるところ]
+(
+;B[cs]C[こうすれば C2 は取れているが後手]
+)
+(
+;FG[259:]PM[2]
+;B[tt]C[黒も手抜く]
+;W[bs]C[ただしこれは大きい]
+)
+
+)
+
+)
+
+)

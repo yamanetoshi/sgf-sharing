@@ -1,0 +1,47 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[cp]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[eq]
+;B[hp];W[do];B[dp];W[ep];B[eo];W[gp];B[en];W[go];B[cm]
+;W[hq]C[穏やかな分かれ]
+(
+;B[dr]C[テ-マ図、星四つ]
+(
+;W[er]C[この押さえは絶対の先手ではない]
+(
+;B[cr]C[黒が受けるならこれ]
+;W[tt]C[手抜きからの]
+;B[es];W[fs];B[ds]
+;W[fr]C[これは黒の権利]
+;B[tt]C[黒パス]
+;W[dq]
+;B[cq]C[マデ?]
+)
+(
+;FG[259:]PM[2];B[dq];W[ds];B[cs];W[es]
+;B[cr]C[ツグと先手二目損]
+)
+
+)
+(
+;FG[259:]PM[2]
+;W[tt]C[黒トビに白手抜き]
+;B[er];W[fr];B[fs]
+;LB[dq:a][cq:b]W[gr]C[この後は黒手抜きで白a, 黒 b ]
+)
+
+)
+(
+;FG[259:]PM[2]
+;B[tt]C[白からヨセるなら]
+;W[cr]C[スベリ、星四つ強]
+(
+;B[tt]C[黒手抜き]
+;W[bq];B[bp];W[ap];B[ao];W[aq];B[bo]
+)
+(
+;FG[259:]PM[2]
+;B[bq]C[すぐ受けるのは逆ヨセ 8 目前後で星三つ相当 (なのですぐに受けるのは利かされ認定]
+)
+
+)
+
+)
