@@ -1,5 +1,5 @@
 
-(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[dp][cq][cm]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]C[オオゲイマガカリからのスベリ]AW[gq][dr][jq]
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[dp][cq][cm]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]C[オオゲイマガカリからのスベリ]AW[dr][jq][gq]
 (
 ;B[fr]C[このオキqがねらいのヨセ (星 3.5 +あるふぁ]
 (
@@ -14,8 +14,13 @@
 )
 (
 ;FG[259:]PM[2];W[hq];B[er];W[dq];B[ep];W[cr];B[br];W[bq];B[cp];W[bs];B[ar];W[aq];B[ds];W[as];B[br];W[ar];B[es];W[bo];B[bp];W[ap]
-;LB[cn:a][dn:b][bm:c]B[cs]C[この後、白 a, 黒 b, 白 ]
+;LB[cn:a][dn:b][bm:c]B[cs]C[この後、白 a, 黒 b, 白]
 ;W[ep];B[hq]
+)
+
+(
+;FG[259:]PM[2];W[ep]
+;B[hq]C[外にはみだせる]
 )
 
 )

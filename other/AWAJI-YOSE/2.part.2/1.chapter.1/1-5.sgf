@@ -1,5 +1,5 @@
 
-(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]TR[cr]AB[dr][fq][iq]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[dp][cq][dn][ck][cr]
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]TR[cr]AB[dr][iq][fq]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[cq][dn][ck][dp][cr]
 (
 ;B[eq]C[△のオサエは星 3.5
 
@@ -28,6 +28,14 @@
 ;FG[259:]PM[2]
 ;LB[ds:a][eq:b]B[fr]C[白は a か b か]
 ;LB[es:a]W[eq]C[こちらがお薦め、とのこと、黒 a なら白満足]
+(
+;
+)
+(
+;FG[259:]PM[2];B[tt];W[fs];B[gs];W[es]
+;B[gr]C[その後こうなる権利が強い]
+)
+
 )
 
 )
