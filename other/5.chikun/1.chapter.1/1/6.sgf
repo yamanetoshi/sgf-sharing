@@ -1,0 +1,27 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[nd][ne][pd][pe][qg][qc][qb]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[kd][id][gc][md][mc][nc][oc][pc]
+(
+;B[na]C[ここまでいける]
+;W[nb]
+(
+;B[pa]
+;LB[oa:a][pb:b]W[ma]C[黒先手、ここで手抜きで将来白 a 黒 b (先手を取る、が大事]
+)
+(
+;FG[259:]PM[2];B[oa];W[ma];B[pb];W[ob]
+;B[pa]C[後手をひいては駄目]
+)
+
+)
+(
+;FG[259:]PM[2]
+;B[oa]C[これも微妙]
+;W[na];B[pa];W[ob]
+)
+
+(
+;FG[259:]PM[2]
+;LB[qa:a][ra:b][pa:c][rc:d]W[pb]C[これと大ザルの差が 7 目弱。強弱は半コウの含みが残っているため]
+)
+
+)

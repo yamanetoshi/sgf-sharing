@@ -1,0 +1,26 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[kd][md][hc][od][oc][oe][pe]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[pc][pd][qe][qf][pf][qi]
+(
+;B[pb];W[qb]
+;LB[rc:a]B[ob]C[最大級、17 目。白 a は大きいがハネツギが先手になる]
+(
+;
+)
+(
+;FG[259:]PM[2];W[tt]
+;B[rb]C[ハサミツケは基本手筋]
+;W[rc];B[qa];W[qc]
+)
+
+)
+(
+;FG[259:]PM[2];B[ob];W[pb];B[pa];W[qa];B[oa]
+;W[rb]C[先手ヨセがあるが後手でも大きなヨセをねらいたい]
+)
+
+(
+;FG[259:]PM[2];W[ob];B[nb]
+;LB[na:a][mb:b][ma:c][la:d][oa:e][lb:f]W[pb]C[白ハネツギの後は a から f]
+)
+
+)

@@ -1,0 +1,35 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[qc][rc][sc][sd][qb][pb][oc][nc][mc][nd][mb]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[se][rf][rd][qd][pd][od][pc][ne][me][md][lc][lb][kd][id][gc]
+(
+;B[la];W[ka];B[ma];W[kb]
+)
+(
+;FG[259:]PM[2]
+(
+;W[ma]C[踏み込みが足りない]
+;B[na];W[la];B[ob]
+)
+(
+;FG[259:]PM[2];W[na]
+(
+;B[ma]C[こうすると?]
+;W[ob]C[これで駄目]
+)
+(
+;FG[259:]PM[2]
+(
+;B[oa];W[ma]
+;B[ob]C[最初の図との差が六目 (両先手]
+)
+(
+;FG[259:]PM[2];B[ob]
+;LB[ra:a]W[ma]C[P18 に継ぐとこの次に a と置かれて曲り四目になる]
+)
+
+)
+
+)
+
+)
+
+)

@@ -1,0 +1,26 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[qc][qb][qd][pa][ob][oc][pe][pf][qh]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[kd][id][gc][mc][nc][me][oe][od][pd][pc][pb]
+(
+;B[na]C[先手約 9 目]
+(
+;W[lb];B[la];W[ka];B[ma];W[kb]
+)
+(
+;FG[259:]PM[2];W[ma];B[mb];W[lb];B[la];W[nb]
+;B[kb]C[恐怖の大コウ]
+)
+
+)
+(
+;FG[259:]PM[2]
+;LB[oa:a]W[nb]C[a にどちらが先着するか]
+)
+
+(
+;FG[259:]PM[2]
+;B[ma]C[恐怖の大コウが怖ければ]
+;W[la];B[na]
+;LB[nb:a]W[lb]C[a アテは逆ヨセ 7 目]
+)
+
+)

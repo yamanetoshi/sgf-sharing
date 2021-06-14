@@ -1,0 +1,20 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[nf][ng][pf][qf][re][rf][qi]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[jd][me][ne][nc][mf][pd][qe][rd]
+(
+;B[sd]C[先手五目]
+(
+;W[sc]C[すぐにオサエては駄目]
+;B[rc];W[se];B[qc];W[qd];B[sb];W[sd]
+;LB[od:a][nb:a][qb:b]B[ra]C[生き、ただし a に白石があれば b とツケて生き?]
+)
+(
+;FG[259:]PM[2];W[rc];B[sc];W[sb];B[se];W[rb]
+)
+
+)
+(
+;FG[259:]PM[2]
+;W[sd]C[白からはサガリ (これが逆ヨセ]
+)
+
+)

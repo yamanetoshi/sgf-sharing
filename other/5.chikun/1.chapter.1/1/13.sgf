@@ -1,0 +1,27 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[oc][pc][qd][qe][qf][qi]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[jd][ld][nd][nc][od][pe][gc]
+(
+;B[nb];W[mb]
+;B[ob]C[10 目以上見当]
+(
+;W[ma]C[逆ヨセ 5 目]
+)
+(
+;FG[259:]PM[2];W[tt];B[ma];W[lb];B[la];W[ka];B[na]
+;W[jb]C[先手五目]
+)
+
+)
+(
+;FG[259:]PM[2];W[ob];B[pb]
+(
+;LB[pa:a][qa:b][oa:c][qb:d]W[nb]C[この後白 a から黒 d でこれは先手 3 目でここと黒先手との差が 12 目相当]
+)
+(
+;FG[259:]PM[2]
+;LB[pa:a][qa:b][qb:c]W[na]C[この後、白 a, 黒 b, 白 c は大コウ、なのでこの手は a に c とゆるめさせようとしている手]
+)
+
+)
+
+)

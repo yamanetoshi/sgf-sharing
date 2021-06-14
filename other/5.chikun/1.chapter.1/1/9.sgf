@@ -1,0 +1,24 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[nd][oc][nb][pb][pc][qe][qg]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[jd][gc][ld][mc][nc][ob][od][ne]
+(
+;B[mb]C[良くない打ち方]
+;LB[ma:a][oa:b]W[lb]C[ここから手抜きで白 a、黒 b]
+)
+(
+;FG[259:]PM[2]
+;B[ma]C[こちらの方が筋が良い]
+;W[mb];B[oa];W[lb];B[la];W[ka];B[na]
+;W[kb]C[最初の図に比べて 2 目ちがう]
+)
+
+(
+;FG[259:]PM[2];W[mb]
+;LB[ma:a]B[oa]C[次に a ハネ (なので黒はコスむのが筋]
+)
+
+(
+;FG[259:]PM[2]
+;W[ma]C[白もここが筋]
+)
+
+)
