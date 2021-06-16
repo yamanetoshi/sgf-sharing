@@ -1,0 +1,17 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[pe][qe][re][rd][od][nd][md][ld][kd][oi][qi]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]C[白の欠陥は一箇所だけではない]AW[jd][jc][gc][kc][lc][nc][oc][pd][qd][rc]
+(
+;B[mc];W[mb];B[qc];W[pc];B[qb];W[rb];B[nb];W[ob]
+;LB[pb:a][qa:b][pa:c]B[ra]C[隅二子が取れている (ダメが詰まってて白 a 以降と打てない]
+)
+(
+;FG[259:]PM[2]
+;W[qb]C[白からはこれで最初の図との差が 16 目]
+)
+
+(
+;FG[259:]PM[2];B[rb];W[qb];B[sc]
+;W[qc]C[これ、先手 6 目なので後手 16 目を採用すべき]
+)
+
+)

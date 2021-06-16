@@ -1,0 +1,28 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[pd][pc][pb][oc][nb][mb][nd][md][ld][je][pe][qe][re][qi]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[qd][qc][qb][pa][oa][ob][nc][mc][lc][kc][ic]
+(
+;B[rc]
+(
+;W[ra];B[rb];W[lb];B[rd];W[qa];B[sb];W[ma];
+)
+(
+;FG[259:]PM[2];W[lb];B[ra];W[qa]
+;B[rb]C[これは取れてるのか]
+)
+
+(
+;FG[259:]PM[2];W[rd];B[rb];W[sd];B[ra];W[qa]
+;LB[sc:a][na:b][lb:c]B[se]C[ここから、白 a なら黒 b、白 c なら黒 a]
+)
+
+)
+(
+;FG[259:]PM[2];B[rd];W[rc];B[sc];W[sb];B[sd];W[lb]
+)
+
+(
+;FG[259:]PM[2]
+;B[sb]C[これも後手]
+)
+
+)

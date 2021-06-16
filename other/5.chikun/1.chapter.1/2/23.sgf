@@ -1,0 +1,16 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[qc][rc][oc][ob][nc][od][oe][pe][qe][re][sf][rg][qi][md][me][le][lg]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]C[c, d まで打ちきると何もなくなる]LB[mb:a][na:b][ma:c][pa:d]AW[ke][jd][ic][ld][lc][mc][nb][oa][pb][pc][pd][qd][rd][sd][se]
+;B[mb];W[na];B[pa];W[qa]
+(
+;B[ra];W[rb]
+;LB[qb:a][ma:b][lb:c]B[sb]C[白 a なら黒 b で 3 子取り、なので白 c で黒 a]
+;W[lb];B[qb];W[pa];B[sc]
+;W[ma]C[こうなる]
+)
+(
+;FG[259:]PM[2]
+;B[ma]C[これを打つとだいなしになる]
+;W[pa];B[ra];W[lb];B[sc];W[la]
+)
+
+)
