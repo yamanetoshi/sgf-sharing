@@ -1,4 +1,42 @@
 
 (;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]TR[fm]AB[dc][cc][ed][gc][hc][ic][jc][pd][oc][ob][pf][qf][of][oh][ph][pp][qo][rp][qq][np][nq][nn][lo][lp][jp][jq][in][hl][gm][gn][fp][dp][cp][bp][aq][br]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]C[△と受けたところ]AW[ap][ao][bo][cn][en][fn][fm][fl][gj][ik][jm][ko][lm][lq][ro][rn][qn][pn][qk][pi][qh][qg][nc][nd][kd][jd][id][hd][fe][df][be][cd][bc][kh]
-;B[pj];W[qj];B[oi];W[qi];B[lj];W[kk];B[lf];W[kg];B[lc];W[ld];B[mb];W[rg];B[rf];W[sf];B[se];W[sg];B[rd];W[cb];B[db];W[bb];B[dn];W[dm];B[do];W[bm]
+(
+;B[pj]
+(
+;W[qj]
+;B[oi]C[これは甘い]
+;W[qi]
+(
+;B[lj];W[kk];B[lf];W[kg];B[lc];W[ld];B[mb];W[rg];B[rf];W[sf];B[se];W[sg];B[rd];W[cb];B[db];W[bb];B[dn];W[dm];B[do];W[bm]
+)
+(
+;FG[259:]PM[2]
+;LB[kj:a]B[kk]C[ここまで入れる、あるいは a]
+)
+
+)
+(
+;FG[259:]PM[2];W[oi];B[qj];W[qi]
+;B[pk]C[この場合、白 2 の出は無謀、黒勝勢]
+)
+
+(
+;FG[259:]PM[2]
+;LB[oi:a]W[qi]C[a のところはどうでもよい]
+(
+;B[oi]C[この手では甘い]
+)
+(
+;FG[259:]PM[2];B[pk];W[qj]
+;B[kj]C[ここまで踏み込める]
+)
+
+)
+
+)
+(
+;FG[259:]PM[2];B[oi]
+;W[pj]C[黒ぬるい]
+)
+
 )
