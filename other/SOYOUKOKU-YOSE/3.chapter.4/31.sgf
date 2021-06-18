@@ -1,0 +1,22 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[rc][rd][re][rf][sf][qd][pd][od][nc][mc][lc][mb][ma][kb][ka]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[nb][ob][oc][pc][qc][rb][sb]
+(
+;B[qb]C[切りが好手]
+(
+;W[qa];B[oa];W[pb];B[na]
+;W[pa]C[先手で寄せることができた]
+)
+(
+;FG[259:]PM[2]
+;W[pb]C[こちらからあてた場合]
+;B[na];W[qa];B[oa];W[pa]
+)
+
+)
+(
+;FG[259:]PM[2]
+;B[oa]C[いきなりは無理]
+;W[na];B[qb];W[pa]
+)
+
+)

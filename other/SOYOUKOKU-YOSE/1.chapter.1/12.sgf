@@ -1,0 +1,17 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[qd][rc][sc][qe][qf][rf][rh]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[rd][re][rb][qc][pc][od][nd][mc][mb]
+(
+;B[sb]
+;W[ra]C[出たら下がってきた]
+;B[qb]
+;W[pb]C[受ければ先手 (受けるのかしら。。。 (受けなければ R19?]
+;B[tt]
+;W[qa]C[抜いたら]
+;B[se]C[受ける]
+)
+(
+;FG[259:]PM[2]
+;B[se]C[これは後手]
+)
+
+)

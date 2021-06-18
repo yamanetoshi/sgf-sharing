@@ -1,0 +1,26 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[qc][rc][rd][pc][oc][ob][oa]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[na][nb][nc][nd][od][pd][qd][re][se][qf][pf]
+;W[sd]C[出てきた (ダメが詰った隅八目はよくてセキ]
+(
+;B[ra]C[とぶのが正解なのか]
+;W[sc];B[sb]
+)
+(
+;FG[259:]PM[2]
+;B[rb]C[これでも OK]
+;W[sc];B[sb]
+)
+
+(
+;FG[259:]PM[2]
+;B[qb]C[これもセイフ]
+)
+
+(
+;FG[259:]PM[2]
+;B[sc]C[おさえるとセキ]
+;W[qb];B[ra];W[rb];B[qa];W[sb]
+;B[pa]C[しかも白先手]
+)
+
+)

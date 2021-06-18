@@ -1,0 +1,23 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[pb][od][nd][mc][mb][ka][kb][kc][kd][le][me]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]C[白のキズを直接切るのは無理]AW[nb][ob][oc][pd][qd][rd][rf][qf]
+(
+;B[na]
+(
+;W[pc];B[oa];W[qb]C[先手]
+)
+(
+;FG[259:]PM[2]
+;W[oa]C[おさえてきたら?]
+;B[pc]C[切る];W[qb];B[pa];W[ma]
+;B[nc]C[攻め合い黒勝ち]
+)
+
+)
+(
+;FG[259:]PM[2]
+;B[oa]C[方向が悪い]
+;W[na];B[pc];W[qb];B[ma]
+;W[pa]C[二子取られ]
+)
+
+)

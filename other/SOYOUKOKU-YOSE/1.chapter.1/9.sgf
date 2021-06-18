@@ -1,0 +1,22 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[pe][qd][qe][re][rc][qb][oe][nd][ne][mc]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]C[ここからは先手でよせるために工夫する問題]AW[lc][ld][md][kb][nc][ob][od][pd][pc][qc][rb]
+(
+;B[pb];W[oc]
+(
+;B[ra]
+;W[mb]C[取らないと駄目?]
+)
+(
+;FG[259:]PM[2]
+;B[sb]C[こちらからだと二子取られ]
+;W[ra]
+)
+
+)
+(
+;FG[259:]PM[2]
+;B[ra]C[これは後手]
+;W[pb];B[sb]
+)
+
+)

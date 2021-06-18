@@ -1,0 +1,23 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[rb][qc][pd][oe][of][pf][qf][rf][sf]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]C[これはどのように守る?]AW[qb][pb][pc][od][nd][nc][mc][lc][lb][la]
+(
+;B[rd]C[断点多いんでかけつぎ]
+;W[ra]C[はねても手抜き可能]
+)
+(
+;FG[259:]PM[2]
+;B[rc]C[このつぎには]
+;W[qd]C[きられる]
+;B[pe]
+;W[ra]C[これが先手になる (要検証]
+;B[rd]
+)
+
+(
+;FG[259:]PM[2]
+;B[qd]C[こちらにつぐのも]
+;W[ra]C[はねが権利]
+;B[sb]C[受ける必要がある (後手]
+)
+
+)

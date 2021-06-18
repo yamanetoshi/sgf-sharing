@@ -1,0 +1,21 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[kc][kd][ke][lf][mg][nh][oh][pi][qi][pd][pe][qe][re][oc][ob]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]C[これは見たことある問題]AW[pb][pc][rb][qd][rd]
+(
+;B[qc]C[切るんだった]
+(
+;W[rc];B[pa]
+;W[qb]C[3 のあてが先手になる]
+)
+(
+;FG[259:]PM[2]
+;W[qb]C[こちらでも同じ]
+;B[sd];W[rc]
+)
+
+)
+(
+;FG[259:]PM[2];B[pa];W[qa];B[oa];W[se];B[sf];W[sd]
+;B[rf]C[はねつぐと後手になる]
+)
+
+)

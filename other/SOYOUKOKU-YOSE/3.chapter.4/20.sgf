@@ -1,0 +1,19 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[kd][kc][kb][ka][ld][md][nd][od][oc][ob][oa]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]C[白地にどこまで踏み込めるのか]AW[pb][qc][qd][qe][qf][qg][rg][sg]
+(
+;B[qb]C[ここまでいけます]
+(
+;W[rb];B[qa];W[ra];B[pa]
+)
+(
+;FG[259:]PM[2];W[pc];B[pa];W[rb]
+;B[qa]C[黒先手なので正解よりも得]
+)
+
+)
+(
+;FG[259:]PM[2];B[pa];W[qa];B[pc]
+;W[qb]C[黒先手だけど。。。]
+)
+
+)

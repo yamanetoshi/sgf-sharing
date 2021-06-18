@@ -1,0 +1,20 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[pd][pc][pe][pf][qg][rg][sg]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[nc][nb][lb][jb][kc][ld][md]
+;W[qa]C[今度はオオゲイマ]
+(
+;B[qb]C[つける]
+(
+;W[pa];B[ra];W[ob];B[pb];W[oa];B[rb]
+)
+(
+;FG[259:]PM[2];W[oa];B[ra];W[pa]
+;LB[ob:a]B[rb]C[白先手だが黒 a の余地を残している]
+)
+
+)
+(
+;FG[259:]PM[2];B[pb];W[pa];B[oa];W[ob];B[qb];W[ra];B[rb]
+;W[na]C[これは失敗]
+)
+
+)

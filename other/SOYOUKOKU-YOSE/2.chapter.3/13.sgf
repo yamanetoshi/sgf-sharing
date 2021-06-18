@@ -1,0 +1,14 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[pd][pc][oc][nc][nb][na][qb][qe][re]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[ma][mb][mc][md][nd][od][nf][pe][pf][qf][rf][rg][rh][sh]
+;W[se]C[白ハネにどう受ける?]
+(
+;B[rc]C[ここにゆるめる]
+;W[sc];B[sb];W[sd];B[rd]
+;W[sf]C[黒先手]
+)
+(
+;FG[259:]PM[2];B[rd];W[sd];B[sc];W[sf]
+;B[rc]C[これだと黒後手]
+)
+
+)

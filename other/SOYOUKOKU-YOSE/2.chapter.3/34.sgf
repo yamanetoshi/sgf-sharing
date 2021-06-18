@@ -1,0 +1,20 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[jc][kc][ld][md][od][pc][qc]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[rb][rc][rd][qe][qf][qg][rh]
+;W[qa]C[こすみで寄せてきた、どう受ける?]
+(
+;B[ob]C[これが正しい]
+;W[oa];B[na];W[pa];B[nc]
+)
+(
+;FG[259:]PM[2];B[pb]
+;W[pa]C[はわれて困る]
+;B[nb];W[na];B[ma];W[oa]
+;B[mb]C[正解図より損]
+)
+
+(
+;FG[259:]PM[2];B[pa];W[pb];B[ob];W[oa];B[nb];W[na];B[ma];W[pa]
+;B[mb]C[これも黒が損]
+)
+
+)

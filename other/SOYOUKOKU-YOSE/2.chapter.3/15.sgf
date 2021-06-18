@@ -1,0 +1,21 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[rb][qc][pb][pc][rd]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]C[手を抜くとコウになります]AW[ob][nb][oc][od][pd][qd][re][rf][rg][rh][sh][pf]
+(
+;B[sd]C[さがるのが正しい]
+;W[pa];B[qa]
+;W[oa]C[はねつぎに手抜きできる]
+)
+(
+;FG[259:]PM[2]
+;B[sc]C[こうしても生きられますがやや損]
+;W[se];B[pa];W[sd];B[rc]
+)
+
+(
+;FG[259:]PM[2]
+;B[se]C[欲張りすぎ]
+;W[sf];B[sd];W[sb];B[rc];W[qa];B[pa]
+;W[ra]C[セキ (たぶん黒が先に手を出すとマガリ四目になる]
+)
+
+)
