@@ -1,0 +1,40 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[pd][qc][qf]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[dd][nc][pb][kc]
+;LB[jc:A][kd:B]TR[kc]C[提携を学ぼう
+
+A, B どちらかにおさえるぞ、という狙い]B[jd]
+(
+;W[cf]C[白手抜き]
+(
+;B[kd];W[lc]
+;B[jg]C[二本並べたので二間に開ける]
+)
+(
+;FG[259:]PM[2];B[jc];W[kd]
+;LB[fc:a][ke:b]B[je]C[a ひらきと b まがりが候補手]
+)
+
+)
+(
+;FG[259:]PM[2];W[kd];B[je]
+(
+;W[ib]
+;B[ke]C[かたつきにたいして押しへの対処]
+)
+(
+;FG[259:]PM[2]
+;W[jc]C[まがると]
+;LB[ic:a]B[hd]C[とんで a を狙う、5 で a は微妙]
+(
+;W[ic]
+;LB[df:a]B[gf]C[石の形、軽い受け方、a もあります]
+)
+(
+;FG[259:]PM[2]
+)
+
+)
+
+)
+
+)

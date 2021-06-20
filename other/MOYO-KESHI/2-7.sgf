@@ -1,0 +1,33 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[pd][qk][pq][jp][fq]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]C[下辺から右辺の模様となんとかしたい]AW[dp][dn][dd][fc]
+(
+;LB[op:a][ln:b][qn:c][ok:d]W[on]C[四種類の着手候補がある]
+(
+;
+)
+(
+;FG[259:]PM[2];B[qn];W[op];B[oq];W[mp];B[nq]
+;LB[mq:a][ll:b][jn:c]W[ln]C[a で黒地を消す狙い、b, c に脱出経路を用意]
+)
+
+)
+(
+;FG[259:]PM[2]
+;LB[jo:a][lq:b][oo:c][ll:d]W[lo]C[ここもある]
+(
+;B[lq];W[jo];B[ip];W[oo]
+)
+(
+;FG[259:]PM[2];B[lp];W[mp]
+;B[mo]C[サバキはナナメに、というかつけ切りでさばけるのか]
+;W[lq];B[kp];W[no];B[mn]
+;LB[nn:a][pp:b][jr:c]W[nq]C[白は a から c の候補手あり]
+)
+
+(
+;FG[259:]PM[2];B[kn];W[mm];B[ln];W[mn];B[mo];W[no];B[mp];W[np];B[mq];W[nq];B[mr];W[qo]
+)
+
+)
+
+)

@@ -1,0 +1,35 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]TR[dr][fq][iq]AB[dr][fq][iq][pp][pq][qn][pd][nc][qd][rc][qe][rf][rg][se]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]C[白番、下辺の消しを考える
+
+消しを考えるときは相手の最も低い石に対して高さで上回ること]AW[dd][jd][dk][dp][cq][dn][qk][qf][qg][qh][rh][re][rd]
+;LB[ip:a][jq:b]W[jp]C[かたつきで消すやつ
+
+a, b のおさえを狙う]
+(
+;
+)
+(
+;FG[259:]PM[2]
+;B[jn]C[ぼうしには]
+;W[ip]C[これが利いているので]
+;B[hq]
+;W[in]C[つけて脱出可能]
+)
+
+(
+;FG[259:]PM[2];B[ip];W[jn];B[jo];W[ko];B[io];W[lm]
+(
+;B[hm]C[軽く打つ形、8 でお互いの模様の消し合い]
+)
+(
+;FG[259:]PM[2]
+;B[kn]C[切りには?]
+;W[ln];B[km];W[kl];B[jm];W[jl];B[im];W[ll];B[lo];W[mo];B[lp]
+;W[mp]C[捨てます
+
+もともと□の石は生きてた石でそこから×を取るのはカス石を取ったことになるので効率てきに NG]MA[jp][ko][jn]SQ[dr][fq][iq]
+)
+
+)
+
+)
