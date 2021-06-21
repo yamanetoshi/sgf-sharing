@@ -1,4 +1,53 @@
 
 (;GM[1]FF[4]SZ[19]CA[UTF-8]ST[2]AP[GOWrite:3.0.18]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]
-;B[qe];W[dd];B[oq];W[dp];B[fc];W[id];B[cf];W[fd];B[gd];W[fe];B[cc];W[ec];B[cd];W[fb];B[pc];W[qp];B[qn];W[po];B[pn];W[oo];B[on];W[no];B[lq];W[pj];B[nk];W[qg];B[qq];W[rq];B[pr];W[qr];B[pq];W[ro];B[lo];W[nn];B[pk];W[qk];B[ql];W[pl];B[ok];W[rl];B[qj];W[qm];B[rk];W[ql];B[qi];W[nm];B[oh];W[og];B[nh];W[oe];B[nd];W[mf];B[ld];W[kf];B[cn];W[fq];B[bp];W[cq];B[hq];W[cl];B[en];W[hp];B[iq];W[gq];B[ci];W[el];B[bq];W[br];B[cp];W[dq];B[do];W[ip];B[jp];W[jo];B[kp];W[ei];B[ar];W[bs];B[dg];W[kc];B[kd];W[jd];B[lc];W[kb];B[lb];W[lh];B[lj];W[cj];B[bj];W[bi];B[ck];W[dj];B[bl];W[dk];B[bk];W[ch];B[db];W[fg];B[ki];W[bg];B[bf];W[re];B[rd];W[ih];B[ng];W[qd];B[pd];W[pe];B[qc];W[nf];B[lf];W[lg];B[je];W[mi];B[mk];W[jg];B[ke];W[jj];B[qf];W[rf];B[ph];W[pf];B[qd];W[pg];B[rh];W[rg];B[rj];W[af];B[ae];W[ag];B[be];W[ib];B[jc];W[ic];B[ka];W[jb]
+;B[qe];W[dd];B[oq];W[dp];B[fc];W[id];B[cf];W[fd];B[gd];W[fe];B[cc];W[ec];B[cd];W[fb];B[pc];W[qp];B[qn];W[po];B[pn];W[oo];B[on];W[no];B[lq];W[pj];B[nk];W[qg];B[qq];W[rq];B[pr];W[qr];B[pq];W[ro];B[lo];W[nn];B[pk];W[qk];B[ql];W[pl];B[ok];W[rl];B[qj];W[qm];B[rk];W[ql];B[qi];W[nm];B[oh];W[og];B[nh];W[oe];B[nd];W[mf];B[ld];W[kf];B[cn];W[fq];B[bp];W[cq];B[hq];W[cl];B[en];W[hp];B[iq];W[gq];B[ci];W[el];B[bq];W[br];B[cp];W[dq];B[do];W[ip];B[jp];W[jo];B[kp];W[ei];B[ar];W[bs];B[dg];W[kc];B[kd];W[jd];B[lc];W[kb];B[lb];W[lh];B[lj];W[cj];B[bj];W[bi];B[ck];W[dj];B[bl];W[dk];B[bk];W[ch];B[db];W[fg];B[ki];W[bg];B[bf];W[re];B[rd];W[ih];B[ng];W[qd];B[pd];W[pe];B[qc];W[nf];B[lf];W[lg];B[je];W[mi];B[mk];W[jg];B[ke];W[jj];B[qf];W[rf];B[ph];W[pf];B[qd];W[pg];B[rh];W[rg];B[rj];W[af];B[ae];W[ag];B[be]
+(
+;W[ib];B[jc];W[ic];B[ka];W[jb]
+(
+;
+)
+(
+;LB[gm:A][gr:B][ie:C][rr:D]FG[259:]PM[2]
+(
+;B[gr]C[正解];W[fr]
+;LB[go:a][gp:b][hn:c]B[hr]C[地味ながら最大、黒 a 以降で白の眼形を脅かす可能性が生じた]
+(
+;W[if];B[ai];W[di];B[cg];W[aj];B[ak];W[bh]
+;B[hl]C[ここまで踏み込める]
+)
+(
+;FG[259:]PM[2];W[gm];B[ie];W[he];B[hf];W[gf];B[hg];W[hh];B[jl]
+)
+
+)
+(
+;FG[259:]PM[2]
+)
+
+)
+
+(
+;FG[259:]PM[2];B[rr];W[sr];B[rs]
+;W[gr]C[これが大きい]
+;B[ie];W[he];B[hf];W[gf];B[ir];W[jl]
+)
+
+(
+;FG[259:]PM[2]
+;B[ie]C[6 点、白マガリが大きい]
+;W[gr]C[先手 7 目程度に相当]
+;B[he];W[gc];B[ir];W[gm]
+)
+
+(
+;FG[259:]PM[2];B[gm]C[8 点];W[gr];B[gk];W[hj];B[ie];W[ir];B[jq]
+;LB[kr:a]W[hr]C[白 a も残って下辺は大差]
+)
+
+)
+(
+;FG[259:]PM[2];W[tt];B[ib];W[jc];B[gc];W[gb]
+;B[hc]C[白 132 を怠ると事件発生]
+)
+
 )
