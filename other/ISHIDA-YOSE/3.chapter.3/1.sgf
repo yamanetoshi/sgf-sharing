@@ -1,0 +1,45 @@
+
+(;GM[1]FF[4]SZ[19]CA[UTF-8]ST[2]AP[GOWrite:3.0.18]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]
+;B[pd];W[dc];B[dq];W[qq];B[ce];W[do];B[cm];W[bo];B[gq];W[di];B[ck];W[cq];B[cr];W[dr];B[er];W[dp];B[eq];W[br];B[ds];W[bp];B[bi];W[cd];B[de];W[fd];B[hc];W[gb];B[ff];W[ge];B[gf];W[he];B[hf];W[ie];B[jg];W[nc];B[ke];W[qf];B[oe];W[qc];B[pg];W[pc];B[pp];W[qp];B[pn];W[op];B[no];W[oo];B[on];W[nq];B[fm];W[pi];B[qg];W[re];B[pj];W[jm];B[qi];W[jk];B[kp];W[jo];B[ln];W[gl];B[gm];W[hl];B[ej];W[gi];B[bs];W[ar];B[fk];W[ji];B[kj];W[jj];B[hj];W[hi];B[fh];W[ll];B[po];W[pq];B[ro];W[nk];B[mr];W[mq];B[lq];W[nr];B[in];W[jn];B[lh];W[nm];B[nn];W[fi];B[gk];W[hk];B[gj];W[ij];B[ih];W[ii];B[ei];W[pk];B[oj];W[ok];B[qk];W[ql]
+(
+;
+)
+(
+;LB[iq:A][kr:B][lr:C][rk:D]TR[ql]PM[2]FG[259:]
+;B[kr]C[下辺を守りつつ右下白へのヨセを見た手]
+;W[rm];B[rn];W[ms];B[lr];W[nj];B[sr];W[rr];B[kc]
+(
+;
+)
+(
+;FG[259:]PM[2]C[右下白について]
+;B[np];W[oq];B[sq];W[rq];B[sp];W[pr];B[os];W[ns];B[qs];W[rs]
+;B[ps]C[セキがある]
+)
+
+)
+
+(
+;FG[259:]PM[2];B[lr]C[8/10];W[jp];B[jq];W[iq];B[ip];W[fl];B[el];W[hp];B[io];W[hq];B[go]
+(
+;
+)
+(
+;LB[jr:a][gr:b][mp:c]PM[2]C[白 a, b のはねからの c からの攻め取りの怖れあり]FG[259:]
+)
+
+)
+
+(
+;FG[259:]PM[2];B[iq]C[6/10 ];W[lr];B[kr]
+;LB[rn:a][lp:b][ls:c][ko:d]W[rm]C[a と一子を助けたいが白 b、黒 c 白 d となると大変 (右下]
+)
+
+(
+;FG[259:]PM[2]
+;B[rk]C[6/10 小さい]
+;W[nj];B[kc]
+;LB[oi:a][qj:b]W[bd]C[白 a、黒 b のときに黒 1 が形として (ry]
+)
+
+)
