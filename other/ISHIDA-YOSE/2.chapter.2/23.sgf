@@ -1,0 +1,24 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[kc][ke][nc][nd][qc][rd][qe][qf][rf][rg]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[ob][oc][pd][qd][pe][pf][qg][qh][rh][qj][nf]
+(
+;LB[qb:a][qa:b][ra:c]B[rb]C[大きい (逆ヨセ 10 目 (白からの場合先手になる
+
+△は a もある。△のあと、白 b、黒 c]
+)
+(
+;FG[259:]PM[2]
+;W[rb]C[白からはオキがきびしい]
+(
+;B[rc];W[qb];B[se];W[sb]
+;LB[sc:a][sd:b]B[sg]C[二眼はやむをえない]
+)
+(
+;FG[259:]PM[2]
+;B[qb]C[これは通用しない]
+;W[rc];B[ra];W[sd];B[re]
+;LB[se:a][sg:b][qa:c]W[sb]C[黒 a は白 b で大コウ、黒 c は白 b で死に (要検証]
+)
+
+)
+
+)

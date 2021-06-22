@@ -1,0 +1,28 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[qc][qb][pc][ob][pa][rd][re][qe][pe][rg][qg][ph][pi][oi][pk][ql]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[nb][oc][mc][od][oe][pd][qd][pf][qf][rf][pg][nf][oh][nh]
+(
+;B[sf]C[このワタリがどの程度大きいのか]
+(
+;
+)
+(
+;TR[sf]PM[2]C[わたれば何もいうことはない (逆ヨセ 9 目]FG[259:]
+)
+
+)
+(
+;FG[259:]PM[2];W[sg];B[rh];W[sh];B[si];W[sf];B[ri];W[rc];B[rb];W[se];B[sc];W[sd]
+;B[rc]C[白は全部先手で打てる]
+)
+
+(
+;TR[ri]AB[ri]PM[2]C[△に石がある配置なら]FG[259:]
+;W[se]
+;LB[sg:a][sf:b][sd:c][sc:d]B[rc]C[この後、黒 a、白 b と白 c、黒 d と見る。とすると白 1 は先手 5 目。仮に 2 の所に黒石があるとすると白 b のさがり後手 4 目にしかならない]
+)
+
+(
+;FG[259:]PM[2]
+)
+
+)

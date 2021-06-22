@@ -1,0 +1,31 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[pc][mc][qe][qf]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]C[白がつけっぱなしの形から]AW[kc][rf][qh][pi][pk][ql]
+(
+;B[rg];W[qg]
+;B[re]C[取るのは何目か]
+(
+;
+)
+(
+;TR[rg]FG[259:]PM[2]
+(
+;LB[sf:a]W[sh]C[a さがりを狙う手筋]
+;B[rh];W[ri]
+;B[sf]C[これは逆ヨセ 9 目]
+)
+(
+;FG[259:]PM[2]
+;W[rh]C[おさえるのは]
+;LB[sh:a][ri:b][si:c][sj:d][sg:e][rj:f]B[sf]C[抜いた後の黒 a 以降白 f までになる]
+)
+
+)
+
+)
+(
+;FG[259:]PM[2]
+;W[rg]C[白からはこれが先手 (先手 9 目]
+;B[re];W[se];B[sd];W[sf];B[rd]
+)
+
+)

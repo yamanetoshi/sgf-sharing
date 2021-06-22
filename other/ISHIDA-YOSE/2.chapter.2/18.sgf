@@ -1,0 +1,17 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[qc][pc][ob][rd][qe][se][rf][qh][qj]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[rc][qb][qd][pd][od][oc][nb][jc]
+(
+;B[sc]
+;W[rb]C[小さい]
+)
+(
+;FG[259:]PM[2];B[rb];W[pb]
+;B[sc]C[これが正解ですが計算がややこしい (後手約 10 目]
+)
+
+(
+;FG[259:]PM[2]
+;LB[sd:a][re:b]W[sc]C[白 a, 黒 b となる]
+)
+
+)

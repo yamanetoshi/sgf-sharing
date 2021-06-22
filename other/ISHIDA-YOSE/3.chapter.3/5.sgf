@@ -1,0 +1,41 @@
+
+(;GM[1]FF[4]SZ[19]CA[UTF-8]ST[2]AP[GOWrite:3.0.18]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]
+;B[qe];W[pc];B[pq];W[dp];B[cd];W[od];B[qi];W[ec];B[jc];W[dg];B[de];W[hc];B[dc];W[ed];B[ee];W[he];B[md];W[qg];B[pf];W[me];B[le];W[ne];B[pg];W[ld];B[kd];W[lc];B[mc];W[ke];B[lf];W[kb];B[jb];W[mb];B[je];W[hg];B[if];W[fg];B[fd];W[db];B[cb];W[hf];B[gc];W[gb];B[fb];W[dm];B[jq];W[qo];B[op];W[qj];B[rj];W[rq];B[qm];W[qr];B[pr];W[qn];B[rn];W[ro];B[on];W[pi];B[qk];W[io];B[hb];W[hq];B[di];W[fi];B[ck];W[bg];B[bm];W[bo];B[ek];W[bi];B[ch];W[cg];B[bj];W[ci];B[cj];W[dh];B[ai];W[bh];B[cn];W[dn];B[co];W[cp];B[bn];W[bp];B[ei];W[ko];B[lq];W[qh];B[pj];W[ph];B[ng];W[ni];B[oj];W[oh];B[nf];W[li];B[mi];W[rd];B[re];W[mh];B[nh];W[mj];B[oi];W[gk];B[fj];W[gj];B[fh];W[gi];B[eh];W[eg];B[gh];W[hh];B[dl];W[fm];B[rm];W[so];B[be];W[gg];B[lk];W[mk];B[lm];W[lp];B[mq]
+(
+;
+)
+(
+;LB[ll:C][qd:D][ir:A][jr:B]FG[259:]PM[2]
+(
+;
+)
+(
+;FG[259:]PM[2]
+;W[jr]C[B=正解、ツケ一本]
+;B[kr];W[qd];B[lg];W[se];B[sf];W[sd];B[qf];W[ir];B[jn];W[jj];B[jo];W[jp];B[ip];W[kp];B[kq];W[iq];B[hp];W[gp];B[ho]
+;W[kn]C[シノゲている? (要検討]
+)
+
+(
+;FG[259:]PM[2]
+;W[ir]C[A = 8点、居直り]
+;B[jn];W[jo]
+;LB[qd:a][lg:b]B[jk]C[白 a に対する b が先手になる (K11?]
+)
+
+(
+;FG[259:]PM[2]
+;W[ll]C[C=6点、通常の感覚も。。。]
+;B[kl];W[ml];B[jn];W[jo]
+;B[mn]C[中央の荒れかたが酷い]
+)
+
+(
+;FG[259:]PM[2]
+;W[qd]C[D=5点、黒に逆襲のチャンス]
+;B[lg];W[se];B[sf];W[sd];B[qf];W[jr];B[jn];W[jo];B[kr];W[ir];B[jh];W[ji];B[ii];W[jj];B[ih];W[hi];B[ij]
+)
+
+)
+
+)

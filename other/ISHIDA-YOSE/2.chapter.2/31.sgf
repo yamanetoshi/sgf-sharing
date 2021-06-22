@@ -1,0 +1,39 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[qd][qe][qg][qh][qi][ie][id][hc][jc][jb][kb][kd][oc][ob][nd][ne][nf][mf][mg][lg]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[pf][pg][ph][ng][nh][mh][lh][kh][kg][jf][ig][je][jd][kc][lc][lb][mc][nc][md][me][lf]
+(
+;B[nb]C[この手が何目か (後手約11目]
+(
+;
+)
+(
+;FG[259:]PM[2]
+;W[tt]C[黒番として]
+;B[le]
+(
+;W[ke];B[kf];W[ld];B[lf]
+)
+(
+;FG[259:]PM[2]
+;LB[la:a]W[kf]C[つぎなら黒 a が先手]
+)
+
+)
+
+(
+;FG[259:]PM[2]
+;W[le]C[つぎで五目の地 (なので黒 1 まがりは 2.5 目]
+)
+
+)
+(
+;FG[259:]PM[2];W[nb]
+(
+;
+)
+(
+;FG[259:]PM[2];B[tt];W[oa];B[pb];W[pa];B[qa];W[na];B[qb]
+)
+
+)
+
+)
