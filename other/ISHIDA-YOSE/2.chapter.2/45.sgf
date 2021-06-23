@@ -1,0 +1,26 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[pd][pf][oj][qj][kd][oc]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[jd][ke][kc][lc][nc][nd]
+(
+;B[ob]C[逆ヨセ15目]
+)
+(
+;FG[259:]PM[2]
+;LB[ob:a][qd:b]W[qc]C[通常は a に打って中で生かして外の白を攻める。この配置では外の白が強いのでわたらせる。]
+;B[qd];W[ob];B[pc];W[pb];B[qb]
+(
+;
+)
+(
+;FG[259:]PM[2]C[この後]
+;W[rb];B[rc]
+;W[qa]C[わたる手がある]
+)
+
+(
+;FG[259:]PM[2];B[pa];W[oa];B[rb]
+;LB[ra:a][rc:b]W[qa]C[この後、白 a、黒 b]
+)
+
+)
+
+)
