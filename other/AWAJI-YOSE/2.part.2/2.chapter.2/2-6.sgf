@@ -1,20 +1,34 @@
 
-(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[fq][iq]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[dq][co][cl]
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[fq][iq][kq]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[dq][eo][co]
 (
-;B[dp];W[cp];B[dr];W[cr];B[eq]
-;W[cq]C[星三つだが黒先手 (白を固めるので注意]
+;B[er]C[こすみは星三つ]
+(
+;W[dr];B[ds];W[cs];B[es]
+;W[cr]C[先手なので黒満足]
 )
 (
 ;FG[259:]PM[2]
-;W[er]C[これも星三つ。逆ヨセで打つ場合は大きさに注意]
-(
-;B[fr]C[下辺がはっきり黒地ならこれも星三つ、てことはタイミングによれば E2 も先手になるのでヨセの価値がさらに大きくなる]
+;W[tt]C[こすみに白手抜き]
+;B[cr];W[dr];B[ds];W[cq];B[br];W[bq];B[ar]
+)
+
 )
 (
 ;FG[259:]PM[2]
-;B[tt]C[手抜き]
-;W[fr];B[gq]
-;W[is]C[スベることできたら星三つ半、ただ G3 手抜きの可能性はあるのでタイミングがアレ]
+;W[er]C[白こすみも星三つ]
+(
+;B[fr]
+)
+(
+;FG[259:]PM[2]
+;B[tt]C[黒手抜き]
+(
+;W[fr];B[gq];W[gr];B[hr]
+)
+(
+;FG[259:]PM[2]
+)
+
 )
 
 )

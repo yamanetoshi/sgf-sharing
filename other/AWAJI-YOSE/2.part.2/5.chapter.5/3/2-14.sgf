@@ -1,0 +1,40 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[co]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[dq]
+;W[dl];B[dn];W[fp];B[bq];W[jq]
+;AW[gp][hp][dk][ck][ci]AB[bk][bl][cl][dm]
+;B[cr]
+(
+;W[dr];B[ds];W[es];B[cs]
+;W[eq]C[相場の進行、黒先手 9 目、この白の受けは応用の利く手]
+)
+(
+;FG[259:]PM[2]
+;W[cp]C[白が手抜く場合、ここが must]
+;B[bp];W[tt]
+(
+;B[dr]
+;TR[cp]W[er]C[△はこう押さえた時の F2 のハサミツケを防いでいる]
+;B[fr];W[es];B[eq];W[fq];B[ep]
+;TR[cp]W[eo]C[△の働きで黒取れる]
+)
+(
+;FG[259:]PM[2]
+;B[er]C[ハサミツケが成立しないのでこうヨセる (星二つ半]
+;W[dr];B[ds]
+(
+;TR[cp]W[gr]C[ユルめて止める、ここでも△が働いている]
+;B[fr];W[gs]
+)
+(
+;FG[259:]PM[2]
+;LB[fs:a]W[fr]C[ツケると a とハネられる、]
+;B[fs]
+;W[gr]C[コウを避けてユルめると]
+;B[gs]C[ハワれて 2 目損]
+)
+
+)
+
+)
+
+)
