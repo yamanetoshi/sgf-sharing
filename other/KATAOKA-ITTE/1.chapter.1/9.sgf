@@ -1,0 +1,30 @@
+
+(;GM[1]FF[4]SZ[19]CA[UTF-8]ST[2]AP[GOWrite:3.0.18]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]
+;B[qd];W[dc];B[dq];W[pp];B[ce];W[dh];B[fe];W[gd];B[fd];W[fc];B[gc];W[hc];B[gb];W[fb];B[hb];W[ic];B[cc];W[dd];B[cd];W[ib];B[ge];W[hd];B[db];W[eb];B[cb];W[cl];B[cn];W[oc];B[pf];W[el];B[en];W[nq];B[qj];W[iq];B[gq];W[cq];B[dr];W[qo];B[cj];W[ei];B[ej];W[fj];B[dj];W[fk];B[bl];W[bm];B[cm];W[bk];B[dl];W[al];B[ck];W[dm];B[bl];W[pg];B[cl];W[qf];B[pe];W[qh];B[qm];W[pl];B[ql];W[pj];B[pk];W[ok];B[qk];W[oj];B[on];W[qc];B[rc];W[pc];B[nf];W[rb];B[rd];W[nd];B[lf];W[mg];B[ne];W[ng];B[ld];W[ke];B[le];W[lb];B[kb];W[lc];B[kd];W[kc]
+(
+;LB[gh:A][kh:B]B[if]
+(
+;
+)
+(
+;FG[259:]PM[2];W[gh]
+;B[kh]C[左右の白が攻められる]
+;W[kp];B[ol];W[nl]
+;B[om]C[下辺だけでは小さい]
+)
+
+(
+;FG[259:]PM[2];W[kh]
+;LB[je:a]B[jg]C[a で分断されるのでこの受けは仕方ない]
+;W[ii]C[F11 の切りを緩和]
+;B[gh];W[gi];B[fh];W[fi];B[ol];W[nl];B[om];W[kp]
+)
+
+)
+(
+;FG[259:]PM[2]
+;B[kh]C[こうするべきだった]
+;W[ih]C[全体を攻められる可能性があるが、この変化を選ぶべきだった]
+)
+
+)

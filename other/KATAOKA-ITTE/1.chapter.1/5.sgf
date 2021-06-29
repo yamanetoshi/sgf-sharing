@@ -1,0 +1,29 @@
+
+(;GM[1]FF[4]SZ[19]CA[UTF-8]ST[2]AP[GOWrite:3.0.18]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]
+;B[pd];W[dp];B[pq];W[dd];B[fq];W[dn];B[jp];W[qo];B[qm];W[oo];B[np];W[pl];B[qp];W[ql];B[ro];W[qn];B[cf];W[fc];B[cj];W[ch];B[bh];W[qf];B[nc];W[rd];B[qc];W[lc];B[id];W[le];B[pf];W[qg];B[pg];W[ph];B[oh];W[pi];B[if];W[je];B[ie];W[kg];B[ng];W[ef];B[cg];W[dh];B[ci];W[ih];B[kd];W[ld];B[gg];W[hg];B[gf];W[hf];B[ge];W[he];B[gd];W[hd];B[gc];W[hc];B[fb];W[hb];B[ec];W[ed];B[dc];W[cc];B[cb];W[db];B[eb];W[bb];B[cd];W[ca];B[bd];W[gh];B[fh];W[gb];B[fd];W[ea];B[gi];W[fa];B[fc];W[hh];B[fg];W[dr];B[hp];W[cl];B[rn];W[rm];B[no];W[sn];B[rp];W[rc];B[mb]
+;LB[er:A][rb:B]W[lb]
+(
+;
+)
+(
+;FG[259:]PM[2];B[rb];W[fr];B[gr];W[eq];B[fp];W[gs];B[hs];W[fs]
+;B[hr]C[先手でよせられた]
+)
+
+(
+;FG[259:]PM[2]
+;B[er]C[両先手に近い大場 (両先手10目 (星四つ]
+;W[eq];B[fr];W[ne];B[rb]
+(
+;W[cq]C[必要]
+)
+(
+;FG[259:]PM[2]
+;W[on]C[守らない場合]
+;B[cq];W[dq];B[cr];W[ds];B[bo];W[bn];B[co];W[cn]
+;B[ar]C[守らないと生きられる]
+)
+
+)
+
+)
