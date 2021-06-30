@@ -1,0 +1,46 @@
+
+(;GM[1]FF[4]SZ[19]CA[UTF-8]ST[2]AP[GOWrite:3.0.18]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]
+;B[qd];W[dc];B[pq];W[dq];B[oc];W[qo];B[qm];W[oo];B[np];W[lp];B[no];W[pm];B[ql];W[nn];B[mn];W[nm];B[lo];W[pj];B[qj];W[qi];B[pk];W[rj];B[qk];W[pi];B[nk];W[mm];B[op];W[qn];B[oj];W[qf];B[of];W[pe];B[rg];W[rf];B[qg];W[pg];B[pf];W[og];B[qe];W[nf];B[oe];W[ne];B[od];W[oi];B[mj];W[mh];B[kj];W[km];B[ko];W[hp];B[cj];W[cf];B[dn];W[cp];B[co];W[cm];B[dm];W[bo];B[bn];W[cn];B[do];W[bp];B[bm];W[cl];B[bl]
+;LB[dj:A][ej:B]W[dk]C[左辺の戦いをどう収めるか]
+(
+;
+)
+(
+;FG[259:]PM[2];B[dj];W[ek];B[ck];W[dl];B[ej]
+;W[fk]C[これで下辺の黒が危険に]
+;B[fm];W[jk];B[jj];W[ik];B[eq];W[er];B[dp];W[cr];B[fq]
+;LB[hi:a]W[hn]C[白a で右辺も微妙になる]
+)
+
+(
+;FG[259:]PM[2]
+;B[ej]C[かけて捨てる]
+(
+;W[ck];B[ek];W[dj];B[di];W[bj];B[ci]
+;W[bk]C[黒三子取り]
+;B[bi];W[an]
+;B[fh]C[弱い石が厚みに (白の儲けは10目程度]
+(
+;W[dg]
+;B[im]C[右辺の弱い石も模様の一部に]
+;W[rq];B[jq]C[大場]
+)
+(
+;FG[259:]PM[2]C[D13 を打たないと]
+;B[cd]C[打ち込みが発生]
+;W[cc];B[ce];W[df];B[bf];W[bg];B[ed];W[dd];B[de];W[ee];B[ef];W[fe];B[cg];W[dg]
+;B[eg]C[取られている、のか]
+)
+
+)
+(
+;FG[259:]PM[2]
+;W[ek]C[単に伸びるのは]
+;B[ck]C[ここがポイント高い]
+;W[dl];B[fk];W[fl];B[dj];W[el];B[gl];W[gk];B[fj];W[gm];B[hl];W[fm];B[hm];W[go];B[hn];W[fo]
+;B[po]C[左下は取れるが右下が相当危険]
+)
+
+)
+
+)

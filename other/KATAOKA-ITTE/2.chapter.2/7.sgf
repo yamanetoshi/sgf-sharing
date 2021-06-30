@@ -1,0 +1,30 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[pd][pc][qg][cp][eq][cj][cg][md][jd][jc][je][ie][he][jh][ji][hi][hh][hj][jm][lm][mm][ll][nl][no][oo][po][qo][pp][oq][pr]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]C[大ヨセの入口、大場は広いところだけとは限らない]LB[ip:A][co:B][ce:C][bf:D]AW[dd][fc][gd][hd][id][lc][ld][le][lg][kh][kj][jk][hl][gi][ei][eg][gq][kp][mq][pq][qp][qq][qr][rq][pn][qk][ok][nk][mk][ml]
+(
+;
+)
+(
+;FG[259:]PM[2]
+;LB[nr:a]W[ip]C[a が右下に利いているのでこの手は小さい]
+;B[bd]C[20目]
+)
+
+(
+;FG[259:]PM[2];W[co];B[dp];W[bp];B[bq];W[cl]
+;B[bd]C[やはりスベリが大きい]
+)
+
+(
+;FG[259:]PM[2]
+;LB[bf:a]W[ce]C[すべりは防げるが a 先手]
+)
+
+(
+;FG[259:]PM[2]
+;W[bf]C[ここまで (出入り30目]
+;B[iq]C[この打ち込みよりもB14が大きい]
+;W[ip];B[hq];W[hp];B[gr];W[gp];B[fq]
+;LB[ce:a][cf:b]W[in]C[黒aにはbで無問題]
+)
+
+)
