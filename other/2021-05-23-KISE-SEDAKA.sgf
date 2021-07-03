@@ -27,11 +27,18 @@
 (
 ;W[cm];B[bm];W[cl];B[bl];W[co];B[bo];W[dn];B[bn];W[bj];B[ck];W[dk];B[cj];W[ci];B[bi];W[bh];B[aj];W[ah];LB[lb:A]B[ro];W[rn];B[rp]
 (
-;W[pm]
+;W[pm];B[on];W[op];B[np];W[oq];B[or];W[pp];B[pr]
+(
+;W[mb];B[lb];W[la];B[mc];W[nb];B[oc];W[ob];B[pb];W[ma];B[rm];W[qm];B[rl];W[oj];B[ni];W[sn];B[pn];W[qn];B[qj];W[rk];B[si];W[no];B[mo];W[nm];B[nn];W[mn];B[mm];W[ol];B[ln];W[oo];B[nl];W[pj];B[ir]
+)
+(
+;FG[259:]PM[2];W[lb];B[mb];W[nb];B[ma];W[mc];B[nc];W[md];B[ob];W[jd]
+)
+
 )
 (
 ;FG[259:]PM[2];W[op];B[np];W[no];B[mo]
-;LB[mn:A][nm:B]W[nn]
+;C[A, B が見合い]LB[mn:A][nm:B]W[nn]
 )
 
 )
