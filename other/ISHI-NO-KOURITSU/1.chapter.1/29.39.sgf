@@ -1,0 +1,23 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]C[つけのび問題]PW[ ]GN[ ]PM[2]AB[pd]PB[ ]
+;W[qf];B[pf];W[pg];B[of];W[qd];B[qc]
+;W[qe]LB[pc:A][oc:B]
+(
+;B[pc]
+;W[qj]C[A には B とおさえることができる]LB[rc:A][rb:B]
+;
+)
+(
+;B[oc]C[かけつぎは損]
+;W[rc]C[はねが先手になる]
+;B[qb];W[qj]
+)
+
+(
+;PM[2]FG[259:]
+;B[od]C[こう守るのも]
+;W[rc]C[はねが先手]
+;B[qb]
+)
+
+)

@@ -1,0 +1,36 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]C[右上の勢力拡大にはどちらに?]LB[nd:A][me:B]PW[ ]GN[ ]PM[2]AW[nc][pc][qc][rc][rd][qf]AB[pd][qd][qe][re][qh][od]PB[ ]
+(
+;B[me]C[こちらが正しい、A と封鎖する手段も狙っている]LB[mc:A]
+(
+;W[mc]C[白、受けるのであればこれが形]
+;
+)
+(
+;PM[2]FG[259:]
+)
+
+)
+(
+;B[nd]
+(
+;W[mc]C[車の後押し]
+;B[md];W[ld];B[le]
+;W[ke]C[白、立派な形]
+)
+(
+;PM[2]FG[259:]
+;W[nb]C[損な受け方]
+;B[ld]
+)
+
+)
+
+(
+;PM[2]FG[259:]
+;W[nd]C[白からだとここが好点]
+;B[ne];W[me];B[nf]
+;W[mf]C[盛り上げる]
+)
+
+)
