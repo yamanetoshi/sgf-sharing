@@ -1,0 +1,74 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[pj][qf][lc]AB[rd][pd][nc]PB[ ]
+;W[re];B[qe]
+;W[rf]C[どちらで補強?]LB[ne:A][pf:B]
+(
+;B[ne]C[守りの形。白からは手段の余地はない]
+;W[qc];B[qd]
+;W[rc]C[手を付けられた場合どちらで対応?]LB[sc:A][sd:B]
+(
+;B[sd]C[さがりが正解]
+;W[ob];B[nb];W[oc]
+;B[od]C[これは死んでる形]
+(
+;W[pc]C[つがれたとき、A と B どちら?]LB[sc:A][pa:B]
+(
+;B[pa]C[こちらが急所]
+;W[oa];B[sc];W[sb];B[rb];W[ra]
+;B[qb]C[だめづまりで A, B に入ることができない]LB[pb:A][qa:B]
+;
+)
+(
+;B[sc]C[まがりは?]
+;W[sb]
+(
+;B[rb]
+;W[ra]C[こうに粘られて黒不十分]
+;
+)
+(
+;PM[2]FG[259:]
+;B[ra]C[まがっておきは?]
+(
+;W[qb];B[rb]
+;W[na]C[A, B が見合い]LB[mb:A][qa:B]
+)
+(
+;PM[2]FG[259:]
+;W[rb]C[つぎは失着]
+;B[pa];W[oa]
+;B[qb]C[なかでで死に]
+)
+
+)
+
+)
+
+)
+(
+;PM[2]FG[259:]
+;W[ra]C[これも死に]
+;B[sb];W[sc];B[pb];W[pc];B[oa]
+)
+
+)
+(
+;B[sc];W[sb];B[sd]
+;W[ra]C[はねは失着で生きられる]
+;B[qb];W[pb];B[pc]
+;W[rb]C[白生き。ただし A, B に黒石がある場合は黒 C が成立]LB[na:A][nb:B][pa:C]
+;
+)
+
+)
+(
+;B[pf]C[はねは不十分]
+;W[pg]
+;B[og]C[二段ばねが好調に見えるが]
+;W[qc];B[qd]
+;W[of]C[味を消す好手順]
+;B[pe]
+;W[ph]C[団子にした後 A のおさえが狙い]LB[rc:A]
+)
+
+)

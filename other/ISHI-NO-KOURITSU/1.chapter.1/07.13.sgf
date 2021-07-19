@@ -1,0 +1,38 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[pd][fq][kp][lp][mq][nq][oq][pq][qp][rp][rr][ro][rn][rm][pk]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[dd][pg][dp][cn][qq][qr][pp][op][np][mp][qo][qn][qm][ql][rl]
+;B[qi];W[pi];B[pj]
+;LB[ri:A][nk:B]W[oi]C[つけのびにどちらで対応?]
+(
+;LB[nk:A][qf:B]B[ri]C[さがりが良い応手で A と B を見合いにしている]
+(
+;W[nk];B[qf];W[qg];B[rg];W[rh]
+;B[qh]C[連絡できる (できてる?]
+;
+)
+(
+;FG[259:]PM[2];W[rg]
+;B[nk]C[わたりを防げばこちらにとぶ]
+;W[mn]
+;B[lk]C[右下白の一段が弱くなる]
+)
+
+)
+(
+;FG[259:]PM[2];B[nk]
+;W[qj]C[とびはきりを許して不満]
+;B[qk];W[rj];B[rk]
+;W[sk]C[連絡されると黒だけ一方的に弱くなる]
+)
+
+(
+;FG[259:]PM[2]
+;B[rj]C[このかけつぎは]
+;W[nk]C[封鎖されてよろしくない]
+;B[ol]
+;W[nl]C[中央への進出が難しい]
+;B[qg]C[生きを目指すが]
+;W[qf];B[rg];W[pe];B[re]
+;W[qd]C[右上黒が傷んでは黒失敗]
+)
+
+)

@@ -1,0 +1,15 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[dd][dp][cq][cn][po][qn][qp][qq]AB[pd][fq][dr][hp][pp][pq][oo][on][pl]PB[ ]
+;W[op];B[np];W[oq]
+;B[pr]C[捨て石の手順、白はどちらに打つ?]LB[or:A][nr:B]
+(
+;W[nr];B[pn];W[qo];B[nq];W[or];B[mr];W[qr]
+;B[lq]C[この守りが必要になるので先手を取ることができる]
+;
+)
+(
+;W[or];B[pn];W[qo];B[nr];W[qr];B[nq]
+;W[ps]C[先手でしめつけられて不十分]
+)
+
+)

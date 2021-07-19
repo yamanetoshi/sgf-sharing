@@ -1,0 +1,35 @@
+
+(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[pd][pp]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[dd][dp]
+;B[fc];W[cf]
+(
+;B[db]
+;LB[jd:A][ic:B]W[cc]C[どちらにひらくか]
+(
+;B[ic]C[定石手順]
+;
+)
+(
+;FG[259:]PM[2];B[jd]
+;TR[db]W[hc]C[打ち込みあり、△□の交換が損になる]SQ[cc]
+;B[fe];W[he];B[fg];W[ef];B[ff]
+;LB[nc:A]TR[jd]W[hg]C[競り合い白好調。左上黒不安定で白 A に先着されると△も弱くなる]
+)
+
+)
+(
+;FG[259:]PM[2]
+;LB[db:A][cc:B]B[jd]C[大きく開きたいのであれば、A, B の交換は決めずに打つ]
+;W[hc]C[打ち込みに]
+(
+;B[dc];W[cc]
+;B[cb]C[さばく手段が残っている]
+)
+(
+;FG[259:]PM[2]
+;B[cc]C[三々に変化する手段もある]
+;W[dc];B[db];W[eb];B[cb];W[ec];B[be]
+)
+
+)
+
+)
