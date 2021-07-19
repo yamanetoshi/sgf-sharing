@@ -1,4 +1,28 @@
 
 (;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[qm][qn][ro][rp][qp][pq][pr][qr][nn][mn][np][lo][lp][kq][jq][dp][cq][cn][dd]AB[pd][fq][dr][iq][ip][kp][ko][ln][mm][nm][pm][qk][pn][po][pp][qo][qq][op][oq][or]PB[ ]
 ;W[mq]C[下辺を生きたところ。黒はどちらを選択する?]LB[fc:A][jd:B]
+(
+;B[jd];W[hc]
+;B[he]C[つめにはぼうし]
+;W[fc];B[dm];W[cm];B[dk];
+)
+(
+;B[fc]
+(
+;W[jd]
+)
+(
+;PM[2]FG[259:]
+;W[hc]LB[cc:A][fe:B]
+(
+;B[fe];W[df];B[id];W[ic];B[jd];W[hd];B[he];W[jc];B[kd];W[lc];B[me];W[ge];B[gf];W[gd];B[hf];W[fd];B[dm];W[cm];B[dk];
+)
+(
+;B[cc];W[dc];B[cd];W[de];B[db];W[eb];B[cb];W[ec];B[cf];W[kc]
+)
+
+)
+
+)
+
 )
