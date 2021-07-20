@@ -1,0 +1,41 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[dd][cf][cc][dp][cq][fq][jp][nq]AB[pd][fc][db][ic][cn][bp][ck][pp][pn]PB[ ]
+;W[ql]C[1 のつめにどちらで対応するか]LB[qi:A][qm:B]
+(
+;B[qi]C[はさみかえすのが正着]
+;W[ol];B[nn]
+(
+;W[ml];B[ln];W[qf]
+;B[oi]C[黒は十分に戦える]
+;
+)
+(
+;PM[2]FG[259:]
+;W[rn]C[すべりで変化してきた。どう受けるのか]LB[qo:A][qq:B]
+(
+;B[qq]C[こちらが正着]
+;W[mp];B[pk];W[pl];B[ml];W[nk];
+)
+(
+;B[qo]C[これは悪い]
+;W[ro];B[rp];W[qq];B[qp];W[pq]
+)
+
+)
+
+)
+(
+;B[qm]
+;W[pl]C[白を強化している]
+;B[oq]
+;W[np]C[白を強化、黒には依然 A, B の弱点がある]LB[qq:A][qo:B]
+;B[qq]C[こう守る人が多い]
+;W[or];B[pr];W[op];B[pq];W[qf]
+)
+
+(
+;PM[2]FG[259:];B[pl];W[pk];B[ol];W[qm];B[qn]
+;W[qi]C[つけのびはよくない、A, B の弱点残り]LB[pm:A][pr:B]
+)
+
+)
