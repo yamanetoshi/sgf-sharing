@@ -10,7 +10,39 @@
 (
 ;W[pq];B[pr];W[qr];B[pp];W[qq];B[po];W[qn]
 (
-;B[fq]
+;B[fq];W[dn];B[dr]
+(
+;W[hq];B[cq];W[eq];B[er];W[fp];B[gp];W[gq];B[fr]
+;C[A としたいがしちょう悪い]LB[go:A]W[ip]
+;C[ふつうは A]LB[bo:A]B[bn]
+(
+;C[いまさら A とは取れない]LB[go:A]W[mq]
+(
+;B[pn];W[qm]
+;C[黒 7十六の石の動き出]B[pm]
+)
+(
+;FG[259:]PM[2];B[fo];W[ep]
+;C[切り離されるリスクあり]B[gn]
+)
+
+)
+(
+;FG[259:]PM[2]
+;C[しっかりつながっておく]W[go]
+)
+
+(
+;FG[259:]PM[2]
+;C[こちらから、もあり]W[qf]
+)
+
+)
+(
+;FG[259:]PM[2];W[cq]
+;C[△が浮く]B[iq]TR[lp]
+)
+
 )
 (
 ;FG[259:]PM[2];B[jq]
