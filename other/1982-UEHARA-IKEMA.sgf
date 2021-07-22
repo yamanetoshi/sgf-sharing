@@ -19,7 +19,24 @@
 ;C[いまさら A とは取れない]LB[go:A]W[mq]
 (
 ;B[pn];W[qm]
-;C[黒 7十六の石の動き出]B[pm]
+;C[黒 7十六の石の動き出しが怖い白]B[pm]
+;W[pl];B[ol]
+(
+;W[pk];B[qo];W[ro];B[rp];W[rn]
+(
+;B[oe];W[ne];B[of];W[qf];B[pd];W[nd];B[pg]
+;C[黒 A から始まる攻めを緩和]LB[fo:A][ep:B][gn:C]W[ml]
+;B[lo];W[ko];B[mp];W[lq];B[ln];W[hd];B[kn];W[hf];B[hc];W[gc];B[gd]
+)
+(
+;FG[259:]PM[2];B[fo];W[ep];B[gn]
+)
+
+)
+(
+;FG[259:]PM[2];W[ok];B[nl];W[nk];B[ml]
+)
+
 )
 (
 ;FG[259:]PM[2];B[fo];W[ep]
