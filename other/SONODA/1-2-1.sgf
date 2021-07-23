@@ -1,0 +1,53 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[dp][lc][od][pc][qc][qn]AB[dd][pp][qd][rc][re][pf]PB[ ]
+(
+;B[ql];W[pl]
+(
+;B[qk];W[on];B[np];W[pk]
+(
+;B[qj];W[pj];B[qi]
+;W[qq]C[a か b かを選ばせる]LB[qp:a][pq:b]
+)
+(
+;PM[2]FG[259:];B[pj];W[qj]
+(
+;B[qi];W[rj]
+;B[ri]C[捨て石、3 つの目を作らせつつ、自分を厚くするのに有用]
+;W[oj];B[pi];W[qm];B[rk];W[rl];B[sj];W[qq]
+)
+(
+;PM[2]FG[259:];B[oj];W[nk]
+(
+;B[qi];W[rj];B[ri];W[qm];B[rk];W[qq];B[qp];W[rp]
+)
+(
+;PM[2]FG[259:];B[rj];W[qi];B[ri];W[qh];B[rh];W[nj];B[ph];W[qq]
+)
+
+)
+
+)
+
+)
+(
+;PM[2]FG[259:];B[pk];W[pm];B[qk];W[ok];B[oj];W[nj];B[nk];W[ol];B[oi];W[np];B[qo]
+(
+;W[ro];B[rp];W[po];B[qp];W[op];B[oo];W[pn]
+;B[rn]C[ここで a とは打たないこと]LB[rm:a]
+;W[mk];
+)
+(
+;W[rn];B[no];W[mo];B[nn];W[mn];B[nm];W[nl]
+;B[mm]C[この変化はよくない]
+)
+
+)
+
+)
+(
+;PM[2]FG[259:]
+;B[jq]C[黒は強い石がある右にいくのはまずい]
+;W[qk];B[pn];W[pm];B[qo];W[on];B[po];W[rn];B[om];W[pl];B[nn];W[ol];B[nm]
+)
+
+)
