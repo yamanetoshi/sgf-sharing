@@ -27,6 +27,27 @@
 ;B[oe];W[ne];B[of];W[qf];B[pd];W[nd];B[pg]
 ;C[黒 A から始まる攻めを緩和]LB[fo:A][ep:B][gn:C]W[ml]
 ;B[lo];W[ko];B[mp];W[lq];B[ln];W[hd];B[kn];W[hf];B[hc];W[gc];B[gd]
+(
+;W[cd]
+(
+;B[dd];W[ic];B[hb]
+(
+;W[ib];B[id];W[he];B[gb];W[kc]
+)
+(
+;FG[259:]PM[2];W[id];B[ib];W[jc];B[jb];W[kc]
+)
+
+)
+(
+;FG[259:]PM[2];B[fc];W[ce];B[df];W[cc];B[db];W[bg]
+)
+
+)
+(
+;FG[259:]PM[2];W[ic];B[hb];W[id];B[ib];W[ec];B[fc];W[ed];B[eb];W[dd];B[cd];W[ee];B[cc];W[ge];B[gb];W[df]
+)
+
 )
 (
 ;FG[259:]PM[2];B[fo];W[ep];B[gn]
