@@ -1,0 +1,84 @@
+
+(;CA[UTF-8]GM[1]SZ[19]ST[2]AP[GOWrite:3.0.18]FF[4]PW[ ]FG[259:]GN[ ]PM[2]AB[pd][dp]PB[ ]
+;W[dd];B[pp];W[cn];B[fp]
+(
+;W[dj];B[pj];W[nc];B[pf];W[jd];B[me];W[ld];B[em];W[dl];B[cc];W[dc];B[cd]
+(
+;W[ce];B[be];W[cf];B[bf];W[cg];B[db];W[eb];B[cb];W[fc]
+)
+(
+;PM[2]FG[259:];W[cf]
+(
+;B[bf]C[先手をとる打ち方]
+(
+;W[cg];B[db];W[eb];B[cb];W[fc];B[ce]
+;W[de]C[この手は20目以上あるがすぐには打たない (生きている石の近くは小さい]LB[bg:A]
+)
+(
+;PM[2]FG[259:];W[bg]
+(
+;B[ce];W[df];B[de];W[ee];B[db];W[eb];B[cb];W[fc];B[ef];W[fe];B[be]
+;W[ch]C[黒先手]
+)
+(
+;PM[2]FG[259:]
+;B[de]C[はねだす手もある]
+;W[ce];B[db];W[eb];B[cb];W[fc];B[be]
+;W[cg]C[A 狙い]LB[ee:A]
+)
+
+)
+
+)
+(
+;PM[2]FG[259:];B[ce];W[de];B[bf];W[cg]
+;B[bg]C[ここで手抜かれる。のちに黒 A、白 B で切り味を狙う打ち方になる。また C のはねつぎを打っていないので上辺の消しに回れる。]LB[ch:A][dh:B][db:C]
+)
+
+)
+
+)
+(
+;PM[2]FG[259:];W[bp];B[cq];W[ck];B[pj];W[nc];B[pf];W[jd];B[me];W[ld];B[cc];W[dc];B[cd]
+(
+;W[ce];B[be];W[bf]
+(
+;B[db];W[eb];B[ec]
+(
+;W[de];B[fb];W[cb];B[ea];W[bb];B[hc];W[ib];B[hb]C[互角];
+)
+(
+;PM[2]FG[259:];W[cb]
+;B[de]C[両あたり]
+)
+
+(
+;PM[2]FG[259:];W[ed];B[cb]
+(
+;W[df]LB[jc:A]TR[jd]C[これは△が A にあるときに成立]
+;B[fc];W[fb];B[gc];W[gb];B[hc];W[hb]
+;B[ic]C[A に白があれば黒は B につぎ (別途確認]LB[jc:A][bd:B]
+)
+(
+;PM[2]FG[259:];W[bd];B[fc];W[fb]
+;B[fd]C[A, B が見合い]LB[de:A][gb:B]
+)
+
+)
+
+)
+(
+;B[cf];W[de];B[bg];W[bd];B[af]
+;W[bc]C[左は白が強いので小さい]
+)
+
+)
+(
+;PM[2]FG[259:]
+;W[de]C[先手を取る手段]
+;B[bf];W[nq]
+)
+
+)
+
+)

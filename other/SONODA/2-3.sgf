@@ -1,9 +1,8 @@
 
-(;CA[UTF-8]GM[1]SZ[19]ST[2]AP[GOWrite:3.0.18]FF[4]PW[ ]FG[259:]GN[ ]PM[2]AB[dd][pp][pd][dp]PB[ ]
+(;CA[UTF-8]GM[1]SZ[19]ST[2]AP[GOWrite:3.0.18]FF[4]PW[ ]FG[259:]GN[ ]PM[2]AB[dd][pd][dp][pp]PB[ ]
 ;W[qf]
 (
-;B[pj]C[そのださんおすすめ]
-;W[nc];B[oe];W[qc];B[qd];W[pc];B[me];W[ql]
+;B[pj];W[nc];B[oe];W[qc];B[qd];W[pc];B[me];W[ql]
 (
 ;B[mc]C[右上黒は生きていないのでこちらが大きい]
 (
@@ -12,8 +11,19 @@
 (
 ;PM[2]FG[259:];W[nd];B[md];W[ne];B[nf]
 (
-;W[mb];B[lb];W[nb];B[mf];W[rd];B[dj]
+;W[mb];B[lb];W[nb];B[mf];W[rd]
+(
+;B[dj]
 )
+(
+;PM[2]FG[259:];B[re];W[qe];B[rc];W[sd];B[se];W[od];B[pe];W[of];B[sc];W[rd];B[sd];W[pf]
+)
+
+)
+(
+;PM[2]FG[259:];W[of];B[nb];W[oc];B[pf];W[og];B[pg];W[oh];B[ph];W[oi];B[mg];W[pi];B[qi];W[qj];B[rh];W[rj];B[rd];W[ob];B[rb];W[mb];B[lb];W[na];B[qb]
+)
+
 (
 ;PM[2]FG[259:];W[of];B[nb];W[oc];B[pf];W[og];B[pg];W[oh];B[ph];W[oi];B[mg];W[pi];B[qi];W[qj];B[rh];W[rj];B[rd];W[ob];B[rb];W[mb];B[lb];W[na];B[qb]
 )
