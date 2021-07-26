@@ -1,0 +1,32 @@
+
+(;CA[UTF-8]GM[1]SZ[19]ST[2]AP[GOWrite:3.0.18]FF[4]PW[ ]FG[259:]GN[ ]PM[2]PB[ ]
+;B[dp];W[cd];B[ec];W[qd];B[od];W[mc];B[qc];W[pc];B[pd];W[oc];B[nc];W[nd];B[nb];W[qb];B[rc];W[ob]
+(
+;B[qe];W[mb];B[ne]
+;W[md]C[強い石に黒を近づけた形]
+)
+(
+;PM[2]FG[259:]
+;B[mb]C[左上に石があるのでこちらの方が良かった。
+ただしこれはしちょうが良い場合のみ]
+(
+;W[qe];B[pf];W[rb];B[oa];W[pb];B[lc];W[md];B[ld];W[mf]
+(
+;B[pe];W[le];B[qf];W[rd];B[re];W[sc];B[jd];W[ke];B[id]
+)
+(
+;PM[2]FG[259:]
+;B[le]C[うっかりのびると]
+;W[pe];B[oe];W[of];B[ne]
+;W[me]C[とられてしまう]
+)
+
+)
+(
+;PM[2]FG[259:]
+;W[md]C[このつぎで a, b が見合い (b のしちょうの具合次第]LB[lb:a][pe:b]
+)
+
+)
+
+)

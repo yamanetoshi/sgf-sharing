@@ -1,0 +1,37 @@
+
+(;CA[UTF-8]GM[1]SZ[19]ST[2]AP[GOWrite:3.0.18]FF[4]PW[ ]FG[259:]GN[ ]PM[2]AW[ic][dd][df][cj]PB[ ]
+;B[cc];W[dc]
+;B[bd]TR[df]C[△が働いているのでこすむ]
+(
+;W[cd]C[あてこみにどう受けるか]
+;B[bb];W[be];B[db]
+(
+;W[eb]C[ここで手抜いて白 A、黒 B のコウと黒 B、または C で生きるのを局面に応じて決める。白は黒を取りきるのに二手かかるので利かしになっている。5 をスル-だと一手で地になるので利かしになっている]LB[da:A][ca:B][ac:C]
+;B[db];W[eb];B[bb];W[da];B[ca]
+)
+(
+;PM[2]FG[259:]
+;W[ad]C[あててきた場合の変化]
+;B[fc]C[A につぐのはつらいので]LB[bc:A]
+;W[bc];B[gd];W[ie];B[gf];W[ig];B[cb]
+)
+
+)
+(
+;PM[2]FG[259:]
+;W[bf]C[ふわりと止めてきたら]
+;B[db];W[eb];B[bb];W[da];B[cb]C[生き]
+;W[ac]C[置きには?]
+;B[ab]C[一眼確保]
+;W[ad];B[be];W[ae];B[cf];W[cg];B[ce];W[bg];B[de];W[ee];B[ef];W[dg]
+;B[ed]C[一応生きだがまわりの白が強くなると要注意]
+)
+
+(
+;PM[2]FG[259:]
+;W[cb]C[これにはどう対応?]
+;B[bb];W[cd];B[bc];W[db];B[bf];W[bg];B[ba];W[ab];B[cf];W[ce];B[be];W[af]
+;B[cg]C[白ぼろぼろ]
+)
+
+)
