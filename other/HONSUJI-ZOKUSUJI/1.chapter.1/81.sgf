@@ -1,0 +1,15 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[rc][qd][pf][ne][mc]AB[od][pc][qc][rb]PB[ ]
+(
+;B[rd]C[ちぢこまった手]
+;W[re]
+;B[sc]C[黒 a とあてても b とあて返される]LB[qe:a][qf:b]
+)
+(
+;PM[2]FG[259:]
+;B[qe]C[けいまのつけこし]
+;W[qf]
+;B[re]C[こうなる相場で白 a は先手にならない]LB[rf:a]
+)
+
+)

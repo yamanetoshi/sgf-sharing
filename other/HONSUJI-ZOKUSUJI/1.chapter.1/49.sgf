@@ -1,0 +1,17 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[qd][qe][qf][pg]AB[pd][qc][jc][pf][of]PB[ ]
+(
+;B[oc]
+;W[rc]C[かけつぎははねられる]
+;B[qb]C[後手]
+)
+(
+;PM[2]FG[259:]
+;B[pc]C[かたつぎで a から迫る手を見る]LB[pi:a]
+)
+
+(
+;PM[2]LB[pf:a][pg:b][of:c][qd:d][qc:e][qe:f][pc:g]FG[259:]C[a から g までがつけのび定石の一つの形]
+)
+
+)

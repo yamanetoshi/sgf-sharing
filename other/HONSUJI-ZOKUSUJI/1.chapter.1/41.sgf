@@ -1,0 +1,16 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[pd][qe][pf][of][jc]AB[qc][qf][pg]PB[ ]
+(
+;B[pc]
+;W[nc]C[これが好手で黒 1 は悪いとされている]
+;B[nb];W[ob];B[oc];W[mb];B[nd];W[mc];B[od]
+;W[mf]C[黒、苦しい]
+)
+(
+;PM[2]FG[259:]
+;B[ob]C[これが正しい]
+;W[pc];B[pb];W[rc];B[rb];W[qd]
+;B[qb]C[a, b が見合いで黒は生き]LB[rd:a][mc:b]
+)
+
+)
