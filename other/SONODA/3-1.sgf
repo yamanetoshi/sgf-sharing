@@ -1,12 +1,10 @@
 
-(;CA[UTF-8]GM[1]SZ[19]ST[2]AP[GOWrite:3.0.18]FF[4]PW[ ]FG[259:]GN[ ]PM[2]AB[pp][dd][pd][dp]PB[ ]
+(;CA[UTF-8]GM[1]SZ[19]ST[2]AP[GOWrite:3.0.18]FF[4]PW[ ]FG[259:]GN[ ]PM[2]AB[pd][pp][dp][dd]PB[ ]
 ;W[nc];B[pf];W[fc];B[cf];W[jd];B[jp];W[qh]
 (
 ;B[ql]C[攻めず守らず]
 (
-;W[oh]
-(
-;B[qg];W[rh];B[nd];W[md];B[ne];W[ob];B[pb];W[pc];B[qc];W[oc];B[qb]
+;W[oh];B[qg];W[rh];B[nd];W[md];B[ne];W[ob];B[pb];W[pc];B[qc];W[oc];B[qb]
 (
 ;W[cn]
 (
@@ -38,12 +36,6 @@
 
 )
 (
-;PM[2]FG[259:]
-;B[ng]C[こうするべき]
-)
-
-)
-(
 ;PM[2]FG[259:];W[qj];B[qg];W[ph];B[nd];W[md];B[ne];W[ob];B[pb];W[pc];B[qc];W[oc];B[qb];W[cn];B[ok];W[nh];B[mk];W[lh];B[kk]
 )
 
@@ -52,7 +44,9 @@
 (
 ;B[ph]C[つけるのが良い]
 (
-;W[qi];B[pi];W[qj];B[pj];
+;W[qi];B[pi];W[qj]
+;B[pj]C[右上は地にしない]
+;
 )
 (
 ;PM[2]FG[259:];W[pi];B[qg];W[rg];B[qi];W[rh];B[qj]
@@ -68,10 +62,6 @@
 )
 
 )
-(
-;PM[2]FG[259:];W[pe];B[qe];W[qf];B[oe];W[pg];B[oh];W[og];B[nd];W[ng];B[oi];W[oc];B[pc];W[md];B[me];W[ld];B[re];W[lg];B[mh];W[mg];B[lj]
-)
-
 (
 ;PM[2]FG[259:];W[pe];B[qe];W[qf];B[oe];W[pg];B[oh];W[og];B[nd];W[ng];B[oi];W[oc];B[pc];W[md];B[me];W[ld];B[re];W[lg];B[mh];W[mg];B[lj]
 )
