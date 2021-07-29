@@ -1,0 +1,21 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[jc][mc][na][nc][oc][pc][qb][rb][rc]AB[id][hc][ld][lc][mb][md][nd][od][pd][qd][rd][qc]PB[ ]
+(
+;B[lb]C[ここに切られて取られるのを嫌った手]
+)
+(
+;PM[2]FG[259:]
+;B[oa]C[こんな手がある]
+(
+;W[nb]
+;B[lb]C[つぎが先手になる]
+;W[pb]C[ここに切られると終わる]
+)
+(
+;PM[2]FG[259:]
+;W[ob]C[こうなるのであれば a 切りはない]LB[lb:a]
+)
+
+)
+
+)

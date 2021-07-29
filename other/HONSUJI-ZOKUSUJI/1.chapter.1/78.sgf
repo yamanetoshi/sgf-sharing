@@ -1,0 +1,22 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[kd][jd][md][mc][pc][qd][qf]AB[pd][qc][nd][ne][me][le]PB[ ]
+;B[oc]C[あてはよいのだが]
+;W[pb]
+(
+;B[ob]C[これが誤り]
+;W[pe];B[od]
+;W[qb]C[白地が大きい]
+)
+(
+;PM[2]FG[259:]
+;B[qb]C[こちらが正しい]
+;W[ob]
+;B[qe]C[こっちにあてる]
+;W[rd]
+;B[nb]C[はねだして]
+;W[nc]
+;B[od]C[あてにつぎ]
+;W[mb];B[re]
+)
+
+)

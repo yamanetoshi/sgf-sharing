@@ -1,0 +1,24 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[nd][md][oc]AB[od][qd][nc][ne]PB[ ]
+(
+;B[pc];W[ob];B[nb];W[oe];B[pd];W[mb];B[pb];W[mc]
+;B[oa]C[4 切りが不満]
+)
+(
+;PM[2]FG[259:]
+;B[ob]C[こっちから]
+;W[pc]
+;B[pd]C[つぎが形]
+(
+;W[mc];B[nb];W[mb];B[qc]
+)
+(
+;PM[2]FG[259:]
+;W[nb]C[これだと]
+;B[mc];W[pb];B[mb];W[oa]
+;B[ld]C[しちょう不利なら a へ]LB[kc:a]
+)
+
+)
+
+)

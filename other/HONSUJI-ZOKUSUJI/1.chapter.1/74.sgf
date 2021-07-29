@@ -1,0 +1,21 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[rc][qc][pd][pe]AB[qd][pc][rd][nc]PB[ ]
+(
+;B[pb]C[さがって]
+;W[re];B[rb];W[qe]
+;B[qb]C[きかす打ちかた]
+;W[sd]C[二子抜かれては白の厚みに軍配]
+)
+(
+;PM[2]FG[259:]
+;B[rb]C[つけがうまい、白 a 以降は黒 d ととんで黒有利、なので白は隅を生きる必要がある]LB[pb:a][oc:b][qb:c][qf:d]
+;W[oc]C[白はこれ以降]
+;B[pb]
+;W[re]C[二子を捨てて]
+;B[qb];W[qe];B[sc]
+;W[nd]C[ここで a もあり]LB[qi:a]
+;B[ob]
+;W[md]C[まずまずのわかれ]
+)
+
+)
