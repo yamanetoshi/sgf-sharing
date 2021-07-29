@@ -1,0 +1,16 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[pb][oc][pc][qc][rd][re][qe][qf][pg][qh]AB[sc][rc][qb][ra][sa][qd][pd][od][nd][of][pf][ld][jc]PB[ ]
+(
+;B[nc]C[これには]
+;W[oa]C[こすみがある]
+;B[nb]
+;W[qa]C[ほうりこまれてこう]
+)
+(
+;PM[2]FG[259:]
+;B[oa]C[急所は同じ、白 a なら b]LB[pa:a][nc:b]
+;W[nb]C[こすみなら]
+;B[nc]C[つぎに白a なら b まで]LB[ob:a][mb:b]
+)
+
+)

@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[pe][oe][ne][me][le][ke][pa][pb][pc][oc][nc][ia][ib][ic][jb][kb][kc][lc][mb]AB[qd][qc][qb][qa][qe][qf][oa][nd][md][ld][kd][jd][id][hd][mc][lb][jc][hc][hb][ha]PB[ ]
+(
+;B[nb]
+;W[ma]C[後続手段がない]
+)
+(
+;PM[2]FG[259:]
+;B[ma]C[はねに a なら b でこう]LB[nb:a][ka:b]
+;W[la]C[とるなら]
+;B[nb]C[これでこう]
+)
+
+)

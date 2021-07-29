@@ -1,0 +1,15 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[rd][qc][pb][sc][rb][mc][me][jd][hc]AB[pc][oc][ob][oe][qd][qe][re][se][sd]PB[ ]
+(
+;B[pa]C[これ、または a で隅を取りきるのも良いがこれでは左に響かない]LB[rc:a]
+)
+(
+;PM[2]FG[259:]
+;B[oa]C[これで隅は取れている。a のとびこみを残しているのが大きい]LB[lb:a]
+;W[pa]C[生きにきても]
+;B[ra]C[つけて]
+;W[sa]
+;B[rc]C[白死に]
+)
+
+)

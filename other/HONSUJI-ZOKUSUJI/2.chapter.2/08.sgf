@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[ob][nb][mb][lc][le][me][ne][pe][pf][pg][rf][rg][rd][rc][qc][rb][sc]AB[pd][qd][qe][re][sd][pc][pb][qb][qa][oa][nc][nd]PB[ ]
+(
+;B[ra]
+;W[sb]C[あてると花六、初手 a も同様]LB[se:a]
+)
+(
+;PM[2]FG[259:]
+;B[sb]C[これしかない、白 a とりなら b つぎ]LB[sa:a][se:b]
+;W[se]C[取るしかない]
+;B[ra]C[あててこうに]
+)
+
+)
