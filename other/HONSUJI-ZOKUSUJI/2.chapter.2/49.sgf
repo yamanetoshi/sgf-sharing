@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[la][lb][lc][mc][nb][na][oc][pb][qb]AB[ra][rb][rc][qd][kd][ld][md][nd][od][pd][kc][kb][nc][mb]PB[ ]
+(
+;B[pc];W[ob];B[qa]
+;W[pa]C[先手だけど白生き]
+)
+(
+;PM[2]FG[259:]
+;B[ob]C[ほうりこみ、白 a なら黒 b]LB[pc:a][pa:b]
+;W[oa]C[取ったら?]
+;B[qa]C[これで欠け目]
+)
+
+)

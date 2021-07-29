@@ -1,0 +1,19 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[kb][kc][lc][mb][nb][oa][nc][oc][pc][qb][qa]AB[rb][qc][pb][qd][pd][jd][kd][ld][md][nd][od][jc][jb][ja][mc][ob]PB[ ]
+(
+;B[la]C[踏み込み不足]
+;W[ma]C[左の白は取れるが失敗]
+)
+(
+;PM[2]FG[259:]
+;B[ma]C[だめづまりをついてここまでいける]
+(
+;W[la];B[ka]
+)
+(
+;PM[2]FG[259:];W[lb];B[ka]
+)
+
+)
+
+)
