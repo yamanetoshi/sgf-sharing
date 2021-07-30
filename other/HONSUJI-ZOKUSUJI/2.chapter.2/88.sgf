@@ -1,0 +1,25 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[rc][rd][qd][pd][pc][nc][nd][qg][lc][jc]AB[qc][rb][qb][pb][nb]PB[ ]
+(
+;B[mb]C[または a は]LB[sb:a]
+;W[ob]C[わりこまれて駄目]
+)
+(
+;PM[2]FG[259:]
+;B[ob]C[これは]
+;W[sb]C[これで黒死に]
+)
+
+(
+;PM[2]FG[259:]
+;B[oa]C[へこんで左右を見合いに]
+(
+;W[sb];B[mb]
+)
+(
+;PM[2]FG[259:];W[mb];B[sb]
+)
+
+)
+
+)
