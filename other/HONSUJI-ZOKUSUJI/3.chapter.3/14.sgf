@@ -1,0 +1,16 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[qc][qe][qf][pg][ph][rh]AB[pd][pe][pf][og][nf][jc][je]PB[ ]
+(
+;B[pc]
+;W[qb]C[a のとびこみ残り、b と守ると c のはねつぎ]LB[ob:a][pb:b][pa:c]
+)
+(
+;PM[2]FG[259:];B[qd];W[rd]
+;B[rc]C[出切り]
+;W[rb]C[かかえに]
+;B[qb]C[切り];W[pc];B[oc];W[pb];B[ob]
+;W[qa]C[先手ですそあきをくいとめた]
+;W[rb];B[qb]
+)
+
+)
