@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[mb][la][ja][jb][jc][jd][je][ke][le][md][nd][od][pc][qc][qb][qe]AB[pb][pa][na][ob][oc][nc][mc][ld][kd][kc][kb][ka]PB[ ]
+(
+;B[lc]C[うってがえを防ぐ]
+;W[qa]C[これが先手 (a でせき (なのでそこにつぐ]LB[nb:a]
+)
+(
+;PM[2]FG[259:]
+;B[ma]C[ここにあたりするのが正しい]
+;W[lb]C[つぎに]
+;B[lc]C[つぎ、a は黒の権利になる]LB[qa:a]
+)
+
+)

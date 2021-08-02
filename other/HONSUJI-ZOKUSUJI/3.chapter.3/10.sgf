@@ -1,0 +1,26 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[ma][mb][mc][md][nd][od][pd][qc][qb][qa][ob]AB[ra][rb][rc][qd][qe][pe][le][me][ne][oe][ld][lc][lb][la][na][nb][nc]PB[ ]
+(
+;B[pc]
+;W[oc]C[手にならない]
+)
+(
+;PM[2]FG[259:];B[pa]
+(
+;W[pc];B[oa]C[せき]
+)
+(
+;PM[2]FG[259:];W[oc];B[pb]
+)
+
+(
+;PM[2]FG[259:];W[pb];B[oc]
+)
+
+(
+;PM[2]FG[259:];W[oa];B[pc]
+)
+
+)
+
+)

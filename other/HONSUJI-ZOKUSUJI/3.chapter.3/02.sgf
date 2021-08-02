@@ -1,0 +1,27 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[ld][lc][lb][me][ne][od][oc][pb][pa][qa]AB[ra][sb][qb][qc][pd][pe][oe][nd]PB[ ]
+(
+;B[pc]C[先手]
+;W[ob]C[だがつがれて何もない]
+)
+(
+;PM[2]FG[259:]
+;B[nc]C[こっちから]
+;W[nb];B[ob];W[oa]
+;B[pc]C[つげない]
+)
+
+(
+;PM[2]FG[259:]
+;B[ob]C[これも筋]
+(
+;W[nb];B[nc]
+)
+(
+;PM[2]FG[259:]
+;W[nc]C[こうする手がある]
+)
+
+)
+
+)
