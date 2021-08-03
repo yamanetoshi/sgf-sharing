@@ -1,0 +1,22 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[qe][qd][pc][ob][nc][mb][md][ld]AB[pe][pf][qf][rf][nf][me][nd][od][oc]PB[ ]
+(
+;B[sc]C[すべりが先手で大きそうだが]
+;W[rc];B[se];W[sb];B[sd];W[qb]
+)
+(
+;PM[2]FG[259:]
+;B[rc]C[これが好手]
+(
+;W[qc];B[rd];W[re];B[se];W[rb];B[sb];W[ra];B[qb];W[pb]
+)
+(
+;PM[2]FG[259:]
+;W[rd]C[こちらなら]
+;B[qc];W[pd];B[sd];W[pb]
+;B[re]C[a が大きい]LB[qb:a]
+)
+
+)
+
+)

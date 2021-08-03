@@ -1,0 +1,22 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[pa][qb][pc][oc][pd][qd][qf]AB[ke][kc][nc][nd][ob][pb][qc]PB[ ]
+(
+;B[nb]C[きかされ]
+)
+(
+;PM[2]FG[259:]
+;B[oa]C[強くおさえる]
+(
+;W[qa]
+;B[nb]C[つぎが先手]
+;W[rc]
+)
+(
+;PM[2]FG[259:]
+;W[rb]C[引いたら]
+;B[qa]C[取って a を狙う]LB[ra:a]
+)
+
+)
+
+)

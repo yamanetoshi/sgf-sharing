@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[oc][nc][pd][qd][rd]AB[od][oe][pe][qe][qg][qj]PB[ ]
+(
+;B[re]C[これは白からはねつぎを先手で利かされる]
+;W[se];B[sf];W[sd];B[rg]
+)
+(
+;PM[2]FG[259:]
+;B[se]C[とびが正しい]
+;W[re]
+;B[rf]C[a おさえに手が抜ける、また黒 a 以降は黒の権利]LB[sd:a][sc:b][sf:c][rc:d]
+)
+
+)
