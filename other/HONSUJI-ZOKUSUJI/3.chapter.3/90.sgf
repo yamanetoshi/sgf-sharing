@@ -1,0 +1,15 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[jc][je][le][lf][me][ne][mc][mb][ob][oc][od]AB[pd][pc][pe][oe][nd][nc][nb][nf][mf]PB[ ]
+(
+;B[pb]C[あてには]
+;W[ma]C[これがうまい、a のさがりが残った]LB[oa:a]
+)
+(
+;PM[2]FG[259:]
+;B[oa]C[こちらから取る、白 a は利くが b から c とはねるよせ残り]LB[md:a][pb:b][ma:c]
+;W[tt]C[白手抜き]
+;B[ma];W[la];B[md];W[ld]
+;B[pb]C[白 a と取れるが後に b つぎが必要になr]LB[na:a][lb:b]
+)
+
+)

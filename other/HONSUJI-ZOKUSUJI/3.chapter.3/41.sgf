@@ -1,0 +1,16 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[ld][md][nc][mb][ob][pb][pc][qd][rd][rc]AB[pd][qc][qe][re][oc][od][nd][ne][me][qi][oi]PB[ ]
+(
+;B[sd];W[sc]
+;B[se]C[はねつぎは後手]
+)
+(
+;PM[2]FG[259:]
+;B[rb]C[隅からはねる]
+;W[qb]C[ぬくなら]
+;B[sc]C[隅からはねる]
+;W[sd];B[se]
+;W[sb]C[先手で白からのはねつぎを阻止]
+)
+
+)
