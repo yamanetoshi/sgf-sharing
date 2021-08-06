@@ -20,7 +20,14 @@
 (
 ;B[qp];W[kq];B[mp];W[mo];B[lp];W[np];B[jq];W[oq]
 (
-;B[or];W[nr];B[oo];W[rp];B[op];W[qo];B[nq];W[rn];B[ee];W[fd];B[ik];
+;B[or];W[nr];B[oo];W[rp];B[op];W[qo];B[nq];W[rn];B[ee];W[fd];B[ik];W[gf];B[eg];W[gi];B[ei];W[bm];B[bl];W[bn];B[jc];W[lc];B[hc];W[gc];B[gb];W[fb];B[gd];W[fc];B[ke];W[fe];B[cc];W[cb];B[dd];W[bc];B[cd];W[bb];B[mk];W[cl];B[bk];W[cj];B[ck];W[ej];B[ci];W[dl];B[em];W[bj];B[dj];W[dk];B[di];W[al];B[fj];W[fh];B[eh];W[iq];B[kr]
+(
+;W[hr];B[gr];W[gp];B[fp];W[gq];B[er];W[jr];B[hn];W[kq];B[lr];W[io];B[hp];W[gs];B[fr];W[ho];B[go];W[ml];B[ek];W[ak];B[qm];W[rm];B[pl];W[kj];B[ii];W[lg];B[kh];W[lh];B[kg];W[oh];B[oi];W[nh];B[ph];W[qk];B[pk];
+)
+(
+;PM[2]FG[259:];W[fr];B[gr];W[eq];B[gq];W[gs];B[hs];W[fs];B[hr]
+)
+
 )
 (
 ;PM[2]FG[259:];B[rq];W[or]
