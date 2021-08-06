@@ -9,7 +9,7 @@
 ;B[oa]C[こちらから取る、白 a は利くが b から c とはねるよせ残り]LB[md:a][pb:b][ma:c]
 ;W[tt]C[白手抜き]
 ;B[ma];W[la];B[md];W[ld]
-;B[pb]C[白 a と取れるが後に b つぎが必要になる]LB[na:a][lb:b]
+;B[pb]C[白 a と取れるが後に b つぎが必要になr]LB[na:a][lb:b]
 )
 
 )
