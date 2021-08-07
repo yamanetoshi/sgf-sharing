@@ -1,0 +1,39 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[13]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[jf][lf][eh][fh][la][ih][dc][ic][fj][kc][hj][lj][cl][dl][ge][gl][ke][le][il][bg][jl][eg][bb][db][fi][hi][lb][bd][ji][cd][li][mi][id][fk][jd][kd][hk][cf][kk][df][lk][ef][gf]AB[ah][kf][ch][dh][gh][ka][hh][kh][ec][hc][ej][jc][be][ce][jj][de][kj][bl][fe][he][ie][je][ag][gg][hg][ig][kg][eb][lg][ci][mg][ei][ib][jb][gi][kb][dd][ki][bk][fd][ck][hd][gk][bf][jk]PB[ ]
+;B[cc]C[切り込むか白からはねつぐ (上) かで 2 目違い、両先手]
+(
+;W[cb];B[ad];W[bc]
+(
+;B[lc]
+(
+;W[mc]
+;B[me]C[白は手抜けない]
+;W[ld];B[mf];W[md]
+;B[el]C[ここも両先手 (白 a、黒 b]LB[dk:a][dj:b]
+;W[ek];B[dk];W[fl];B[cm];W[em]
+;B[ff]C[先手よせを打ち終えて後手の最大に (8 目)]
+;W[ea];B[fa];W[da];B[fb];W[cg]C[4 目];B[gj]C[3 目];W[bh];B[bi];W[ee];B[ed];W[ac]
+;B[ik]C[これが先手 (黒 a、白 b、黒 c で二目取られる]LB[ii:a][ij:b][jh:c]
+;W[ii]
+;B[ae]C[黒二目?]
+)
+(
+;PM[2]FG[259:];W[ld]
+;B[me]C[a でも良い]LB[mf:a]
+)
+
+)
+(
+;PM[2]FG[259:]
+;B[me]C[単にこれもある (さえぎれない]
+)
+
+)
+(
+;PM[2]FG[259:]
+;W[bc]C[これは損]
+;B[da]C[こっちに石がくると後に損]
+;W[cb]
+)
+
+)

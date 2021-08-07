@@ -1,0 +1,32 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[13]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[ca][bb][bc][cd][ce][dc][ec][fc][fb][gc][hc][kb][kc][kd][lc][le][me][je][ig][jh][ji][ij][jj][kj][kk][jl][ik][hk][gl][fl][el][em][dm][cj][bj][bi][ch][fj][fi][fh][fg][gg][gf][eg][dg][df]AB[jd][jc][jb][ja][ic][hb][id][ie][if][ke][kf][lf][mf][jg][kh][ki][lj][lk][ll][kl][hd][gd][fd][ed][dd][cc][cb][db][de][ef][ff][hf][hg][hh][hi][gj][gk][fk][ek][ej][dj][dl][cm][ck][bk][aj][dh]PB[ ]
+;B[mb]C[黒 a を許すと白死ぬ]LB[mc:a]
+;W[mc];B[la];W[ka]C[せき];B[ah]
+(
+;W[bh];B[ai];W[ag];B[ak];W[bg];B[fa]
+(
+;W[eb];B[gb];W[da]
+;B[di]C[四目、右の白のだめが詰まったら a の手入れが必要になる]LB[cf:a]
+;W[fe];B[ee];W[ge]
+;B[hm]C[終局時の手入れを狙ったもの]LB[hl:a]
+;W[im];B[ih];W[km];B[lm];W[jm];
+)
+(
+;PM[2]FG[259:]
+;W[ga]C[こう受けると取られる]
+;B[ea]
+)
+
+(
+;PM[2]FG[259:];W[ea]
+;B[ga]C[白は手抜けない]
+)
+
+)
+(
+;PM[2]FG[259:]
+;W[ai]C[白はさえぎれない]
+;B[bh]
+)
+
+)
