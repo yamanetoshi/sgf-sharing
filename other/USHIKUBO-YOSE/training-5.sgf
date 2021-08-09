@@ -1,0 +1,48 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[13]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[cb][bc][bd][cd][ce][cf][bg][bh][ch][dh][eh][fg][fi][gi][hh][hg][hf][ie][je][ke][kd][ld][lc][mc][hd][hc][ib][jb][fb][eb][ec][ed][ej][ek][dl][dm][cm][hj][ij][ik][il][jl][jk][kj][lj][lk][lg][jg][jh]AB[ab][bb][cc][db][dc][dd][de][df][dg][cg][ee][fe][ge][he][fc][gc][gb][hb][ia][ig][if][ih][jf][kf][kg][lf][le][me][md][ji][ki][li][jj][kk][hi][fj][ei][di][ci][bi][bk][ck][cl][bm]PB[ ]
+;B[ll]C[両先手]
+;W[kl];B[mk];W[mj]
+;B[mi]C[これが先手になる]
+;W[ml];B[el]
+(
+;W[fl];B[dk];W[em];B[dj];W[fk]
+;B[ic]C[二目得な切り込み]
+(
+;W[jc]C[こうせざるを得ない]
+;B[ja];W[ka];B[ha];W[kb]
+;B[gd]C[ここの利きが自慢]
+;W[id];B[bf];W[af];B[ad];W[be];B[ac]
+;W[ae]C[a, b は見合い]LB[ii:a][ai:b]
+;B[ii];W[ai];B[aj];W[ah]
+;B[ff]C[ここに打てば a に一目できる]LB[ef:a]
+;W[eg]C[つぶせるが]
+;B[gg];W[gh]
+;B[gf]C[白も一目減った]
+;
+)
+(
+;PM[2]FG[259:]
+;W[id]C[これは NG]
+;B[kb]
+(
+;W[jc]C[取るしかなくて]
+;B[ja]C[わたられて大損]
+;
+)
+(
+;PM[2]FG[259:]
+;W[ja]C[これはだめ]
+;B[jc]
+)
+
+)
+
+)
+(
+;PM[2]FG[259:]
+;W[dk]C[白、こうは打てない]
+;B[fk];W[fl];B[gl];W[em];B[gk];W[hl];B[gm];W[hm]
+;B[fm]C[功、白はこうなっては大変]
+)
+
+)
