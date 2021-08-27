@@ -62,7 +62,14 @@
 (
 ;W[nl];B[cr];W[qi];B[ri];W[ni];B[bq];W[bp];B[dq];W[cp];B[db];W[da];B[ab];W[ea];B[dd];W[mf];B[me];W[rl];B[kh];W[jh];B[kg];W[nh]
 (
-;B[pc];W[qb];B[oh];W[br];B[bs];W[aq];
+;B[pc];W[qb];B[oh];W[br];B[bs];W[aq];B[er];W[mp];B[mq];W[no];B[oo];W[on];B[li];W[mh];B[nj];W[mj];B[ol];W[om];B[oi]
+(
+;W[po];B[kj];W[ji];B[lj];W[mi];B[mk];
+)
+(
+;FG[259:]PM[2];W[lj]
+)
+
 )
 (
 ;FG[259:]PM[2];B[sb];W[ra];B[qb];W[pc];B[pd];W[se];B[sc];W[qa];B[pi]
