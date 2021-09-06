@@ -1,0 +1,23 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]C[白先黒死]PW[ ]GN[ ]PM[2]AW[oa][ob][oc][od][pd][qd][rd][sd]AB[sc][rc][qc][pc][pb][pa]PB[ ]
+(
+;W[ra]C[これは間違い]
+;B[rb];W[qa]
+(
+;B[sa]C[こう]
+)
+(
+;PM[2]FG[259:]
+;B[tt]C[手抜くと]
+;W[sa]C[黒が何かすると死に、白からだと?]
+;B[tt];W[sb];B[qb];W[ra];B[sa];W[sb]C[こう]
+)
+
+)
+(
+;PM[2]FG[259:]
+;W[rb]C[ここが急所]
+;B[ra];W[sb]
+)
+
+)
