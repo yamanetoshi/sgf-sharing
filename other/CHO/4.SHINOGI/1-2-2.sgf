@@ -1,0 +1,33 @@
+
+(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[mc][oc][me][ne][mf][of][qj][qm]AB[qd][pe][oe][nf][ng][og][pp][qo][mq][ld]PB[ ]
+;W[qg]C[黒 a との差でとても大きい、b を防ぎたい]LB[qh:a][pf:b]
+(
+;B[qf]C[馬鹿正直]
+;W[pg];B[pf]
+;W[qb]C[大きなすべり、眼形も心配]
+)
+(
+;PM[2]FG[259:]
+;B[rh]C[逆手を取るしのぎの手筋]
+(
+;W[qh];B[qf]
+(
+;W[rg];B[pb]
+)
+(
+;PM[2]FG[259:];W[qb]
+;B[rg]C[小さくない]
+;W[ri];B[pi]
+;W[qi]C[a のおき狙いがあるかも]LB[rl:a]
+)
+
+)
+(
+;PM[2]FG[259:];W[rg];B[qh];W[ph];B[pg];W[qi]
+;B[qf]C[しちょう有利なら a]LB[pi:a]
+;W[ri];B[pb]
+)
+
+)
+
+)
