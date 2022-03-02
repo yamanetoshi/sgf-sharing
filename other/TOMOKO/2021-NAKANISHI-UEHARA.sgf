@@ -1,5 +1,5 @@
 
-(;GM[1]FF[4]ST[2]SZ[19]CA[UTF-8]AP[GOWrite:3.0.18]PW[ ]FG[259:]GN[ ]PB[ ]PM[2]
+(;AP[GOWrite:3.0.18]GM[1]SZ[19]CA[UTF-8]FF[4]ST[2]FG[259:]PM[2]PW[ ]GN[ ]PB[ ]
 ;B[dp];W[pd];B[op];W[dd];B[cc];W[cd];B[dc];W[ed];B[fb]
 (
 ;W[qq]
@@ -35,6 +35,27 @@
 ;B[kr]
 (
 ;W[dk]
+(
+;B[fj];W[bl];B[bm];W[bj]
+(
+;B[dj];W[ci];B[bh];W[ej];B[el];W[cl];B[gk];W[cj];B[ih];W[ig]
+(
+;B[qf]
+)
+(
+;FG[259:]PM[2];B[hh];W[hg];B[ki]
+)
+
+)
+(
+;FG[259:]PM[2];B[ci];W[dl];B[em];W[el];B[fl];W[gl];B[fk];W[fn];B[cl];W[ck];B[dj];W[jr]
+)
+
+)
+(
+;FG[259:]PM[2];B[el];W[fj];B[ej];W[em];B[dl]
+)
+
 )
 (
 ;FG[259:]PM[2];W[jr];B[kq];W[kp];B[jp];W[jo];B[ip];W[lq];B[ko];W[lp];B[jn]
@@ -105,7 +126,7 @@
 )
 (
 ;FG[259:]PM[2]
-;W[cr]LB[eq:A][er:B]
+;LB[eq:A][er:B]W[cr]
 )
 
 )
