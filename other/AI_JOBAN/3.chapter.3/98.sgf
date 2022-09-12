@@ -1,0 +1,39 @@
+
+(;FF[4]CA[UTF-8]ST[2]GM[1]AP[GOWrite:3.0.20]SZ[19]PB[ ]FG[259:]GN[ ]PM[2]PW[ ]
+;B[dd];W[pp];B[cp];W[pd];B[fp];W[cc];B[cd];W[dc];B[fc];W[ec];B[ed];W[fb];B[dj];W[nq];B[mp];W[hq];B[pm];W[dp];B[cq];W[dq];B[do];W[cr];B[cn];W[er];B[gq];W[gr];B[hp];W[iq];B[ip];W[di];B[ei];W[cj];B[dh];W[ci];B[ch];W[cm];B[dk];W[gc];B[ck];W[fd];B[ep];W[jq];B[eq];W[dr];B[jp];W[kq];B[qf];W[nc];B[of];W[pg];B[pf];W[rd];B[nh];W[kp];B[qn];W[qo];B[mn];W[kn];B[mq];W[ro];B[oq];W[op];B[np];W[pr];B[km];W[jm];B[lm];W[no];B[mo];W[jo];B[rn];W[jk];B[mj];W[lj];B[so];W[sp];B[sn];W[rq];B[lk];W[mi];B[li];W[kj];B[lh];W[ne];B[lf];W[le];B[od];W[oc];B[kf];W[eh]
+;C[白からの狙いがあり味が悪いので守った]B[hm]LB[bh:A][eo:B]
+;W[gm]C[黒から A、B が先手なので無理に見える]LB[in:A][il:B]
+(
+;B[in]
+;W[hl]C[継がずにはねた]LB[jn:A]
+;B[gl];W[mg];B[mh];W[mk];B[nj];W[ll];B[ml];W[kk];B[nk];W[en];B[eo]
+;W[bh]C[白は A の負担があるので大変そうに見える]LB[jn:A]
+;B[bg];W[bk];B[bl];W[gk];B[fl]
+;W[el]C[鮮かな手筋]
+(
+;B[fm];W[fk];B[gn];W[fi];B[ej];W[on];B[om];W[eg];B[bi];W[pn];B[ql];W[bj];B[ah]
+;W[ek]C[白大成功]
+)
+(
+;FG[259:]PM[2]
+;C[筋にはまる]B[fk]
+;W[ej];B[fi];W[im];B[hn];W[ek];B[bj];W[fj];B[fm];W[fn];B[gn];W[em];B[gm];W[bi];B[ak]
+;W[gj]C[白大成功?]
+)
+
+)
+(
+;FG[259:]PM[2];B[hl];W[go];B[gp]
+;W[hn]C[この手がある]
+;B[in];W[io]
+;C[切りは無理]B[ho]
+;W[gn];B[im]
+;W[eo]C[取られ]
+)
+
+(
+;FG[259:]PM[2]
+;C[打ちにくい (アキ三角]B[hn]LB[in:A][jn:B]
+)
+
+)
