@@ -1,0 +1,44 @@
+
+(;CA[UTF-8]GM[1]SZ[19]ST[2]FF[4]AP[GOWrite:3.0.18]PB[ ]PW[ ]GN[ ]FG[259:]PM[2]
+;B[pd];W[dp];B[pq];W[dd];B[qk]
+(
+;W[mp]C[消えた裏がかり]
+(
+;B[jp]C[白は a, b, c など]LB[oo:a][po:b][pp:c]
+)
+(
+;FG[259:]PM[2]
+;B[po]C[これで十分]
+;W[jp]
+;B[nc]C[△が価値の低い位置に置いている (a, b の方が良い]TR[mp]LB[cn:a][fc:b]
+)
+
+)
+(
+;FG[259:]PM[2];W[nc];B[pf];W[oe];B[pe];W[pb]
+(
+;B[fq];W[cn];B[jp];W[pp]
+)
+(
+;FG[259:]PM[2];B[po]
+;W[jp]C[右上のかわりに a (どちらが優るか]LB[mp:a]
+)
+
+)
+
+(
+;FG[259:]PM[2];W[jp]
+(
+;B[lp]C[つめが有力]
+;W[po];B[np];W[qq];B[qr];W[qp];B[rr];W[qm]
+;B[fq]C[△が弱くなっている]TR[jp]
+)
+(
+;FG[259:]PM[2]
+;B[nc]C[手抜いてしまる]
+;W[mp];B[po]
+)
+
+)
+
+)

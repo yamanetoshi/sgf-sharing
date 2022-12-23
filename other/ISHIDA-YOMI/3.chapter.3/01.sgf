@@ -1,0 +1,36 @@
+
+(;ST[2]FF[4]AP[GOWrite:3.0.18]SZ[19]CA[UTF-8]GM[1]PW[ ]FG[259:]AB[pd][dp][pp]PB[ ]PM[2]GN[ ]
+;W[ce];B[ed];W[dc];B[ec];W[dd]
+(
+;B[ef];W[dg];B[jd];W[eg]
+(
+;B[cm];W[md];B[pf];W[hd]
+)
+(
+;FG[259:]PM[2]
+;C[こっちが正解]B[fg]
+(
+;W[fh];C[肝要]B[gh];W[ff];B[gg];W[ee];B[fe];W[df];B[ge];W[fi];B[gi];W[fj];B[gj];W[gi];B[fi];W[eh];B[gg]
+)
+(
+;FG[259:]PM[2];W[ff];B[gf];W[fe];B[ee];W[ge];B[hc];W[hf];B[fh]
+)
+
+)
+
+)
+(
+;FG[259:]PM[2]
+;C[実はこれが定石]B[ee]
+;W[df]
+(
+;C[これも本手]B[hc]
+)
+(
+;FG[259:]PM[2]
+;C[a から b の打ち込みを見ている]B[ic]LB[fg:a][gd:b]
+)
+
+)
+
+)

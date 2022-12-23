@@ -1,0 +1,46 @@
+
+(;CA[UTF-8]GM[1]SZ[19]ST[2]FF[4]AP[GOWrite:3.0.18]PB[ ]PW[ ]GN[ ]FG[259:]PM[2]
+;B[pd];W[dp];B[pp];W[dc];B[ce];W[ci];B[ed];W[ec];B[fd];W[gc]
+;B[cc]C[この手が打たれなくなった理由について]
+(
+;W[gd]C[既存の変化]
+;B[dd];W[gf];B[fc];W[fb]
+;B[cb]C[この後、白は大場に]
+)
+(
+;FG[259:]PM[2];W[dd];B[de];W[cd];B[fc]
+(
+;W[fb];B[gb]
+(
+;W[hb];B[eb];W[ga];B[db];W[bd]
+;B[bc]C[取られた]
+)
+(
+;FG[259:]PM[2]
+;W[eb]C[かかえではなくてつぎが正解]
+;B[hc]C[このしちょうが黒有利であることが△に打つ条件]TR[cc]
+;W[ee]C[a の逃げだし狙い]LB[gd:a]
+(
+;B[gd]C[自然な抜き]
+;W[ef]C[△の動きだしが難しくなった]TR[ce][de]
+)
+(
+;FG[259:]PM[2]
+;B[ef]C[あてが好手]
+;W[gd];B[fe];W[hb];B[he]
+)
+
+)
+
+)
+(
+;FG[259:]PM[2];W[be]C[AI]
+;B[gb]C[これと替わって]
+;W[nc]C[大場に打てれば白良い (かなり良い
+
+黒△は持ち込み、白△には動く余地残り、黒もさほど厚くない、という評価]TR[cc][gc]
+)
+
+)
+
+)

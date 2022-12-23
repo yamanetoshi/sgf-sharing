@@ -1,0 +1,91 @@
+
+(;CA[UTF-8]ST[2]FF[4]AP[GOWrite:3.0.18]SZ[19]GM[1]BR[8]PW[HANE Naoki]FG[259:]WR[9]PB[MURAKAWA Daisuke]GN[ ]PM[2]
+;B[qd];W[dc];B[pq];W[cp];B[eq];W[qo];B[ce];W[hp];B[dm];W[ep];B[dp];W[do];B[dq];W[cq];B[cr];W[cn];B[gp]
+(
+;W[go]
+(
+;B[bo];W[co];B[fq];W[ho];B[br]
+;C[弱点に備えて補強 (石が二線で治まったときが手抜きのタイミング]W[bl]LB[fo:A]
+;C[ここか A に打ちたい (B はやりすぎ、左下に壁があるので逆に攻められる]B[oc]LB[ch:A][pl:B]
+;W[dg];B[ee];W[fd];B[ck];W[cl];B[dl];W[dk];B[bk];W[bn];B[ci];W[ek];B[cg];W[df];B[cf];W[de];B[dh];W[cd];B[fo];W[fn];B[fm];W[gn];B[ed];W[dd];B[fl]
+;C[様子見、黒 A なら白 B]W[bh]LB[bi:A][eh:B]
+;C[これなら眼が減っている]B[ch]
+;C[白四子取り]W[fj]
+;C[厳しい出]B[ei]
+;W[hl];B[hk];W[fk];B[fi];W[hj];B[ik];W[gl];B[ec];W[fg];B[fe]
+;C[脅かしに]W[be]
+;C[白 A で眼が眼が無いので補強]B[gg]LB[bi:A]
+;W[gh];B[gi];W[gf];B[hg];W[ff];B[hd];W[hi];B[gj];W[gk];B[hh];W[jj];B[fh];W[ji]
+;C[活きて上辺も良い構え]B[ie]
+;W[jg];B[ke]
+;C[最大の大場にまわれた]W[qi]
+;C[白がここにカケると左辺が相当立派な構え、なのでこれを防いで大き▽]B[op]
+;W[pm];B[qp];W[po];B[mp]
+(
+;C[囲うだけという状況になったらこちら (相手の地を減らしながらという手) を優先]W[me]
+;C[反発]B[ph];W[pi];B[oh];W[rg];B[lg]
+;C[ここから白のシノギ]W[pe]
+;B[qe];W[qf];B[pf]
+;C[相手の強い場所でシノぐときの手段 (ツケながら弱点を狙う]W[nc]
+;B[od]
+;C[相手の強い場所でシノぐときの手段 (ツケながら弱点を狙う]W[kd]
+;B[le];W[ld];B[nd];W[md];B[nb];W[je];B[eb];W[db];B[da];W[ca];B[ea];W[bb]
+(
+;B[jd];W[lf];B[kf];W[mf];B[kg];W[mg];B[jf];W[oi];B[of];W[mi];B[ro];W[rn];B[rp];W[kq];B[lq];W[kp];B[mm]LB[mn:A];W[mo];B[mj]
+(
+;W[mh];B[nj];W[ni];B[no];W[nn];B[mn];W[lo];B[on];W[nm];B[om];W[nl];B[ol];W[ml]
+(
+;C[A ツギ以上の手を探そうとしている (この利かしは不要だった模様]B[ll]LB[oo:A]
+;W[lm];B[ql]
+(
+;W[rk]
+(
+;B[nk];W[ln];B[pk];W[rl];B[qn];W[qm];B[pn];W[nq];B[np];W[lr];B[rf];W[qg];B[hr];W[mq];B[cb];W[cc];B[lk];W[kl];B[or];W[re];B[rd];W[sf];B[kb];W[kc];B[jb];W[sd];B[rc];W[ir];B[hq];W[iq];B[kk];W[jk];B[mc];W[cj];B[bj];W[dj];B[bi];W[bf];B[bg];W[ge];B[gd];W[hs];B[bq];W[bp];B[gs];W[is];B[gq];W[sc];B[sb];W[se];B[rb];W[ig];B[ih];W[jh];B[lp];W[fc];B[fb];W[hf];B[ak];W[eo];B[ko];W[kn];B[bd];W[bc];B[qj];W[rj];B[al];W[am];B[qh];W[rh];B[af];W[ad];B[fp];W[mr];B[oq];W[lj];B[kj];W[li];B[mk];W[qk];B[pl];W[rm];B[pj];W[oj];B[ok];W[ii];B[gh];W[jc];B[ic];W[lc];B[lb];W[ns];B[nr];W[kr];B[os];W[ms];B[sn];W[sm];B[so];W[aq];B[ar];W[ap];B[if]
+)
+(
+;FG[259:]PM[2];B[rl];W[oo];B[np];W[pl];B[nk];W[ln];B[pk];W[ok];B[oj];W[pn];B[ok];W[qk];B[sm];W[lj]
+)
+
+)
+(
+;FG[259:]PM[2];W[oo];B[np];W[pl];B[nk];W[ln];B[pk];W[ok];B[oj];W[pn];B[ok];W[qk];B[rk];W[qj];B[qm];W[qn];B[rm]
+)
+
+)
+(
+;FG[259:]PM[2];B[nk];W[ll]
+;C[こうしていれば黒 A を止めることはできなない]B[ql]LB[kk:A]
+)
+
+)
+(
+;FG[259:]PM[2];W[li];B[nh];W[mh];B[ni];W[nj];B[no];W[lp];B[mq];W[nn];B[mn];W[lo];B[nk];W[oj];B[on];W[nm]
+;C[白取られ]B[om]
+)
+
+(
+;FG[259:]PM[2];W[ni];B[lh];W[mh];B[li];W[lj];B[kj];W[lk];B[kk];W[jk];B[kl]
+)
+
+)
+(
+;FG[259:]PM[2];B[jf];W[kf];B[jd];W[lf];B[kg];W[je];B[ke]
+;C[黒の包囲網を突破]W[mg]
+)
+
+)
+(
+;FG[259:]PM[2];W[mn];B[ph];W[pi];B[oh];W[rg];B[qf];W[oi];B[mh];W[ni];B[lg]
+)
+
+)
+(
+;FG[259:]PM[2];B[fp];W[eo];B[fo];W[fq];B[gq];W[fr];B[dr];W[gr]
+)
+
+)
+(
+;FG[259:]PM[2];W[fp];B[fq];W[go];B[gq];W[hn]
+)
+
+)

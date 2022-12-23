@@ -1,0 +1,75 @@
+
+(;ST[2]FF[4]AP[GOWrite:3.0.18]SZ[19]CA[UTF-8]GM[1]PW[ ]FG[259:]PB[ ]PM[2]GN[ ]
+;B[pd];W[dp];B[pq];W[dd];B[fq];W[dn];B[jp];W[qn];B[qp];W[qk];B[qi];W[nc];B[pc];W[kc];B[fc];W[eb];B[ic]
+;C[力をためた手]W[df]
+;B[ie];W[ke];B[nd]
+;C[右下と右上が地になれば理想的]W[mc]
+;B[pm];W[qm];B[pl];W[pn];B[pk];W[ql];B[qj]
+;C[右の白を攻めながら理想を目指す]W[on]
+;C[疑問手]B[mp]
+;W[qe];B[qd]
+;C[加藤さんらしい手でこれで白やれそう]W[pj]
+;B[nl];W[oj];B[nk];W[op];B[oq];W[ph];B[qh];W[qg];B[rg];W[np];B[nq];W[pg];B[rf]
+;C[このあたりに眼形ができた (右は白が威張っている]W[mo]
+;C[怒った手]B[nh]
+;W[mi];B[ni];W[nj];B[mj];W[pi];B[lj];W[of]
+;C[A の弱点に備えた手]B[pe]LB[re:A]
+;C[白の権利]W[rj]
+;B[ri]
+;C[白の権利]W[si]
+;B[rh]
+;C[難しいことになりました]W[li]
+;B[ki];W[mg];B[ng];W[kh]
+;C[黒の受けは仕方ない]B[nf]
+;W[kj];B[ji];W[mk];B[lk];W[ml];B[jh];W[lf];B[kg];W[lg];B[lh];W[mh]
+;C[はぶけない]B[ne]
+;C[五子取られ]W[mm]
+;B[kk]
+;C[固い本手、上辺の白に活きられると取られた損が大きい]W[ld]
+;C[中央が厚いふりをしてよりつかねば (左上隅白にはいろいろ手段がある]B[ch]
+;W[ck];B[ce];W[cd];B[de];W[ee];B[cf];W[ed];B[dg];W[ef]
+(
+;C[備えた]B[fb]
+;W[dr];C[権利]B[jb];W[kb]
+(
+;C[利かし]B[lo]
+;W[ln]
+;C[利かし (これらを]B[no]
+;W[mn]
+;C[出から]B[ec]
+;W[db]
+;C[おきは筋]B[bb]
+;W[bc]
+;C[これも筋]B[dc]
+(
+;W[be]
+;C[稼いだ (左辺の黒はだいぶん薄いが白も全体が活きていない]B[cb]
+;W[bf];B[cg]
+;C[左辺の黒を取りにきた]W[eh]
+;B[dj];W[di];B[cj];W[ej];B[dk];W[ci];B[bi];W[bh];B[bk];W[ai];B[bj];W[bg]
+;C[六子取られたが左下が傷んだ]B[bn]
+;C[当然の打ち込み]W[hq]
+;C[下辺一子を小さく捨てる手]B[co]
+;W[do];B[cq];W[dq];B[iq];W[cp];B[bp];W[cn];B[bo];W[cl];B[cm];W[dm];B[bm];W[dl];B[bl];W[hp];B[hr];W[gr];B[ir];W[lp];B[mq];W[ko];B[lq]
+;C[そろそろヨセ]W[fr]
+;B[ob];W[jd];B[fi];W[fh];B[ei];W[dh];B[gi];W[ek];B[hl];W[bq];B[aj];W[gh];B[hi];W[pp];B[fl];W[rp];B[rq];W[qo];B[qq];W[el];B[go];W[ho];B[gn];W[so];B[br];W[cr];B[aq];W[fm];B[gm];W[gk];B[hk];W[rk];B[fp];W[bs];B[cq];W[fn];B[nb];W[id];B[hd];W[he];B[hc];W[bq];B[ar];W[mb];B[sq];W[jl];B[jk];W[qf];B[re];W[in];B[gj];W[kp];B[kq];W[il];B[ik];W[jc];B[ib];W[ab];B[sp];W[ro];B[ge];W[cc];B[ba];W[hf];B[gf];W[fk];B[gl];W[ig];B[jf];W[gg];B[if];W[hg];B[jg];W[ff];B[fd];W[oc];B[km];W[jn];B[kl];W[ah];B[sh];W[sj];B[fo];W[eo];B[gs];W[fs];B[hs];W[fe];B[gd];W[ih];B[ii];W[pb];B[qb];W[na];B[pa];W[ja];B[ia];W[ka];B[eq];W[er];B[kn];W[jo];B[ip];W[cq];B[gq]
+)
+(
+;FG[259:]PM[2];W[cb];B[cc];W[ba];B[bd];W[ab];C[切断]B[be]
+)
+
+)
+(
+;C[利かしを打たないと?]FG[259:]PM[2]
+;B[tt];W[kp];B[kq]
+;C[左右を切られる]W[lp]
+)
+
+)
+(
+;FG[259:]PM[2];B[cq];W[dq];B[dr];W[cp];B[br];W[bq]
+;C[これも大きそうだけど]B[cr]
+;C[上辺が薄くて心配]W[ig]
+)
+
+)

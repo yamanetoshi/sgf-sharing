@@ -1,0 +1,41 @@
+
+(;ST[2]FF[4]AP[GOWrite:3.0.18]SZ[19]CA[UTF-8]GM[1]PW[ ]FG[259:]AB[pd][dp]PB[ ]PM[2]GN[ ]
+;W[po];B[dd];W[pg];B[nd];W[gp];B[dn];W[oq]
+;C[これで良い]B[qi]
+;W[oh]
+(
+;B[ql];C[ ]W[qn]
+(
+;C[これは嘘手]B[oj]
+;W[pk];B[qk];W[pj];B[pi];W[oi];B[nj];W[pl]
+)
+(
+;FG[259:]PM[2]
+(
+;B[oi];W[ni];B[oj];W[mh]
+)
+(
+;FG[259:]PM[2];B[ol];W[oj]
+)
+
+)
+
+(
+;FG[259:]PM[2];B[ok]
+)
+
+)
+(
+;FG[259:]PM[2]
+;C[もう少し、だった]B[qm]
+(
+;W[qk];B[oi];W[ni]
+;C[a, b が見合い]B[oj]LB[nh:a][pl:b]
+)
+(
+;FG[259:]PM[2];W[pj];B[qj];W[pk];B[qk]
+)
+
+)
+
+)

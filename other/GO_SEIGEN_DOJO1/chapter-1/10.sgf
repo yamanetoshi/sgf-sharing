@@ -1,0 +1,53 @@
+
+(;CA[UTF-8]SZ[19]FF[4]GM[1]ST[2]AP[GOWrite:3.0.18]AW[dd][di][em][en][eo][cn][co][cp][hp]GN[ ]PB[ ]PW[ ]AB[pd][pq][dp][ep][cq][dr][fo][fn][dm]C[左下は二間高ばさみの有名な基本定石の形]FG[259:]PM[2]
+;B[kp]C[はさんで]
+;W[qn]C[おおげいまがかり]
+(
+;B[hn]C[実戦];W[qq];B[qr];W[qp]
+;B[or]C[つけひかれる位なら黒から打っておいた方が良い]
+;W[nc];B[lc];W[ne];B[qf]
+;W[kd]C[定石にとらわれてはいけない]
+;B[oc]
+(
+;W[nb];B[ld];W[le]
+;B[ke]C[白どうするか]
+;W[je];B[kf]
+;W[lf]C[しちょうの良し悪しは関係ない]
+;B[jd];W[kc];B[jc];W[kb]
+;B[ie]C[しちょう悪い]
+(
+;W[jb]C[こちらに曲がって抜かせる]
+;B[jf];W[hc]
+;B[cg]C[打ちこんで]
+;W[ci];B[cc]C[三々];W[cd];B[dc];W[bc];B[bb];W[bd];B[fc];W[ed];B[gb];W[hb];B[fd];W[fe];B[ge];W[ff];B[gd]
+;W[qk]C[黒 A、白 B とか黒 C などの狙いが残っていて黒が良い]LB[ek:A][dk:B][eg:C]
+)
+(
+;FG[259:]PM[2]
+;W[jf]C[一回逃げる手はあり]
+;B[kg];W[jb];B[ig];W[hc];B[id]
+;W[ic]C[省けない (黒 A、白 32、黒 B から黒 C と押さえると四子取られる]LB[ib:A][hb:B][lb:C]
+;B[cg];W[ci];B[bd];W[cc]
+;B[eg]C[黒 A つけが良い手なので黒打てる]LB[ei:A]
+)
+
+)
+(
+;FG[259:]PM[2]
+;W[kc]C[この変化は黒にとっては有り難い]
+;B[nb];W[mc];B[mb];W[lb];B[cg];W[ci];B[cc];W[dc];B[cd];W[de];B[ce];W[dg];B[df];W[ef];B[cf];W[eg];B[db];W[eb];B[cb]
+;W[fc]C[白の中央は簡単に消せる]
+;B[ji];W[qk];B[po];W[qo];B[jn];W[jg]
+)
+
+)
+(
+;FG[259:]PM[2];B[qp];W[qk]
+;B[io]C[とりきってしまう]
+;W[fm]
+;B[ho]C[手入れしておく (A を狙うところではない、B と打ち込んで C と受けさせるところ]LB[dk:A][cg:B][ci:C]
+;W[mq]C[入ってこられたら?]
+;B[kq]C[これで良し (白△の方が価値が高い]TR[dm][hp]
+)
+
+)

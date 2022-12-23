@@ -1,0 +1,31 @@
+
+(;CA[UTF-8]GM[1]SZ[19]ST[2]FF[4]AP[GOWrite:3.0.18]PB[ ]PW[ ]GN[ ]FG[259:]PM[2]
+;B[pd];W[dp];B[pp];W[dd];B[fc];W[cf];B[cq];W[dq];B[cp];W[co];B[bo];W[bn];B[cn];W[do];B[bm];W[bp];B[an];W[bq];B[nc]
+;W[cj]C[白は a 狙い、というか三々に入った黒の構想が微妙?]LB[cl:a]
+;B[cq];W[dq];B[cp]
+(
+;W[co];B[bo]
+(
+;W[bn]C[場合の手、から有力な手、に (難しい変化がない]
+;B[cn];W[do];B[bm]
+(
+;W[bp];B[an];W[bq];B[cf];W[ce];B[df];W[fd];B[dn];W[nc]
+)
+(
+;FG[259:]PM[2]
+;W[dn]C[この変化もある (この場合は適切ではない?]
+)
+
+)
+(
+;FG[259:]PM[2];W[cn];B[bn];W[cm];B[bm];W[cl]
+;B[jp]C[これは黒満足]
+)
+
+)
+(
+;FG[259:]PM[2];W[do];B[bn];W[nq];B[qn]
+;W[jp]C[先手を取って大場に先行]
+)
+
+)

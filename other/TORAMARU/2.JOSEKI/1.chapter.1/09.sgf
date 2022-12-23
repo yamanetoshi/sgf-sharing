@@ -1,0 +1,70 @@
+
+(;CA[UTF-8]GM[1]SZ[19]ST[2]FF[4]AP[GOWrite:3.0.18]PB[ ]PW[ ]GN[ ]FG[259:]PM[2]
+;B[qd];W[dp];B[pq];W[dd];B[nd];W[po]
+;B[ql]C[A よりこちらの方がよく打たれているとのこと]LB[pl:A]
+(
+;W[mp]C[有力];B[qo]
+(
+;W[qn];B[qp];W[pn];B[op];W[nn]
+;B[pi]C[a よりまさる、そしてこの右辺を構える形がぴったり]LB[pl:a]
+)
+(
+;FG[259:]PM[2]
+;W[pp]C[なだれてきたら]
+;B[qp];W[oq]
+;B[pr]C[さがり]
+;W[pn];B[qn];W[pm]
+;B[or]C[これまた黒満足]
+)
+
+)
+(
+;FG[259:]PM[2]
+;W[np]C[こげいまがけなら]
+;B[oo]C[つけこして]
+;W[op];B[pp]
+(
+;W[on];B[qo];W[no]
+;B[qn]C[実利を得て十分]
+)
+(
+;FG[259:]PM[2]
+;W[qo]C[さがる]
+;B[on]C[のびる]
+;W[rp]C[a 狙い]LB[pm:a]
+;B[rn]C[狙いを防いでかど]
+;W[or]C[下辺をとびおりる]
+;B[rq]C[つけに]
+;W[rr]C[つけかえし]
+;B[sq];W[qq];B[qp];W[qr];B[ro];W[pr];B[sp]
+;W[fc]C[大場 (のちの狙いとして白 b 黒つぎ、白 a がある]LB[oq:b][pm:a]
+)
+
+)
+
+(
+;FG[259:]PM[2];W[qq];B[qr]
+;W[qp]C[つけひきも考えられる]
+;B[or];W[pm];B[pl];W[ol];B[ok];W[qm];B[rl];W[nk];B[oj]
+;W[nl]C[黒は右辺を盛り上げ、白は治まった (次黒は a か b]LB[nj:a][lq:b]
+)
+
+(
+;FG[259:]PM[2]
+;W[om]C[しんぷるな手 (a のかけねらい]LB[pk:a]
+(
+;B[pj]C[かけを避けて受けた]
+;W[mp];B[qo];W[qn];B[qp];W[qm];B[pl];W[nq]C[互角]
+)
+(
+;FG[259:]PM[2];B[qo];W[qn]
+;B[qp]C[つけひく変化もあり]
+;W[rn]
+;B[mq]C[黒の実利]
+;W[pk];B[pi];W[qk]
+;B[fc]C[△を軽く見て先手を (これまた互角]TR[ql]
+)
+
+)
+
+)

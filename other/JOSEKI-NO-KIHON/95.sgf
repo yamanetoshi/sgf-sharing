@@ -1,0 +1,20 @@
+
+(;SZ[19]GM[1]ST[2]FF[4]AP[GOWrite:3.0.20]CA[UTF-8]PB[ ]PM[2]PW[ ]FG[259:]GN[ ]
+;B[do];W[dq];B[eq];W[er];B[ep];W[fq]
+(
+;C[シチョウが悪いとこっちを切る]B[fr]
+;W[gr];B[dr];W[fs];B[cq]
+)
+(
+;PM[2]FG[259:];B[dr]
+(
+;W[cr];B[fr];W[ds]
+;C[シチョウが良ければ互角]B[gq]
+)
+(
+;PM[2]FG[259:];W[fr];B[cq]
+)
+
+)
+
+)
