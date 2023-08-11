@@ -1,29 +1,45 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[pd][pf][qf][lg][je][ic][cc][eh][ei][dj][ek][dl][ck][bk][bl][dm][cn][dq][ep][ko][lo][jp][mn][no][nq][op][pq][qq][po][pn][om][ol][pl][ql]AB[nc][qh][dc][cd][de][dg][dh][di][cj][bj][cl][cp][gp][iq][hr][kq][mq][mp][mo][ln][pp][qp][rq][rr][qo][qn][qm][pm][sn][id][jc][kd][hc][kf]PB[ ]
-;B[mi]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[kf][dh][rr][pm][qm][dc][bj][cj][hc][mo][qh][jc][qo][nc][de][iq][cl][kq][mq][dg][rq][di][ln][cp][cd][gp][qn][sn][mp][id][kd][pp][qp][hr]FG[259:]AW[eh][pf][qf][om][cc][dj][ko][lo][ic][dq][no][po][bl][dl][je][nq][pq][qq][cn][ol][pl][ql][lg][ei][mn][ep][pn][bk][ck][jp][ek][op][pd][dm]PW[ ]PM[2]GN[ ]
+;C[白優勢だが良さげな位置に打たれて攻め方に悩んだ (AI はどのように攻めるか問題]B[mi]
 (
-;W[mm]
+;C[この地点が重要]W[mm]
 (
-;B[oh];W[oc];B[nd];W[ng];B[ki];W[ke];B[nh];W[ld];B[lc];W[lf]
+;C[黒は取られる石ではないが治まるまでに時間がかかる]B[oh]
+;W[oc];B[nd];W[ng];B[ki];W[ke];B[nh];W[ld];B[lc]
+;C[この石の流れよ。。]W[lf]
 )
 (
-;PM[2]FG[259:];B[ng];W[oc];B[nd];W[og];B[nh];W[nf];B[mf];W[oh];B[oi];W[pi]
-)
-
-)
-(
-;PM[2]FG[259:];W[pi]
-(
-;B[fj];W[ej];B[mm];W[nn];B[km]
-)
-(
-;PM[2]FG[259:];B[pc];W[qc];B[qd];W[oc];B[pb];W[od];B[qb];W[jh]
+;PM[2]FG[259:]
+;C[AI 推奨]B[ng]
+;W[oc];B[nd]
+;C[右辺を確定させて白優勢]W[og]
+;B[nh];W[nf];B[mf];W[oh];B[oi]
+;C[傷を守ってる余裕なし]W[pi]LB[mg:a]
 )
 
 )
+(
+;PM[2]FG[259:];C[実戦]W[pi]
+(
+;B[fj];W[ej];B[mm];W[nn]
+;C[白薄い]B[km]
+)
+(
+;PM[2]FG[259:]
+;C[AI 推奨]B[pc]
+;W[qc];B[qd];W[oc];B[pb];W[od];B[qb]
+;C[中央何とかなる? (人間には真似できない打ち方]W[jh]
+)
+
+)
 
 (
-;PM[2]FG[259:];W[ke];B[lf];W[mg];B[mm];W[nn];B[lm]
+;PM[2]FG[259:]
+;C[この手段も検討していた]W[ke]
+;B[lf];W[mg]
+;C[これが厳しい]B[mm]
+;W[nn]
+;C[白失敗]B[lm]
 )
 
 )

@@ -1,31 +1,42 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[qq][rq][cd][dd][de][df][nq][ef][dp][ec][pq]AB[dg][ic][fd][ch][ce][op][pp][qp][cf][od][qd][fc]PB[ ]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[dg][ic][fd][ch][ce][op][pp][qp][cf][od][qd][fc]FG[259:]AW[qq][rq][cd][dd][de][df][nq][ef][dp][ec][pq]PW[ ]PM[2]GN[ ]
 (
 ;W[pk]
 (
 ;B[pi]
 (
-;W[qm]C[正解];B[mo];W[cm];B[ni];W[jd]
+;C[正解 (スソアキとの連絡を見ている]W[qm]
+;B[mo];W[cm];B[ni]
+;C[カラミ攻めにあう怖れがないので思い切って]W[jd]
 )
 (
-;PM[2]FG[259:];W[nk];B[qm];W[ql];B[pm]
+;PM[2]FG[259:]
+;C[自然なようだが]W[nk]
+;C[ツメられて失敗]B[qm]
+;W[ql]
+;C[スソアキで黒も生きていないが白の根拠を奪って動きを不自由にしている]B[pm]
 )
 
 (
-;PM[2]FG[259:];W[pm];B[ol];W[pl];B[nj];W[nn];B[mo]
+;PM[2]FG[259:]
+;C[有力だが]W[pm]
+;B[ol];W[pl]
+;C[忙しく打たれると]B[nj]
+;W[nn]
+;C[上辺に入るタイミングが難しくなっている]B[mo]
 )
 
 )
 (
 ;PM[2]FG[259:]
-;B[qm]C[AI 推奨]
+;C[AI 推奨 (スソアキで地になりにくいマイナスより連絡や根拠のプラスを評価]B[qm]
 ;W[ph];B[cn]
 )
 
 )
 (
 ;PM[2]FG[259:]
-;W[ql]C[これか a 推奨]LB[qm:a]
+;C[これか a 推奨]W[ql]LB[qm:a]
 )
 
 )

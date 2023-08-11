@@ -1,51 +1,78 @@
 
-(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[qd][pd][od][me][ql][ol][pq][op][jo][fq][fp]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[eq][dp][dn][dd][qc][pc][nc][mb][qo][jq][hp]
-;B[hq];W[ip]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[me][fp][ol][fq][ql][op][od][pd][qd][pq][jo]FG[259:]AW[mb][dd][hp][eq][dn][qo][nc][pc][jq][qc][dp]PW[ ]PM[2]GN[ ]
+;C[AI 推奨手]B[hq]
+;W[ip]
 (
-;B[em]
+;C[カケ (左下のモタレながら下辺への攻めを狙っている (攻めるためなら多少の地の損は気にしない]B[em]
 (
-;W[en];B[fn];W[fm];B[gn];W[el];B[gm];W[fl];B[lp]
+;C[黒の作戦にハマっている]W[en]
+;B[fn];W[fm];B[gn];W[el];B[gm];W[fl]
+;C[黒石が強化され、下辺の白石がかなり危険]B[lp]
 )
 (
-;FG[259:]PM[2];W[fo];B[ep]
+;PM[2]FG[259:]
+;C[これには]W[fo]
+;C[逆襲が成立]B[ep]
 (
-;W[dq];B[eo];W[en];B[fn];W[go];B[do];W[co];B[cn];W[dm];B[cp];W[bo];B[bn]
+;W[dq];B[eo];W[en];B[fn];W[go];B[do];W[co];B[cn];W[dm];B[cp];W[bo]
+;C[白ツブレ?]B[bn]
 )
 (
-;FG[259:]PM[2];W[eo];B[dq]
-)
-
-)
-
-(
-;FG[259:]PM[2];W[dm];B[hn]
-(
-;W[go];B[en];W[gn];B[eo];W[do];B[el];W[hm]
-;LB[cq:a]B[dl]C[a が厳しい狙い]
-)
-(
-;FG[259:]PM[2];W[el]
-;B[fm]C[AI 判断は互角]
+;PM[2]FG[259:]
+;C[こちらが相場]W[eo]
+;C[切って黒不満なし]B[dq]
 )
 
 )
 
 (
-;FG[259:]PM[2];W[hn];B[en];W[dm];B[el];W[dl];B[lq];W[ek];B[fk]
+;PM[2]FG[259:];W[dm]
+;C[封鎖する調子]B[hn]
+(
+;C[脱出できるが]W[go]
+;B[en];W[gn];B[eo];W[do];B[el];W[hm]
+;C[押さえて不満なし (a が厳しい狙い]LB[cq:a]B[dl]
+)
+(
+;PM[2]FG[259:];W[el]
+;C[AI 判断は互角]B[fm]
+)
+
 )
 
 (
-;FG[259:]PM[2];W[gn];B[fn];W[gm];B[dm]
+;PM[2]FG[259:]
+;C[これに対しても]W[hn]
+;C[ここから平然と地を与える]B[en]
+;W[dm];B[el];W[dl];B[lq];W[ek]
+;C[地より力関係 (要検証?]B[fk]
+)
+
+(
+;PM[2]FG[259:]
+;C[打ちたくなるところ]W[gn]
+;C[これを用意]B[fn]
+(
+;W[gm]
+;C[黒好形]B[dm]
+)
+(
+;PM[2]FG[259:];W[cl]
+;C[スベリにはこれで黒有利]B[go]
+)
+
 )
 
 )
 (
-;FG[259:]PM[2];B[en]
+;PM[2]FG[259:]
+;C[正解にやや劣るが準正解とのこと]B[en]
 (
 ;W[gn];B[ep];W[dq];B[dm];W[cn];B[el];W[bl];B[lp];W[im]
 )
 (
-;FG[259:]PM[2];W[dm];B[hn]
+;PM[2]FG[259:];W[dm]
+;C[実戦進行だが△が無いとのこと]TR[hq][ip]B[hn]
 )
 
 )

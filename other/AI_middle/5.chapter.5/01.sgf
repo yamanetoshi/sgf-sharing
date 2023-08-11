@@ -1,38 +1,53 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[dp][cn][dd][cf][qj][po][qn][pn]AB[qd][nc][fc][qh][qo][qp][pq][nq]PB[ ]
-;B[ql];W[pl]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[qh][qo][nc][qp][nq][qd][fc][pq]FG[259:]AW[pn][qn][dd][cn][po][cf][qj][dp]PW[ ]PM[2]GN[ ]
+;B[ql]
+;C[打ち込み後のまとめ方の問題 (白は外勢を得ようとしているがそれを許さない打ち方がある]W[pl]
 (
-;B[pk];W[qk];B[ol]
+;C[ハネ出しが正解]B[pk]
+;W[qk];B[ol]
 (
 ;W[pm];B[pj]
 (
-;W[rl];B[qi]
+;W[rl]
+;C[黒成功のワカレ]B[qi]
 (
 ;
 )
 (
 ;PM[2]FG[259:]
-;W[tt]C[黒の狙い]
+;C[黒の狙い]W[tt]
 ;B[rm];W[rn];B[rk];W[qm];B[rj]
 )
 
 )
 (
-;PM[2]FG[259:];W[rh];B[rl];W[rk];B[ri];W[qi];B[pi];W[si];B[rg];W[rj];B[pg]
+;PM[2]FG[259:]
+;C[こちらが優る]W[rh]
+;B[rl];W[rk]
+;C[好手順]B[ri]
+;W[qi];B[pi];W[si];B[rg];W[rj]
+;C[黒不満のないワカレ]B[pg]
 )
 
 )
 (
-;PM[2]FG[259:];W[rl];B[pm];W[qm];B[dc]
+;PM[2]FG[259:];W[rl];B[pm];W[qm]
+;C[黒厚い]B[dc]
 )
 
 )
 (
-;PM[2]FG[259:];B[rl];W[pk];B[rn];W[oe];B[pd];W[ph];B[pg];W[oh]
+;PM[2]FG[259:]
+;C[根拠を奪う打ち方 (AI 評価は低い]B[rl]
+;W[pk];B[rn];W[oe];B[pd];W[ph];B[pg]
+;C[低い?]W[oh]
 )
 
 (
-;PM[2]FG[259:];B[qk];W[pk];B[rj];W[pj];B[ri];W[ln]
+;PM[2]FG[259:];B[qk];W[pk]
+;C[右辺強化]B[rj]
+;W[pj];B[ri]
+;C[AI 評価は低い]W[ln]
 )
 
 )

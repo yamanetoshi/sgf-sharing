@@ -1,7 +1,7 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[dd][dp][cp][ep][jc][po][qn][pn][op][pj][ph][pf][qf][qe]AB[qd][rd][oc][pe][oe][of][lc][qo][qp][pq][oq][nq][cq][dq][fr]PB[ ]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[rd][oe][pe][of][cq][dq][lc][qo][oc][fr][qp][nq][oq][qd][pq]FG[259:]AW[qe][pf][qf][cp][dp][ep][pn][qn][dd][ph][jc][po][op][pj]C[左上の連絡方法?]PW[ ]PM[2]GN[ ]
 (
-;W[gc]
+;C[連絡重視]W[gc]
 )
 (
 ;PM[2]FG[259:];W[fc]

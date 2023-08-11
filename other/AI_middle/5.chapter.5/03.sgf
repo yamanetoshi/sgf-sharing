@@ -1,34 +1,41 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[dc][ed][ch][dp][fq]AB[pd][qp][oq][cn][ce][df]PB[ ]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[qp][cn][df][pd][oq][ce]FG[259:]AW[ed][dc][ch][fq][dp]PW[ ]PM[2]GN[ ]
 (
-;W[co]
+;C[AI ならどうする?]W[co]
 (
-;B[fe]C[AI は手抜きが好き (a が厳しい]LB[fd:a]
-;W[gd]
+;C[AI は手抜きが好き (a が厳しい]LB[fd:a]B[fe]
+;C[仕方ない]W[gd]
 (
-;B[bo];W[bp];B[do];W[cp];B[di];W[ci];B[dj];W[dh];B[eh];W[eg];B[fh];W[bk]
-;B[cl]C[黒満足]
+;C[地を損した打ち方]B[bo]
+;W[bp];B[do];W[cp]
+;C[損したのはこれを打つため]B[di]
+;W[ci];B[dj];W[dh];B[eh];W[eg];B[fh];W[bk]
+;C[黒満足]B[cl]
 )
 (
-;PM[2]FG[259:];B[ck]
+;PM[2]FG[259:];C[有力]B[ck]
 (
-;W[eh];B[dn]
+;W[eh]
+;C[左辺は治まり形 (左上も取られることはないとのこと]B[dn]
 )
 (
-;PM[2]FG[259:];W[dn];B[di]
+;PM[2]FG[259:];W[dn]
+;C[この変化は黒有利]B[di]
 )
 
-)
-
-)
-(
-;PM[2]FG[259:];B[dn];W[ck]
 )
 
 )
 (
 ;PM[2]FG[259:]
-;W[ck]C[これが無難]
+;C[悪くはないが注文通り]B[dn]
+;C[これを防ぐために何か工夫したい]W[ck]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[これが無難]W[ck]
 )
 
 )

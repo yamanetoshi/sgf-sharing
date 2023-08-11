@@ -1,58 +1,78 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[dd][dp][cn]AB[pd][fq][pq][qn]PB[ ]
-;W[pp];B[op];W[qq]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[qn][fq][pd][pq]FG[259:]AW[dd][dp][cn]PW[ ]PM[2]GN[ ]
+;C[AI 発]W[pp];B[op];W[qq]
 (
-;B[po];W[qp]
+;C[工夫した打ち方]B[po]
+;W[qp]
 (
-;B[or]
+;C[工夫した打ち方]B[or]
 (
-;W[oo]
+;C[キリが正解 (隅を取られても構わない]W[oo]
 (
-;B[qr];W[np];B[oq];W[on];B[ql];W[rr];B[rs];W[lq]
+;B[qr]
+;C[気持ち良いアテ]W[np]
+;B[oq];W[on];B[ql];W[rr];B[rs]
+;C[隅の白はまだアジ残り]W[lq]
 (
 ;
 )
 (
-;PM[2]FG[259:];B[tt];W[nq];B[nr];W[mr]
-;B[rq]C[a, b のあじ残り]LB[pm:a][qm:b]
-)
-
-)
-(
-;PM[2]FG[259:];B[np];W[rn];B[rm];W[ro];B[qm];W[pr];B[oq]
-)
-
-)
-(
-;PM[2]FG[259:];W[pr];B[oq];W[rn];B[rm];W[ro];B[qm]
-)
-
-(
-;PM[2]FG[259:];W[rn];B[rm];W[ro];B[qm];W[qr];B[mo]
+;PM[2]FG[259:];B[tt]
+;C[利き残り]W[nq]
+;B[nr];W[mr]
+;C[a, b のあじ残り]LB[pm:a][qm:b]B[rq]
 )
 
 )
 (
 ;PM[2]FG[259:]
-;B[oq]C[これが普通]
+;C[捨て石拒否]B[np]
+;W[rn];B[rm];W[ro];B[qm];W[pr]
+;C[形が悪いので白有利]B[oq]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[捨てる発想がなければ]W[pr]
+;B[oq];W[rn];B[rm];W[ro]
+;C[生きたが黒の厚みが]B[qm]
+)
+
+(
+;PM[2]FG[259:];W[rn];B[rm];W[ro];B[qm]
+;C[キリを狙うならこれ、が人間の発想、とのこと]W[qr]LB[oo:a]
+;C[守られて良いとは言えず?]B[mo]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[これが普通]B[oq]
 (
 ;W[rn];B[rm];W[ro]
-;B[qm]C[白先手]
+;C[白先手]B[qm]
 )
 (
-;PM[2]FG[259:];W[oo];B[ro];W[on];B[qr]
-;W[lp]C[これでも OK]
+;PM[2]FG[259:]
+;C[AI はこれも白有利と判断]W[oo]
+;B[ro];W[on];B[qr]
+;C[これでも OK (シマリがあった所なので地はそれほど増えてない]W[lp]
 )
 
 )
 
 (
-;PM[2]FG[259:];B[pr];W[qr];B[nq];W[rn];B[rm];W[ro];B[cc]
+;PM[2]FG[259:];C[有力]B[pr];W[qr];B[nq];W[rn];B[rm]
+;C[これに手抜くために下と厚く打っている]W[ro]
+;B[cc]
 )
 
 )
 (
-;PM[2]FG[259:];B[qp];W[po];B[qo];W[oq];B[pr];W[np];B[oo];W[pn];B[nq];W[qm];B[rm];W[on];B[or];W[rl];B[ql];W[pm];B[rn];W[qk]
+;PM[2]FG[259:]
+;C[これが定石とのこと]B[qp]
+;W[po];B[qo];W[oq];B[pr];W[np];B[oo];W[pn];B[nq];W[qm];B[rm];W[on];B[or];W[rl];B[ql];W[pm];B[rn];W[qk]
 )
 
 )

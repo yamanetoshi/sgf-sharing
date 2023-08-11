@@ -1,25 +1,38 @@
 
-(;AP[GOWrite:3.0.18]CA[UTF-8]FF[4]SZ[19]GM[1]ST[2]AB[pd][nd][nc][pe][qe][rf][qg][op][po][qn][pm][on][oo][nq][or]PM[2]FG[259:]GN[ ]PB[ ]PW[ ]AW[oq][pp][qq][pr][qo][qp][dp][dd][oc][ob][qc][qd][rd][re]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[pe][or][qe][rf][pm][qg][on][qn][oo][po][nc][op][nd][nq][pd]FG[259:]AW[qq][rd][pr][re][dp][dd][ob][qo][oc][pp][qc][qp][oq][qd]C[黒模様の制限方法について]PW[ ]PM[2]GN[ ]
 (
-;W[od]
+;C[デギリが正解]W[od]
 (
-;B[oe];W[ne];B[ld];W[me];B[kc];W[mg];B[kf];W[ni];B[pi];W[kg];B[jg];W[kh];B[lf];W[jh];B[ig];W[ih];B[hg];W[hh];B[gg];W[fc]
+;B[oe]
+;C[黒は切った石を攻めたいが]W[ne]
+;C[二目が弱いので守る]B[ld]
+;W[me];B[kc];W[mg];B[kf];W[ni];B[pi];W[kg];B[jg];W[kh];B[lf];W[jh];B[ig];W[ih];B[hg];W[hh];B[gg]
+;C[競りあっている内に模様が消える (おそらく切った石は捨てるはず (右下あたりの変化も要確認?]W[fc]
 )
 (
-;FG[259:]PM[2];B[nf];W[ne];B[me];W[oe];B[of];W[mf]
-)
-
-)
-(
-;FG[259:]PM[2];W[li];B[lg];W[ji]
-)
-
-(
-;FG[259:]PM[2];W[fc];B[li]
+;PM[2]FG[259:]
+;C[外されても]B[nf]
+;W[ne];B[me];W[oe];B[of]
+;C[切る手段がある]W[mf]
 )
 
+)
 (
-;FG[259:]PM[2];W[nf];B[ne];W[lf]
+;PM[2]FG[259:];W[li]
+;C[黒の弱点がなくなってしまう]B[lg]
+;W[ji];B[fq]
+)
+
+(
+;PM[2]FG[259:]
+;C[白が大場に打った場合]W[fc]
+;C[このあたりが良い着点]B[li]
+)
+
+(
+;PM[2]FG[259:]
+;C[これはアジ消し]W[nf]
+;B[ne];W[lf]
 )
 
 )

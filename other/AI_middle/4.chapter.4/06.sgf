@@ -1,31 +1,35 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[qc][pc][nb][fq][dp][cj][gf][fe][gd][gc][gb][ed][dd][dc][db]AB[pd][qd][od][pj][qp][oq][cc][cd][cf][ee][ef][gg][fd][fc][eb]PB[ ]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[gg][eb][cc][fc][cd][fd][ee][qp][cf][pj][od][ef][pd][oq][qd]FG[259:]AW[db][gb][dc][dp][cj][gc][nb][dd][ed][fq][gd][pc][fe][qc][gf]PW[ ]PM[2]GN[ ]
 (
-;B[gp]
+;C[カタツキにどう受けるか]B[gp]
 (
-;W[dm];B[gq];W[np];B[op];W[nn]
+;C[連絡が正解]W[dm]
+;B[gq];W[np];B[op];W[nn]
 )
 (
 ;PM[2]FG[259:];W[fp]
 (
-;B[gn];W[dm]
+;B[gn]
+;C[白の理想形]W[dm]
 )
 (
-;PM[2]FG[259:];B[bo];W[bp];B[dk];W[ck];B[dm]
+;PM[2]FG[259:]
+;C[AI の感覚ではない模様]B[bo]
+;W[bp];B[dk];W[ck];B[dm]
 )
 
 )
 
 (
 ;PM[2]FG[259:]
-;W[gq]C[a と受けて下さい、という手]LB[hp:a]
+;C[a と受けて下さい、という手 (一路右]W[gq]LB[hp:a]
 ;B[cl]
 )
 
 )
 (
 ;PM[2]FG[259:]
-;B[cl]C[こちらの方が]
+;C[こちらの方が優る (素直に]B[cl]
 )
 
 )

@@ -1,36 +1,45 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[dd][dp][mp][oo][pn][po][qo][pp][qp][ro][rq][qc][rc][pc][nc]AB[pd][qd][od][fq][op][np][oq][pq][qq][no][nn][on][pm][ql]PB[ ]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[qq][ql][pm][nn][on][no][fq][np][op][od][pd][oq][qd][pq]FG[259:]AW[rq][dp][pn][dd][oo][po][qo][mp][ro][nc][pc][pp][qc][qp][rc]C[下辺黒模様ができそう (AI 好みの打ち方?]PW[ ]PM[2]GN[ ]
 (
-;B[ip];W[cn];B[me]
+;C[正解]B[ip];W[cn];B[me]
 )
 (
-;PM[2]FG[259:];B[me];W[hq]
-)
-
-(
-;PM[2]FG[259:];B[fo];W[cn]
-(
-;B[dm];W[dn];B[em];W[iq]
-)
-(
-;PM[2]FG[259:];B[ip];W[jo];B[jp];W[kk]
-)
-
+;PM[2]FG[259:]
+;C[ここは]B[me]
+;C[ハサまれて下辺が黒地にならない]W[hq]
 )
 
 (
-;PM[2]FG[259:];B[cn];W[dn];B[dm];W[en]
+;PM[2]FG[259:]
+;C[素直だが幅が広すぎる]B[fo]
+;W[cn]
 (
-;B[co];W[cp];B[ip];W[io];B[jp];W[dk];B[dl];W[ck];B[fl];W[go]
+;B[dm];W[dn];B[em]
+;C[打ちこまれると]W[iq]
 )
 (
-;PM[2]FG[259:];B[cp];W[cq];B[co];W[fp];B[do];W[ep];B[bq];W[dr];B[cr];W[dq];B[br]
+;PM[2]FG[259:]
+;C[ここに囲う打ち方もある]B[ip]
+;W[jo];B[jp];W[kk]
 )
 
 )
 
 (
 ;PM[2]FG[259:]
+;C[両ガカリも有力]B[cn]
+;W[dn];B[dm];W[en]
+(
+;B[co];W[cp];B[ip];W[io];B[jp];W[dk];B[dl];W[ck];B[fl]
+;C[これで悪いわけではない]W[go]
+)
+(
+;PM[2]FG[259:]
+;C[方向が悪い]B[cp]
+;W[cq];B[co];W[fp];B[do];W[ep];B[bq];W[dr];B[cr];W[dq];B[br]
+;C[黒模様が跡形もない]W[iq]
+)
+
 )
 
 )

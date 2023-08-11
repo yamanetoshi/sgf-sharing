@@ -1,36 +1,38 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[dd][dp][cp][ep][fp][gq][hq]AB[pd][pp][cq][dq][eq][fq][gr][hr]PB[ ]
-;W[dj];B[iq]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[cq][dq][eq][fq][pp][gr][hr][pd]FG[259:]AW[fp][dd][gq][hq][cp][dp][ep]PW[ ]PM[2]GN[ ]
+;C[AI 流]W[dj]
+;C[ここより左辺が大きいという判断]B[iq]
 (
-;W[ip]
+;C[筋悪いがこれが正解]W[ip]
 (
-;B[jq]C[利かし]
+;C[利かし]B[jq]
 ;W[fc];B[gp];W[hp];B[go]
 (
-;W[jn]C[a, b が見合い]LB[hn:a][jp:b]
+;C[a, b が見合い]W[jn]LB[hn:a][jp:b]
 )
 (
 ;PM[2]FG[259:];W[in]
-;B[hn]C[こすみつけられて形が崩れる]
+;C[こすみつけられて形が崩れる]B[hn]
 )
 
 )
 (
 ;PM[2]FG[259:]
-;B[jp]C[これが本線]
-;W[io];B[jo];W[in];B[jn];W[im];B[jm];W[jl];B[gp];W[hp];B[il];W[jk]
+;C[これが本線]B[jp]
+;W[io];B[jo];W[in];B[jn];W[im];B[jm];W[jl];B[gp];W[hp];B[il]
+;C[この後どうなるのか (要検証]W[jk]
 )
 
 )
 (
 ;PM[2]FG[259:]
-;W[fc]C[手抜き]
-;B[io]C[絶好点]
+;C[手抜き]W[fc]
+;C[絶好点]B[io]
 )
 
 (
 ;PM[2]FG[259:]
-;W[ho]C[これが今までの常識]
+;C[これが今までの常識]W[ho]
 )
 
 )

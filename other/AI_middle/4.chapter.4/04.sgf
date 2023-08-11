@@ -1,33 +1,48 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[dd][dn][en][fn][co][cp][dp][dq][bq][hq][kq]AB[pd][pp][cf][cq][bp][bo][cn][cm][dm][em][fq]PB[ ]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]LB[fc:A]PB[ ]AB[em][cq][cn][fq][bo][pp][cf][bp][pd][cm][dm]FG[259:]AW[bq][dd][dq][dn][en][fn][hq][co][kq][cp][dp]C[左辺に黒模様ができそう (両ガカリが第一感だが AI はどうか問題]PW[ ]PM[2]GN[ ]
 (
-;B[ef]
+;C[これが正解]B[ef]
 (
-;W[fc];B[gd];W[gc];B[hd];W[ib];B[fm];W[gn];B[hl]
+;W[fc]
+;C[どんどん広げる]B[gd]
+;W[gc];B[hd];W[ib];B[fm];W[gn]
+;C[黒、打ちやすい進行]B[hl]
 )
 (
-;PM[2]FG[259:];W[ce];B[bf];W[fe]
+;PM[2]FG[259:];W[ce];B[bf]
+;C[上辺を広げる作戦]W[fe]
 (
-;B[ff];W[ge];B[gf];W[id];B[gc];W[hb]
+;B[ff];W[ge];B[gf];W[id];B[gc]
+;C[いい勝負とのこと (直前着手の意味は?]W[hb]
 )
 (
-;PM[2]FG[259:];B[fc]
+;PM[2]FG[259:]
+;C[これもアリ]B[fc]
 )
 
 )
 
 )
 (
-;PM[2]FG[259:];B[fm];W[df];B[dg];W[ef];B[be];W[eg];B[dh];W[eh]
+;PM[2]FG[259:]
+;C[左辺を広げる方針だが]B[fm]
+;C[制限されてしまう]W[df]
+;B[dg];W[ef];B[be];W[eg];B[dh];W[eh]
 )
 
 (
-;PM[2]FG[259:];B[fc];W[fd];B[gd];W[fe];B[dc];W[cc];B[ec];W[df]
+;PM[2]FG[259:]
+;C[両ガカリ]B[fc]
+;W[fd];B[gd];W[fe];B[dc];W[cc];B[ec];W[df]
 (
-;B[cg];W[cd];B[dg];W[fg];B[hc];W[dj];B[bj]
+;B[cg];W[cd];B[dg];W[fg];B[hc];W[dj]
+;C[白に圧力をかけることで左辺に侵入しにくくさせる曲線的な打ち方?]B[bj]
 )
 (
-;PM[2]FG[259:];B[ed];W[ee];B[cb];W[bd];B[bc];W[cd];B[bb];W[ci]
+;PM[2]FG[259:]
+;C[定石進行]B[ed]
+;W[de];B[cb];W[bd];B[bc];W[cd];B[bb]
+;C[白打ちやすい]W[ci]
 )
 
 )

@@ -1,18 +1,28 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[dc][dd][de][dp][lq][pp][pq][qq][qb][pc][pb][ob][nc][mc]AB[cd][cc][bf][fq][np][nr][po][qp][ro][pd][od][nd][oc][qc][qf]PB[ ]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[nr][qf][cc][cd][fq][po][ro][np][oc][bf][qc][qp][nd][od][pd]FG[259:]AW[qq][dc][dp][dd][ob][pb][qb][mc][de][nc][pc][pp][lq][pq]C[右下隅が焦点]PW[ ]PM[2]GN[ ]
 (
-;W[oo];B[op];W[pn];B[qo];W[on]
+;C[ハネ出しが正解]W[oo]
+;B[op]
+;C[これが打てれば隅はいらない]W[pn]
+;B[qo];W[on]
 (
 ;B[rq]
-;W[mo]C[白 a 以降の味残り]LB[rr:a][sr:b][or:c]
+;C[白 a 以降の味残り (c は一路右]W[mo]LB[rr:a][sr:b][or:c]
 )
 (
-;PM[2]FG[259:];B[mo]
+;PM[2]FG[259:]
+;C[シメツケを嫌った手]B[mo]
 (
-;W[rm];B[rq];W[rr];B[sr];W[pr];B[rs];W[qj]
+;C[ここに打たれてあまり変わらない]W[rm]
+;B[rq];W[rr];B[sr];W[pr];B[rs]
+;C[右辺を荒らされた上、隅はコウ残り]W[qj]
 )
 (
-;PM[2]FG[259:];W[rq];B[ql];W[or];B[oq];W[pr];B[pk]
+;PM[2]FG[259:]
+;C[下がりで生きることはできるが]W[rq]
+;C[右辺連打]B[ql]
+;W[or];B[oq];W[pr]
+;C[右辺連打]B[pk]
 )
 
 )
@@ -20,12 +30,16 @@
 )
 (
 ;PM[2]FG[259:]
-;W[rp]C[AI の発想にはない]
-;B[qo];W[or];B[lp];W[kp];B[lo]
+;C[AI の発想にはない]W[rp]
+;B[qo];W[or];B[lp];W[kp]
+;C[特に 1、2 の交換が悪い]B[lo]
 )
 
 (
-;PM[2]FG[259:];W[or];B[rq];W[oo];B[pn]
+;PM[2]FG[259:]
+;C[生きと捨て石を天秤にかけた手]W[or]
+;C[好形]B[rq];W[oo]
+;C[隅を捨てる形がなくなった?]B[pn]
 )
 
 )

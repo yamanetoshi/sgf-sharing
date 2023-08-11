@@ -1,24 +1,40 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[qo][qp][pq][nq][od][pc][nc][mc][lc][jc][pi]AB[dd][dp][po][pn][qn][qe][oe][nd][md][ld][kd]PB[ ]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[pn][qn][dd][oe][qe][po][kd][ld][md][nd][dp]FG[259:]AW[jc][lc][qo][mc][nc][pi][pc][qp][nq][od][pq]C[右辺の白石をどう攻めるか問題]PW[ ]PM[2]GN[ ]
 (
-;B[qk]C[a, b もあり]LB[pj:a][pk:b]
-;W[ni];B[oj];W[oi];B[ri];W[nf];B[of];W[og];B[mf]
+;C[a, b もあり (根拠を奪って攻めるのが AI 流]LB[pj:a][pk:b]B[qk]
+;W[ni]
+;C[追い立てる]B[oj]
+;W[oi]
+;C[追いたてる]B[ri]
+;C[サバキの手筋]W[nf]
+;B[of];W[og];B[mf]
 )
 (
-;PM[2]FG[259:];B[pk];W[ni];B[cn];W[nf]
+;PM[2]FG[259:]
+;C[じっくり攻めるのも有力]B[pk]
+;W[ni];B[cn]
+;C[周りの黒が薄くなるので一長一短]W[nf]
 )
 
 (
-;PM[2]FG[259:];B[pj];W[oi];B[qj];W[qi];B[oj];W[ni];B[mk];W[lj];B[kh]
+;PM[2]FG[259:];C[有力]B[pj]
+;C[いろいろ変化がある]W[oi]
+;B[qj];W[qi];B[oj];W[ni];B[mk];W[lj];B[kh]
 )
 
 (
-;PM[2]FG[259:];B[ni]
+;PM[2]FG[259:]
+;C[人間的]B[ni]
 (
-;W[qk];B[ok];W[qg];B[og];W[fq];B[eq];W[fp];B[dn];W[mo]
+;W[qk];B[ok];W[qg];B[og];W[fq];B[eq];W[fp];B[dn]
+;C[AI 好みではないが評価値はそれほど落ちないとのこと]W[mo]
 )
 (
-;PM[2]FG[259:];W[ok];B[qk];W[oi];B[nj];W[pk];B[rj];W[nk];B[qh]
+;PM[2]FG[259:]
+;C[封鎖を避けた]W[ok]
+;C[これがぴったり]B[qk]
+;W[oi];B[nj];W[pk];B[rj];W[nk]
+;C[連絡できたので後は攻めるだけ]B[qh]
 )
 
 )

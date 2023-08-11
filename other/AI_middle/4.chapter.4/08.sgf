@@ -1,33 +1,39 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[dd][po][pn][qn][pd][pe][qe][oc][nc][mc]AB[cp][pq][qp][qo][nq][pc][qc][qd][ob][nb]PB[ ]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[nb][ob][qo][pc][qc][qp][cp][nq][pq][qd]FG[259:]AW[pn][qn][dd][pe][qe][po][mc][nc][oc][pd]PW[ ]PM[2]GN[ ]
 (
-;B[mb]
+;C[受けるか手抜くか]B[mb]
 (
-;W[pj];B[lc]
+;C[ヒラキが正解]W[pj]
+;B[lc]
 (
-;W[ld]
+;C[ハネて頑張る]W[ld]
 (
-;B[kc];W[eq];B[ne];W[do]
+;B[kc];W[eq];B[ne]
+;C[右上は軽いので手抜く]W[do]
 )
 (
-;PM[2]FG[259:];B[kd];W[le];B[ke];W[kc];B[lb];W[kf];B[lf];W[ne];B[ie];W[kg]
+;PM[2]FG[259:];B[kd];W[le];B[ke];W[kc];B[lb];W[kf];B[lf];W[ne];B[ie]
+;C[白戦える]W[kg]
 )
 
 )
 (
 ;PM[2]FG[259:]
-;W[ne]C[AI は打たない、できるだけ相手に受けてもらえそうな打ち方をする]
+;C[AI は打たない、できるだけ相手に受けてもらえそうな打ち方をする]W[ne]
 )
 
 )
 (
-;PM[2]FG[259:];W[lc];B[pj];W[nj]
+;PM[2]FG[259:]
+;C[AI 第一感ではないが評価値はそれほど変わらない]W[lc]
+;B[pj];W[nj]
 )
 
 )
 (
-;PM[2]FG[259:];B[pj]
-;W[mb]C[後手だが a の利きもあり見た目以上に大きい]LB[re:a]
+;PM[2]FG[259:]
+;C[こうだと]B[pj]
+;C[後手だが a の利きもあり見た目以上に大きい]W[mb]LB[re:a]
 )
 
 )

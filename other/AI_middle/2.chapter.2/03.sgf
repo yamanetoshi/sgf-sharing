@@ -1,31 +1,38 @@
 
-(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[dq][co][qd][pf][ld]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]C[白番で]AW[dd][pp][oc][oe]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[co][pf][ld][dq][qd]FG[259:]AW[oc][dd][pp][oe]C[白番で]PW[ ]PM[2]GN[ ]
 (
-;W[of]C[押しが正解。上辺を攻める。]
-;B[pg];W[og];B[ph];W[oh];B[pi];W[jd];B[lf];W[jf];B[lh];W[oi]
+;C[押しが正解。上辺を攻める。]W[of]
+;B[pg];W[og];B[ph];W[oh];B[pi];W[jd];B[lf];W[jf];B[lh]
+;C[右辺は黒地になるが白の形には隙がなく、上辺の力関係は白有利]W[oi]
 )
 (
-;FG[259:]PM[2]
+;PM[2]FG[259:]
 (
-;W[qc];B[rc];W[qb];B[pd];W[od]
+;C[定石]W[qc];B[rc];W[qb];B[pd];W[od]
 (
-;B[ph]
+;C[少し損という判断]B[ph]
 )
 (
-;FG[259:]PM[2];B[mf];W[ng];B[pg]
+;PM[2]FG[259:]
+;C[これも定石だが]B[mf]
+;W[ng];B[pg]
 (
-;W[qi];B[nf];W[rg]
+;W[qi];B[nf]
+;C[白持ち]W[rg]
 )
 (
-;FG[259:]PM[2];W[nf];B[qj];W[oi];B[pj];W[jd]
+;PM[2]FG[259:];W[nf];B[qj];W[oi];B[pj]
+;C[白は上辺黒を攻める進行が望ましい]W[jd]
 )
 
 )
 
 )
 (
-;FG[259:]PM[2];W[jd];B[qn];W[nq];B[pc];W[pb];B[qb]
-;W[of]C[ここが急所らしく]
+;PM[2]FG[259:]
+;C[単にハサむのも有力]W[jd]
+;B[qn];W[nq];B[pc];W[pb];B[qb]
+;C[ここが急所らしく]W[of]
 )
 
 )

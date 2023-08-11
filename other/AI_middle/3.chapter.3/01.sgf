@@ -1,26 +1,41 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[be][ce][cd][dd][ed][ch][bm][cm][dn][do][dp][eo][fo][fp][cq][bq][bp][po][qn][pn][qj]AB[pd][pq][qp][qo][nq][br][cr][dq][ep][eq][fq][gp][cp][cn][bd][cc][bc][dc][fc][cf][cl]PB[ ]
-;B[ef]LB[fd:A][dg:B]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[cn][bc][cc][cp][dc][ep][fc][bd][gp][dq][eq][fq][qo][br][cr][cl][qp][cf][nq][pd][pq]FG[259:]AW[dn][ch][do][eo][fo][bp][dp][fp][pn][cd][bq][qn][dd][cq][ed][be][po][ce][bm][qj][cm]PW[ ]PM[2]GN[ ]
+;C[白は黒を攻めたい (人間の感覚だと A, B だが]LB[fd:A][dg:B]B[ef]
 (
-;W[bf]
+;C[ワタリが正解]W[bf]
 (
-;B[gf];W[ge];B[hf];W[eh]
+;B[gf];W[ge];B[hf]
+;C[白は足が遅いようだが弱みがないので一方的に攻めることができる]W[eh]
 )
 (
-;PM[2]FG[259:];B[eh];W[nc]
-)
-
-)
-(
-;PM[2]FG[259:];W[fd];B[gc];W[gd];B[bf];W[af];B[ag];W[ae];B[bh];W[ci];B[dg];W[gf];B[ei];W[ck];B[gi]
+;PM[2]FG[259:]
+;C[このあたりで左辺を制限する方が優る模様]LB[fi:a]B[eh]
+;C[白は遠くから攻めを狙う]W[nc]
 )
 
+)
 (
-;PM[2]FG[259:];W[dg];B[df];W[bg];B[fh];W[eg];B[fg];W[ff];B[hh];W[gf];B[di]
+;PM[2]FG[259:]
+;C[第一感]W[fd]
+;B[gc];W[gd]
+;C[遮られてよくないとの判断]B[bf]
+;W[af];B[ag];W[ae];B[bh];W[ci];B[dg];W[gf];B[ei];W[ck]
+;C[上の白が不安定で黒への攻めが効かない]B[gi]
 )
 
 (
-;PM[2]FG[259:];W[eh];B[bf];W[af];B[bh];W[df];B[dg];W[dh];B[eg];W[cg];B[bg];W[fd];B[gc];W[bi];B[de];W[ah];B[gf]
+;PM[2]FG[259:]
+;C[連絡しているが薄い形?]W[dg]
+;B[df];W[bg];B[fh];W[eg];B[fg];W[ff];B[hh];W[gf]
+;C[捨て石で黒有利 (白手抜くと a, b, c]LB[cg:a][dh:b][bf:c]B[di]
+)
+
+(
+;PM[2]FG[259:]
+;C[これも有力]W[eh]
+;C[押さえこまれても]B[bf]
+;W[af];B[bh];W[df];B[dg];W[dh];B[eg];W[cg];B[bg];W[fd];B[gc];W[bi];B[de];W[ah]
+;C[連絡していると主張 (難しい打ち方なので正解の変化推奨]B[gf]
 )
 
 )

@@ -1,26 +1,34 @@
 
-(;AP[GOWrite:3.0.18]CA[UTF-8]FF[4]SZ[19]GM[1]ST[2]AB[qd][nc][fd][eb][db][cc][bb][cd][bf][br][bq][cq][dr][dp][cn]PM[2]FG[259:]GN[ ]PB[ ]PW[ ]AW[cb][dc][dd][de][ce][be][ci][cr][dq][eq][ep][fq][pp][qn]
-;W[kq]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[cn][bb][db][eb][cc][dp][cd][bq][cq][fd][br][nc][dr][bf][qd]FG[259:]AW[cb][ci][dc][ep][qn][dd][dq][eq][be][fq][ce][de][cr][pp]PW[ ]PM[2]GN[ ]
+;C[ひねった位置へのヒラキ (AI 的にはこの一手]W[kq]
 (
-;B[iq];W[em];B[io];W[do];B[gn]
+;C[AI は左下を厚みと見ていない模様]B[iq]
+;W[em];B[io];W[do];B[gn]
 )
 (
-;FG[259:]PM[2]
+;PM[2]FG[259:]
 (
-;B[pi];W[ko]
+;C[普通の発想だが]B[pi]
+;C[模様に芯を入れられてチャンスを逃している]W[ko]
 )
 (
-;FG[259:]PM[2];B[pm];W[pn];B[nm];W[ko]
-)
-
-)
-
-(
-;FG[259:]PM[2];B[ko];W[ip]
+;PM[2]FG[259:];C[実戦]B[pm];W[pn];B[nm]
+;C[こう守られては甘いとのこと]W[ko]
 )
 
+)
+
 (
-;FG[259:]PM[2];B[nq];W[oq];B[np];W[ko]
+;PM[2]FG[259:]
+;C[打ち込みがあるとすると甘い]B[ko]
+;W[ip]
+)
+
+(
+;PM[2]FG[259:]
+;C[打ち込む場所が違う]B[nq]
+;W[oq];B[np]
+;C[白は下辺を守りながら攻めることができる理想的な展開]W[ko]
 )
 
 )

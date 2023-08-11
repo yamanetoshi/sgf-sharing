@@ -1,29 +1,36 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[pp][pd][dq][cq][fq][gr][gp][hq][gn]AB[dc][df][dp][cp][ep][fp][eq][er]PB[ ]
-;B[nq]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[fp][eq][er][df][dc][cp][dp][ep]FG[259:]AW[gp][cq][dq][fq][hq][gn][pp][gr][pd]PW[ ]PM[2]GN[ ]
+;C[カカリに対してどう打つか問題]B[nq]
 (
-;W[lq]
+;C[こちらが正解]W[lq]
 (
-;B[lp]
-(
-;W[kp];B[mp];W[ko];B[pn];W[or];B[nm];W[qn];B[qm];W[qo]
+;B[lp];W[kp];B[mp]
+;C[凝り形に見えるが AI は有り難いと判断]W[ko]
+;B[pn];W[or];B[nm];W[qn];B[qm]
+;C[万全の体制を確保して攻めを考える]W[qo]
 )
 (
 ;PM[2]FG[259:]
+;C[三々は怖くない]B[qq]
+;W[pq];B[qp];W[po];B[pr];W[or];B[qr];W[nr]
+;C[下辺重複気味に見えるが AI は白持ちとのこと (この判断が無いとハサめない]B[qn]
+)
+
+(
+;PM[2]FG[259:]
+;C[AI 推奨]B[qn]
+;W[pn];B[pm];W[on];B[qq];W[qo];B[pq];W[qm];B[mq]
+;C[AI は無理して攻めない]W[lp]
 )
 
 )
 (
-;PM[2]FG[259:];B[qq];W[pq];B[qp];W[po];B[pr];W[or];B[qr];W[nr];B[qn]
-)
-
-(
-;PM[2]FG[259:];B[qn];W[pn];B[pm];W[on];B[qq];W[qo];B[pq];W[qm];B[mq];W[lp]
-)
-
-)
-(
-;PM[2]FG[259:];W[oq];B[np];W[pn];B[kq];W[jo];B[ko];W[kn];B[lo];W[jp];B[mm];W[pk]
+;PM[2]FG[259:]
+;C[左の白は強くない]W[oq]
+;B[np];W[pn];B[kq]
+;C[ここから、が AI 流]W[jo]
+;B[ko];W[kn];B[lo];W[jp];B[mm]
+;C[どうせ守るなら正解図を選びたい]W[pk]
 )
 
 )

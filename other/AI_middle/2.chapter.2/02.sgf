@@ -1,30 +1,39 @@
 
-(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[pd][qd][od][nc][fq][fo][jq][kp][lp][po][pq]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]C[A なら普通]LB[fm:A]AW[jp][ip][hq][jn][dp][dm][dd][nb][oc][pc][qc]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]LB[fm:A]PB[ ]AB[fq][kp][po][lp][nc][jq][fo][od][pd][qd][pq]FG[259:]AW[dd][nb][ip][jp][hq][oc][pc][jn][qc][dp][dm]C[A なら普通]PW[ ]PM[2]GN[ ]
 (
-;B[el]C[これが正解、中央で優位に、という作戦]
+;C[これが正解、中央で優位に、という作戦]B[el]
 (
-;W[em];B[fm];W[fl];B[gl];W[fk];B[gm];W[gk];B[im];W[jm];B[hk]
+;W[em];B[fm]
+;C[デギリには]W[fl]
+;B[gl];W[fk];B[gm];W[gk]
+;C[一目は捨てて下辺の攻めに]B[im]
+;W[jm];B[hk]
 )
 (
-;FG[259:]PM[2];W[dl];B[ek];W[dk];B[em];W[dj]
-;B[ej]C[AI は黒も打てると判断]
-)
-
-(
-;FG[259:]PM[2];W[fn];B[eo];W[co];B[gn]
-)
-
-)
-(
-;FG[259:]PM[2]
-;B[em]C[やや劣る]
-;W[el];B[fm];W[dn];B[fl];W[ek];B[fk];W[ej];B[jl];W[ko];B[mn];W[kl];B[jk];W[ln]
+;PM[2]FG[259:];W[dl];B[ek];W[dk];B[em];W[dj]
+;C[AI は黒も打てると判断]B[ej]
 )
 
 (
-;FG[259:]PM[2]
-;B[fm]C[これもアリ]
-;W[dq];B[il];W[km];B[ck]
+;PM[2]FG[259:]
+;C[黒は薄い形に見えるが回りの白も薄いので簡単には切れない]W[fn]
+;B[eo];W[co]
+;C[無理矢理切ると下辺に悪影響?]B[gn]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[やや劣る]B[em]
+;W[el];B[fm];W[dn];B[fl];W[ek];B[fk];W[ej];B[jl];W[ko];B[mn];W[kl];B[jk]
+;C[白地の盛り上がりも大きく、攻めもそれほど厳しくない]W[ln]
+)
+
+(
+;PM[2]FG[259:]
+;C[これもアリ]B[fm]
+;W[dq];B[il];W[km]
+;C[スピード感はないが、白に確定地を与えない堅実な打ち方]B[ck]
 )
 
 )

@@ -1,25 +1,41 @@
 
-(;AP[GOWrite:3.0.18]CA[UTF-8]FF[4]SZ[19]GM[1]ST[2]AB[pd][qk][pp][nq][qd][od][nc][mc][lc]PM[2]FG[259:]GN[ ]PB[ ]PW[ ]AW[pc][qc][oc][nb][mb][dp][gq][dd]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[qk][lc][mc][nc][pp][nq][od][pd][qd]FG[259:]AW[mb][nb][dd][gq][oc][pc][qc][dp]C[対称形ではないので選択肢は広いが]PW[ ]PM[2]GN[ ]
 (
-;W[nj]
+;C[ツケとかカタツキみたいな直接的な手が上手くいかない場合、二路離れた着点が選ばれることが多い]W[nj]
 (
-;B[lj];W[pj];B[qj];W[pi];B[ol];W[qi]
+;C[ボウシには]B[lj]
+;C[カタツキがぴったり]W[pj]
+;B[qj];W[pi];B[ol]
+;C[a の狙いがある、とのこと (デギリ? で利かしてサバく?]W[qi]LB[pk:a]
 )
 (
-;FG[259:]PM[2];B[pi];W[mp];B[np];W[mn]
-)
-
-)
-(
-;FG[259:]PM[2];W[pj];B[pk];W[oj];B[ok];W[nj];B[nk];W[mj];B[ll]
-)
-
-(
-;FG[259:]PM[2];W[pk];B[pl];W[qj];B[pj];W[ok];B[qi];W[rj];B[ql];W[pi];B[oj];W[oh];B[nj];W[qh]
+;PM[2]FG[259:]
+;C[受けたので]B[pi]
+;C[利かしと見て他所へ]W[mp]
+;B[np]
+;C[黒地が固まったが発展性がなくなっている?]W[mn]
 )
 
+)
 (
-;FG[259:]PM[2];W[oj];B[mj];W[qj];B[pk];W[pj];B[ok]
+;PM[2]FG[259:]
+;C[自然に見えるが]W[pj]
+;B[pk];W[oj];B[ok];W[nj];B[nk];W[mj]
+;C[右下が囲われてしまう]B[ll]
+)
+
+(
+;PM[2]FG[259:]
+;C[無いわけではないが]W[pk]
+;B[pl];W[qj];B[pj];W[ok];B[qi];W[rj];B[ql];W[pi];B[oj];W[oh];B[nj]
+;C[右下隅が立体的な黒地に]W[qh]
+)
+
+(
+;PM[2]FG[259:]
+;C[人間の感覚では普通だが]W[oj]
+;B[mj];W[qj];B[pk];W[pj]
+;C[白窮屈 (右下も大きい]B[ok]
 )
 
 )

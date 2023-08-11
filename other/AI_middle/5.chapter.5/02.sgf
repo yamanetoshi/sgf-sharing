@@ -1,34 +1,41 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[dc][fd][cq][dq][fr][nc][nd][jc][pp]AB[pd][oc][pf][ce][ci][dp][cp][ep][he][hc]PB[ ]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[hc][ce][oc][pf][ci][he][cp][pd][dp][ep]FG[259:]AW[cq][dq][jc][fd][nc][fr][pp][nd][dc]PW[ ]PM[2]GN[ ]
 (
 ;W[gc]
 (
-;B[gb];W[fb];B[gd];W[fc];B[lc];W[ld];B[kd];W[kc];B[le];W[md];B[ke]
-;W[lb]C[a という手があり右上隅が地になりやすくなっている]LB[ob:a]
-;B[cc];W[cb];B[dd];W[bc];B[cd];W[db];B[fe]
+;C[先手を取るのが正解]B[gb]
+;W[fb];B[gd];W[fc]
+;C[左の白を固めるマイナスがあるが AI 評価は先手]B[lc]
+;W[ld];B[kd];W[kc];B[le];W[md];B[ke]
+;C[a という手があり右上隅が地になりやすくなっている]W[lb]LB[ob:a]
+;B[cc];W[cb];B[dd];W[bc];B[cd];W[db]
+;C[ここに回って黒好調]B[fe]
 )
 (
-;PM[2]FG[259:];B[hb]
-;W[je]C[この手で思いのほか攻めが効かない]
+;PM[2]FG[259:]
+;C[これが常識だったが]B[hb]
+;C[この手で思いのほか攻めが効かない]W[je]
 ;B[gd];W[ge];B[hd];W[fe];B[hg]
 (
-;W[cd];B[de];W[fb]
+;W[cd];B[de]
+;C[白を攻めることができていない]W[fb]
 )
 (
-;PM[2]FG[259:];W[mf]
+;PM[2]FG[259:]
+;C[これも有力]W[mf]
 )
 
 )
 
 (
 ;PM[2]FG[259:];B[ic]
-;W[jd]C[重い、次の手段も見えない]
+;C[重い、次の手段も見えない]W[jd]
 )
 
 )
 (
 ;PM[2]FG[259:]
-;W[je]C[こっちの方が良い (こすみつけは後手]
+;C[こっちの方が良い (こすみつけは後手]W[je]
 )
 
 )

@@ -1,32 +1,50 @@
 
-(;AP[GOWrite:3.0.18]CA[UTF-8]FF[4]SZ[19]GM[1]ST[2]AB[qd][nc][dp][cn][nq][cc][bb][bd][cd][ce][cf][bg][af][eg]PM[2]FG[259:]GN[ ]PB[ ]PW[ ]AW[kq][bh][ch][cg][dg][df][de][dd][dc][cb][jd][pp][qn]
-;B[po];W[oo];B[pq];W[qq];B[qp];W[op];B[rq];W[qr];B[qo];W[pn];B[rr]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[eg][cn][bb][cc][dp][bd][cd][ce][nc][af][cf][nq][qd][bg]FG[259:]AW[cg][dg][bh][ch][cb][dc][qn][dd][de][jd][kq][pp][df]PW[ ]PM[2]GN[ ]
+;C[AI も採用している打ち方]B[po]
+;W[oo];B[pq];W[qq];B[qp];W[op];B[rq];W[qr];B[qo];W[pn];B[rr]
 (
-;W[ro];B[rp];W[oq]
+;W[ro]
+;C[この交換がある場合]B[rp]
+;W[oq]
 (
-;B[on];W[or];B[rn];W[rm];B[so];W[pl]
+;C[キリが正解]B[on]
+;C[大きい]W[or]
+;C[辛いが仕方無い]B[rn]
+;W[rm];B[so];W[pl]
 (
-;B[om];W[qj];B[ol];W[pk];B[ok];W[oj];B[nj];W[oi];B[ni];W[oh];B[ln]
+;B[om];W[qj];B[ol];W[pk];B[ok];W[oj];B[nj];W[oi];B[ni];W[oh]
+;C[切った黒石はしぶとい格好で白が右辺を守る間に模様を消すことができる]B[ln]
 )
 (
-;FG[259:]PM[2];B[mn]
+;PM[2]FG[259:]
+;C[トビも有力]B[mn]
 (
-;W[lo];B[ln];W[mo];B[qh];W[qj];B[jn];W[fq];B[nk];W[oj];B[mi]
+;W[lo];B[ln];W[mo];B[qh];W[qj];B[jn];W[fq];B[nk];W[oj]
+;C[下辺や右辺に圧力をかけて自然に模様を消している (上辺も広がりにくくなっている]B[mi]
 )
 (
-;FG[259:]PM[2];W[nn];B[om];W[nm];B[ol]
+;PM[2]FG[259:]
+;C[こうしたいが]W[nn]
+;B[om];W[nm]
+;C[こうなると右の黒が弱くなる]B[ol]
 )
 
 )
 
 )
 (
-;FG[259:]PM[2];B[pr];W[or];B[qs];W[nm]
+;PM[2]FG[259:]
+;C[これも普通だが AI はわずかに損と判断]B[pr]
+;W[or];B[qs]
+;C[白模様を消すのに苦労するかも]W[nm]
 )
 
 )
 (
-;FG[259:]PM[2];W[oq];B[pr];W[or];B[qs];W[nm]
+;PM[2]FG[259:]
+;C[この場合は]W[oq]
+;B[pr];W[or];B[qs]
+;C[こんな進行になるはず]W[nm]
 )
 
 )

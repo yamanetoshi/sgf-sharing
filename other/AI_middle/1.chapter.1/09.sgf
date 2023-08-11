@@ -1,30 +1,42 @@
 
-(;AP[GOWrite:3.0.18]CA[UTF-8]FF[4]SZ[19]GM[1]ST[2]AB[pd][pq][op][jp][fp][fq]PM[2]FG[259:]GN[ ]PB[ ]PW[ ]AW[qo][ql][dd][dp][dn][eq]
-;B[cq];W[er]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[fp][op][jp][fq][pd][pq]FG[259:]AW[dd][dn][eq][qo][dp][ql]PW[ ]PM[2]GN[ ]
+;C[三々]B[cq]
+;C[遮った (AI は荒らしというより根拠を奪う手と考えている?]W[er]
 (
-;B[bo]
+;C[白への攻めを見た厳しい打ち方]B[bo]
 (
-;W[co];B[bp];W[bn];B[cm];W[cn];B[bm];W[ao];B[br]
+;W[co];B[bp]
+;C[これで窮屈、が人間の感覚だった]W[bn]
+;C[ノゾキから白にヨリツくことができると判断 (要検証?]B[cm]
+;W[cn];B[bm];W[ao];B[br]
 )
 (
-;FG[259:]PM[2];W[bp];B[cp];W[co];B[bq];W[bn];B[ap]
+;PM[2]FG[259:]
+;C[一見手筋?]W[bp]
+;B[cp];W[co];B[bq];W[bn]
+;C[普通に受けられてよくありません (ノゾキが厳しくて白重い]LB[cm:a][eo:b]B[ap]
 )
 
 )
 (
-;FG[259:]PM[2];B[co];W[do]
+;PM[2]FG[259:]
+;C[ここから生きを目指す手が良いとされてきた]B[co]
+;W[do]
 (
 ;B[cn];W[cm]
 (
-;B[bm];W[bl];B[cl];W[dm];B[bk];W[cp]
+;B[bm];W[bl];B[cl];W[dm];B[bk]
+;C[AI は白有利とのこと (要検証]W[cp]
 )
 (
-;FG[259:]PM[2];B[cp];W[dm]
+;PM[2]FG[259:];B[cp]
+;C[つないで白持ち]W[dm]
 )
 
 )
 (
-;FG[259:]PM[2];B[bn];W[cn];B[bo];W[cl];B[br]
+;PM[2]FG[259:];B[bn];W[cn];B[bo];W[cl]
+;C[AI は白はっきり良いと判断 (白を固めすぎ]B[br]
 )
 
 )

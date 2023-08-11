@@ -1,26 +1,40 @@
 
-(;AP[GOWrite:3.0.18]CA[UTF-8]FF[4]SZ[19]GM[1]ST[2]AB[pd][mc][pj][pp][mq]PM[2]FG[259:]GN[ ]PB[ ]PW[ ]AW[dp][fq][dj][dd][fc]
-;B[gp]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[pp][pj][mq][pd][mc]FG[259:]AW[dj][dd][fq][dp][fc]PW[ ]PM[2]GN[ ]
+;C[AI が示すカタツキへの応手]B[gp]
 (
-;W[lp]
+;C[カタツキが正解]W[lp]
 (
-;B[mp];W[ln];B[lo];W[ko];B[mo];W[jm]
+;B[mp];W[ln];B[lo];W[ko];B[mo]
+;C[a 残り]W[jm]LB[qp:a]
 )
 (
-;FG[259:]PM[2];B[lq];W[jp]
-)
-
-(
-;FG[259:]PM[2];B[gq];W[fp];B[go];W[lq];B[mp];W[lo]
-)
-
-)
-(
-;FG[259:]PM[2];W[no];B[op];W[kn]
+;PM[2]FG[259:]
+;C[ハイには]B[lq]
+;C[トビ (△が攻められる展開になると黒大変、そして右下はまだ黒地とは言えない (ツケなどがある?]TR[gp]W[jp]
 )
 
 (
-;FG[259:]PM[2];W[mp];B[lp];W[nq];B[np];W[mo];B[oq];W[lq];B[nr];W[mr]
+;PM[2]FG[259:]
+;C[手抜かれたので]B[gq]
+;W[fp];B[go]
+;C[堂々と]W[lq]
+;B[mp]
+;C[白 a が形の急所 (左にも急所が?]W[lo]LB[mo:a]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[AI はこれも有力視とのこと]W[no]
+;B[op]
+;C[これはどういう意味なのかと (要分析?]W[kn]
+)
+
+(
+;PM[2]FG[259:]
+;C[AI 得意だが]W[mp]
+;B[lp];W[nq];B[np];W[mo];B[oq];W[lq];B[nr]
+;C[コウにされて白あまりうまくいかない]W[mr]
 )
 
 )

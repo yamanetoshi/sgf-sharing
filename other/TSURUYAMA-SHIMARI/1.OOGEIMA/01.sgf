@@ -26,15 +26,14 @@
 (
 ;PM[2]FG[259:]
 ;C[手抜きは危険]B[cj]
-;W[rr];B[rs];W[ro];B[sq];W[sr];B[qo];W[nr];B[rn];W[so];B[sn];W[rp];B[qs];W[ps];B[pr];W[nq];B[os]
-;C[無条件で取ることはできない?]W[ns]
+;W[rr];B[rs];W[rp];B[sq];W[sr];B[qo];W[nr];B[ro];W[sp];B[so];W[rq];B[qs];W[ps];B[pr];W[nq];B[os];W[ns]
 )
 
 )
 (
 ;PM[2]FG[259:];B[mq]
 ;C[こちら封鎖]W[qm]
-;B[qo];W[ro];B[rn];W[rm];B[rp]
+;B[qo];W[ro];B[rn];W[rm];B[rp];W[qf]
 )
 
 )

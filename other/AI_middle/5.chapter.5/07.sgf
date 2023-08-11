@@ -1,31 +1,42 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[dd][dp][qo][pn][pm][pl][ql][qf][rd][rc][qc][pc][nc]AB[pq][po][on][oo][qn][qm][ro][qj][pd][od][qd][re][rf][qg]PB[ ]
-;W[qp]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[re][rf][qm][qg][on][qn][oo][po][ro][qj][od][pd][pq][qd]FG[259:]AW[rd][pl][ql][qf][pm][dp][pn][dd][qo][nc][pc][qc][rc]PW[ ]PM[2]GN[ ]
+;C[逃げだしたところ (黒の取り方を聞いた様子見]W[qp]
 (
-;B[rl];W[rk]
+;C[これが正解]B[rl]
+;W[rk]
 (
 ;B[rp]
 (
-;W[nl]
+;C[相場]W[nl]
 )
 (
-;PM[2]FG[259:];W[qh];B[pg];W[rh];B[rj];W[ph]
-;B[oj]C[黒 a わたり?]LB[rm:a]
+;PM[2]FG[259:]
+;C[白は右辺で治まりたい]W[qh]
+;B[pg];W[rh];B[rj];W[ph]
+;C[黒 a わたり?]LB[rm:a]B[oj]
 )
 
 )
 (
-;PM[2]FG[259:];B[rm];W[qk];B[rp];W[pj];B[qi];W[ph]
+;PM[2]FG[259:]
+;C[白を固めすぎ]B[rm]
+;W[qk];B[rp]
+;C[この形が良い]W[pj]
+;B[qi];W[ph]
 )
 
 )
 (
-;PM[2]FG[259:];B[rp];W[rl];B[rn];W[qh];B[pg];W[rh]
+;PM[2]FG[259:]
+;C[一般的な受け方]B[rp]
+;W[rl];B[rn];W[qh];B[pg];W[rh]
 (
-;B[rj];W[ph];B[oj];W[og]
+;B[rj];W[ph];B[oj]
+;C[サガリが利いている?]W[og]
 )
 (
-;PM[2]FG[259:];B[ph];W[rj]
+;PM[2]FG[259:];B[ph]
+;C[白安心]W[rj]
 )
 
 )

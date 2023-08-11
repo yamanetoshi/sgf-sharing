@@ -1,25 +1,38 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[dd][fc][jd][mc][qd][qc][qb][re][qf][sf][rg][rh][ri][qi][rj][qk][qn][cq][cr][dr][fq][fo][eo][do][co][dp][bl][bm][cm]AB[pd][pc][pe][qe][rd][rc][rb][pg][og][oh][qh][pi][pj][qj][pp][rp][nq][kq][dq][ep][cp][bq][bp][bo][cn][dn][dl][cl][bk][cj]PB[ ]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[rd][bo][cj][oh][bq][qh][dq][pc][cl][kq][dl][rc][pj][qj][nq][pe][cn][qe][dn][og][bp][pg][cp][ep][bk][rb][pi][pp][rp][pd]FG[259:]AW[qk][co][qf][do][eo][sf][fo][fc][cq][rh][fq][mc][bl][qc][rj][re][dp][rg][qn][dd][qb][cr][jd][qi][dr][ri][bm][cm][qd]C[左上の構え方の問題]PW[ ]PM[2]GN[ ]
 (
-;W[cf]
+;C[ケイマが正解]W[cf]
 (
-;B[gc];W[gd];B[hc];W[hd];B[fb];W[ec];B[jb]
+;B[gc];W[gd];B[hc];W[hd];B[fb];W[ec]
+;C[凝り形感がコスミと比べるとそうでもない]B[jb]
 )
 (
-;PM[2]FG[259:];B[cc];W[cd];B[dc];W[ec];B[bd];W[be];B[bb];W[ad]
-)
-
-(
-;PM[2]FG[259:];B[hc];W[he]
-)
-
-)
-(
-;PM[2]FG[259:];W[ce];B[gc];W[gd];B[hc];W[hd];B[fb];W[ec];B[jb]
+;PM[2]FG[259:]
+;C[コウにする手段残り]B[cc]
+;W[cd];B[dc];W[ec];B[bd];W[be];B[bb]
+;C[隅を手にすると上辺が地になるので白はこれで悪くない]W[ad]
 )
 
 (
-;PM[2]FG[259:];W[cg];B[cd];W[cc];B[cf];W[df];B[de];W[ee];B[ce];W[dg];B[dc];W[ed];B[bc];W[cb];B[bb];W[db];B[bg];W[bh];B[bf];W[ci];B[dj];W[ig]
+;PM[2]FG[259:]
+;C[上辺への打ち込みはあるが、白は入ってきた石をいじめていれば自然に隅の地が固まる展開になりそげ]B[hc]
+;W[he]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[AI は堅すぎとの判断]W[ce]
+;B[gc];W[gd];B[hc];W[hd];B[fb];W[ec]
+;C[白、凝り形とのこと]B[jb]
+)
+
+(
+;PM[2]FG[259:]
+;C[これもアリ]W[cg]
+;C[隅は荒らされるが]B[cd]
+;W[cc];B[cf];W[df];B[de];W[ee];B[ce];W[dg];B[dc];W[ed];B[bc];W[cb];B[bb];W[db];B[bg];W[bh];B[bf];W[ci];B[dj]
+;C[上辺が確定地になる]W[ig]
 )
 
 )

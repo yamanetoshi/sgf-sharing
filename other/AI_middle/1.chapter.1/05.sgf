@@ -1,39 +1,55 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[dd][fq][dp][cj][fc]AB[pp][qj][nq][pd][nc]PB[ ]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[pp][qj][nq][pd][nc]FG[259:]AW[dd][fq][dp][cj][fc]PW[ ]PM[2]GN[ ]
 (
 ;B[gp]
 (
-;W[fp];B[gn]
+;C[自然な手だが]W[fp]
+;C[模様を消すことに成功 (後に入る手段が残っている]LB[dm:a]B[gn]
 )
 (
-;PM[2]FG[259:];W[gq];B[ip];W[hp];B[ho];W[hq];B[im]
+;PM[2]FG[259:]
+;C[AI は選ばない応手とのこと]W[gq]
+;B[ip];W[hp];B[ho];W[hq]
+;C[不満のない進行]B[im]
 )
 
 (
-;PM[2]FG[259:];W[gn]
+;PM[2]FG[259:]
+;C[位の高さを重視した手?]W[gn]
 (
-;B[fp];W[gq];B[hq]
+;C[手抜きもあるとのこと]B[fp]
+;W[gq];B[hq]
 (
-;W[ep];B[ip]
+;W[ep]
+;C[部分的にはこれが相場?]B[ip]
 )
 (
-;PM[2]FG[259:];W[hp];B[eq]
+;PM[2]FG[259:]
+;C[キリには]W[hp]
+;C[これで戦える、とのこと?]B[eq]
 )
 
 )
 (
-;PM[2]FG[259:];B[gq];W[fp];B[go];W[fo];B[hn];W[gm];B[hm];W[hl];B[gl];W[il];B[jm]
+;PM[2]FG[259:];B[gq];W[fp]
+;C[積極的]B[go]
+;W[fo];B[hn];W[gm];B[hm];W[hl];B[gl];W[il]
+;C[下辺を大きく (やや筋悪?]B[jm]
 )
 
 )
 
 )
 (
-;PM[2]FG[259:];B[gd]
+;PM[2]FG[259:]
+;C[これも正解]B[gd]
 )
 
 (
-;PM[2]FG[259:];B[dj];W[dk];B[ci];W[ck]
+;PM[2]FG[259:]
+;C[これは不発に終わる]B[dj]
+;W[dk];B[ci]
+;C[左下が大きくなりそう]W[ck]
 )
 
 )

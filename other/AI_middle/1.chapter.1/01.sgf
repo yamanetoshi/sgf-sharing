@@ -1,42 +1,52 @@
 
-(;AP[GOWrite:3.0.18]CA[UTF-8]FF[4]SZ[19]GM[1]ST[2]AB[pd][qd][oc][nc][mc][lc][ol][ql][pq]PM[2]FG[259:]GN[ ]PB[ ]PW[ ]AW[dp][fq][pc][qc][ob][nb][mb][dd]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[lc][ol][mc][nc][ql][oc][pd][qd][pq]FG[259:]AW[mb][nb][dd][ob][fq][pc][qc][dp]C[右辺の模様の消し方]PW[ ]PM[2]GN[ ]
 ;W[oe]
 (
 ;B[od]
 (
-;W[ni]
+;C[利かしたので (a あたりもアリ]W[ni]LB[mp:a]
 )
 (
-;FG[259:]PM[2];W[mp]
+;PM[2]FG[259:]
+;C[損にはならない]W[mp]
 )
 
 )
 (
-;FG[259:]PM[2]
+;PM[2]FG[259:]
 (
 ;B[rd];W[rc]
 (
-;B[pf];W[nh]
+;C[頑張ったようだが利かされ気味]B[pf]
+;W[nh]
 (
-;B[ng];W[mg];B[nf];W[li]
+;B[ng];W[mg];B[nf]
+;C[軽快なサバキ]W[li]
 )
 (
-;FG[259:]PM[2];B[lh];W[me];B[ke];W[ph]
+;PM[2]FG[259:]
+;C[大きく攻める手も魅力的だが]B[lh]
+;W[me];B[ke]
+;C[入られると持て余しそう (結局 a に戻るようでは。。]W[ph]LB[od:a]
 )
 
 )
 (
-;FG[259:]PM[2];B[og];W[mp]
+;PM[2]FG[259:]
+;C[AI の示す打ち方]B[og]
+;C[すぐに動くと重くなるので (のちに a などの逃げ出しあり]W[mp]LB[me:a]
 )
 
 )
 (
-;FG[259:]PM[2];B[nf]
+;PM[2]FG[259:]
+;C[有力な反発手段 (右辺のヨリツキに自信があるならこちらを選びたい]B[nf]
 (
 ;W[of];B[ng];W[qf];B[od];W[pi]
 )
 (
-;FG[259:]PM[2];W[mp]
+;PM[2]FG[259:]
+;C[こちらもアリ]W[mp]
 )
 
 )

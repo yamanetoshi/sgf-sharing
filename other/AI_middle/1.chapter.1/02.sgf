@@ -1,28 +1,41 @@
 
-(;AP[GOWrite:3.0.18]CA[UTF-8]FF[4]SZ[19]GM[1]ST[2]AB[pd][qd][od][nc][mc][lc][pj][pp][qp][op][nq][mq][lq]PM[2]FG[259:]GN[ ]PB[ ]PW[ ]AW[mr][nr][oq][pq][qq][pc][qc][oc][nb][mb][dd][dp]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[lc][mc][nc][op][pp][qp][lq][pj][mq][od][nq][pd][qd]FG[259:]AW[qq][mr][mb][nr][nb][dd][oc][pc][qc][oq][dp][pq]C[右辺の黒模様が気になる (すでに隅を荒らしているのである程度辺に地を与えても構わない]PW[ ]PM[2]GN[ ]
 (
-;W[oj]
+;C[手抜きさせないのが AI 流]W[oj]
 (
-;B[oi];W[pk]
+;B[oi]
+;C[ハネる調子]W[pk]
 (
-;B[ok];W[nj];B[pl];W[qk];B[pi];W[ol];B[nk];W[om];B[mj];W[qm]
+;B[ok];W[nj];B[pl];W[qk];B[pi];W[ol];B[nk];W[om];B[mj]
+;C[治まれば白成功 (黒の勢力圏なので半分取られても構わない]W[qm]LB[qm:b]
 )
 (
-;FG[259:]PM[2];B[qk];W[ok];B[ni];W[qj];B[pi];W[ql];B[rk];W[pm];B[rj];W[ll]
+;PM[2]FG[259:]
+;C[筋の良い手]B[qk]
+;W[ok];B[ni];W[qj];B[pi];W[ql];B[rk];W[pm];B[rj]
+;C[白不満なし (右下黒が薄くなっている]W[ll]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[冷静な応手だが]B[pk]
+;W[oi];B[pi];W[oh];B[ph]
+;C[右辺は地になるが隅を荒らされているのでこれでは足りない]W[ok]
 )
 
 )
 (
-;FG[259:]PM[2];B[pk];W[oi];B[pi];W[oh];B[ph];W[ok]
-)
-
-)
-(
-;FG[259:]PM[2];W[nj];B[cf]
+;PM[2]FG[259:]
+;C[AI が打たない手]W[nj]
+;C[a はスルーされる怖れあり]LB[pi:a]B[cf]
 )
 
 (
-;FG[259:]PM[2];W[ne];B[ni];W[nd];B[le]
+;PM[2]FG[259:]
+;C[これも AI 風だが]W[ne]
+;C[受けてもらえない]B[ni]
+;W[nd];B[le]
 )
 
 )

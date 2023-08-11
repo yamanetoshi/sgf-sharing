@@ -1,29 +1,44 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[cc][df][kc][oc][od][pg][qj][pp][pn]AB[pc][pb][qd][pe][cj][ej][cp][eq][jp][nq]PB[ ]
-;W[eo]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[ej][pe][pb][eq][jp][pc][cp][nq][qd][cj]FG[259:]AW[pn][kc][oc][pp][cc][df][od][pg][qj]PW[ ]PM[2]GN[ ]
+;C[消しにきたところ (どのように受けるか問題?]W[eo]
 (
-;B[dn];W[fq];B[fr];W[gr];B[er];W[io]
+;C[これが正解 (重複気味に見えてちょっと意外]B[dn]
+;W[fq];B[fr];W[gr];B[er];W[io]
 (
-;B[oo];W[po];B[pr]
+;C[自分を強化]B[oo]
+;W[po]
+;C[(がしかし、右下の形はコスミツケから云々、というのが]B[pr]
 )
 (
-;PM[2]FG[259:];B[jo];W[en];B[dm];W[in];B[jn];W[im];B[kl];W[gq]
-)
-
-)
-(
-;PM[2]FG[259:];B[fp]
-(
-;W[fo];B[go];W[co];B[dp];W[gn];B[hn];W[gm];B[em];W[dk];B[ek];W[dm]
-)
-(
-;PM[2]FG[259:];W[co];B[dp];W[gn];B[pk];W[pj];B[oo];W[po];B[pr];W[do]
+;PM[2]FG[259:]
+;C[この変化は黒あまり良くない]B[jo]
+;W[en];B[dm];W[in];B[jn];W[im];B[kl]
+;C[形が決まって白安心]W[gq]
 )
 
 )
+(
+;PM[2]FG[259:]
+;C[人間てきにはこれが多い? (悪いわけではないが AI は左辺二目の弱体化を狙っているとのこと]B[fp]
+(
+;W[fo];B[go];W[co];B[dp];W[gn];B[hn];W[gm];B[em];W[dk];B[ek]
+;C[二目の弱体化を嫌っている]W[dm]
+)
+(
+;PM[2]FG[259:]
+;C[これもある]W[co]
+;B[dp];W[gn]
+;C[AI 第一感]B[pk]
+;W[pj];B[oo];W[po];B[pr];W[do];B[nk]
+)
+
+)
 
 (
-;PM[2]FG[259:];B[fn];W[fo];B[gn];W[fq];B[fr];W[dq];B[dr];W[ep];B[er];W[go];B[in];W[co]
+;PM[2]FG[259:]
+;C[怖い打ち方]B[fn]
+;W[fo];B[gn];W[fq];B[fr];W[dq];B[dr];W[ep];B[er];W[go];B[in]
+;C[黒危険]W[co]
 )
 
 )

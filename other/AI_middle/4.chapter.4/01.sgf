@@ -1,5 +1,5 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[po][qp][pf][pe][oc][cd][de][do][dn][eq]AB[qd][qe][qg][ic][ec][cp][co][cm][iq][oq]PB[ ]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[ic][qe][co][iq][cp][qg][ec][cm][oq][qd]FG[259:]AW[cd][pe][dn][eq][po][de][pf][oc][do][qp]C[下辺、黒の守り方]PW[ ]PM[2]GN[ ]
 (
 ;B[lp];W[no]
 (
@@ -18,11 +18,14 @@
 
 )
 (
-;PM[2]FG[259:];B[mp];W[lp];B[lq];W[kq]
+;PM[2]FG[259:]
+;C[今までの感覚]B[mp]
+;C[右辺に強いがこの手段がある]W[lp]
+;B[lq];W[kq]
 )
 
 (
-;PM[2]FG[259:];B[lq];W[np]C[好点]
+;PM[2]FG[259:];C[低い]B[lq];C[好点]W[np]
 )
 
 )

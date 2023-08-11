@@ -1,23 +1,36 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[oq][pq][pr][pp][qn][pd][qf][lc][ec][ed][fd][lq]AB[nc][fc][cd][df][di][dp][fq][op][oo][no][mp][nq][or]PB[ ]
-;B[hd]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[or][di][dp][fc][cd][no][oo][fq][nc][mp][op][df][nq]FG[259:]AW[qn][ed][pr][fd][lc][qf][pp][lq][oq][pd][ec][pq]PW[ ]PM[2]GN[ ]
+;C[打ち込まれたところ]B[hd]
 (
-;W[eg];B[dg];W[eh];B[cj]
+;C[カケが正解]W[eg]
+;B[dg]
+;C[ここまでキメて]W[eh]
+;B[cj]
 (
-;W[jc];B[ie];W[ei]
+;C[根拠を奪うのが AI 流]W[jc]
+;B[ie]
+;C[左右を強化して一方的に攻める体制を築く]W[ei]
 )
 (
-;PM[2]FG[259:];W[hf];B[jc];W[md];B[fb]
+;PM[2]FG[259:]
+;C[これは甘い]W[hf]
+;B[jc];W[md]
+;C[治まられて不十分]B[fb]
 )
 
 )
 (
-;PM[2]FG[259:];W[hf]
+;PM[2]FG[259:]
+;C[自然に見えるが]W[hf]
 (
-;B[ge];W[ef]
+;B[ge]
+;C[もたれる作戦だったが (勝手読みだった]W[ef]
 )
 (
-;PM[2]FG[259:];B[ff];W[ge];B[jd]
+;PM[2]FG[259:]
+;C[白の形の不備をついた好手]B[ff]
+;C[形が悪い]W[ge]
+;C[どっちが攻めているのか分からない]B[jd]
 )
 
 )

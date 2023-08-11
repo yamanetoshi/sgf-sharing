@@ -1,36 +1,50 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[bq][cp][dp][dq][co][dn][en][fn][nq][nc][fd][fe][de][dd][df][cc][cd][bd][bb][ac]AB[pd][pp][jc][gd][fc][ed][ec][dc][cb][ba][cf][ci][cq][bp][bo][cn][cm][dm][em][fq]PB[ ]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[em][ba][cn][cb][bo][ci][bp][dc][ec][fc][cq][jc][ed][gd][fq][pp][cf][pd][cm][dm]FG[259:]AW[dn][en][fn][bb][co][ac][cc][cp][dp][bd][bq][cd][dd][dq][fd][nc][de][fe][df][nq]PW[ ]PM[2]GN[ ]
 (
-;W[qn]
+;C[両ガカリ (にどう受けるのか]W[qn]
 (
-;B[jq];W[oo]
+;C[正解 (隅は捨てても構わないという打ち方]B[jq]
+;C[封鎖の中でもとくに好形]W[oo]
 (
-;B[oc];W[nd];B[pf];W[pr];B[qm];W[rn];B[qi]
+;B[oc];W[nd];B[pf]
+;C[あえて取らせて]W[pr]
+;C[利かす]B[qm]
+;W[rn];B[qi]
 )
 (
-;PM[2]FG[259:];B[qo];W[po];B[ro];W[rn];B[qq];W[op];B[oc];W[pq];B[qp];W[pr];B[qr];W[hq]
-)
-
-(
-;PM[2]FG[259:];B[qq];W[qc];B[op];W[np];B[no];W[on];B[nn];W[kp];B[om];W[qo]
-)
-
-)
-(
-;PM[2]FG[259:];B[pn];W[pm];B[on];W[qo];B[qp];W[kq];B[pk]
+;PM[2]FG[259:]
+;C[生きにいくと]B[qo]
+;W[po];B[ro];W[rn];B[qq];W[op];B[oc];W[pq];B[qp];W[pr];B[qr]
+;C[これが強烈で黒大変]W[hq]
 )
 
 (
-;PM[2]FG[259:];B[np];W[mp];B[no];W[oq];B[pq];W[jq]
-)
-
-(
-;PM[2]FG[259:];B[oo];W[qq]
+;PM[2]FG[259:]
+;C[AI は打たない]B[qq]
+;W[qc];B[op];W[np];B[no];W[on];B[nn];W[kp];B[om];W[qo]
 )
 
 )
 (
-;PM[2]FG[259:];W[jq]
+;PM[2]FG[259:];C[普通]B[pn];W[pm];B[on];W[qo];B[qp];W[kq]
+;C[下辺が白地になると大きい]B[pk]
+)
+
+(
+;PM[2]FG[259:]
+;C[打ちにくい]B[np]
+;W[mp];B[no];W[oq];B[pq]
+;C[ここに石がくると荒らすのが難しくなる (囲わせるには大きすぎる]W[jq]
+)
+
+(
+;PM[2]FG[259:];C[緩着]B[oo];W[qq]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[ここが急場でここが良いようです]W[jq]
 )
 
 )

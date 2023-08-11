@@ -257,7 +257,7 @@
 (
 ;PM[2]FG[259:]
 ;C[これには]B[mr]
-;C[これで]W[mq]
+;W[nq]
 )
 
 )
@@ -298,7 +298,7 @@
 (
 ;C[アテて]W[rp]
 ;B[qo];C[連絡]W[op];B[oo];W[nq];B[mp];W[mq];B[rq];W[pr];B[qr];W[pq]
-;C[△の交換が黒の得になっている]B[qh]TR[ro][rp]
+;C[△の交換が黒の得になっている]B[qh]TR[rp][ro]
 )
 (
 ;PM[2]FG[259:];W[pq]
@@ -347,7 +347,8 @@
 ;C[白満足]W[qi]
 )
 (
-;PM[2]FG[259:];C[?]B[rn]
+;PM[2]FG[259:];C[?]B[rn];W[rm];B[rq];W[rr];B[sr]
+;C[こゆこと?]W[sp]
 )
 
 )

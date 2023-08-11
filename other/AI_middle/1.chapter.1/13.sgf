@@ -1,26 +1,35 @@
 
-(;AP[GOWrite:3.0.18]CA[UTF-8]FF[4]SZ[19]GM[1]ST[2]AB[cc][cd][cb][bf][dq][cq][fr][pp][pd][qd][od][oe][ne][mf][lf][ng]PM[2]FG[259:]GN[ ]PB[ ]PW[ ]AW[ep][dp][cp][dc][dd][de][kf][ke][le][me][nf][nd][nc][pc][qc][rc]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[ne][oe][lf][mf][cb][ng][cc][cd][cq][dq][bf][fr][pp][od][pd][qd]FG[259:]AW[me][kf][nf][cp][dc][dp][ep][dd][de][nc][pc][qc][rc][nd][ke][le]C[上辺白模様、スソアキがポイント]PW[ ]PM[2]GN[ ]
 (
-;B[gc]
+;C[打ち込みが正解]B[gc]
 (
-;W[ge];B[eb]
+;C[無難だが]W[ge]
+;C[これで黒も安心 (上辺の白地はほとんど期待できない]B[eb]
 )
 (
-;FG[259:]PM[2];W[fb];B[ge];W[ff];B[gf];W[fg];B[db];W[fc];B[fd];W[gb];B[hc];W[ed];B[hh]
+;PM[2]FG[259:]
+;C[攻めるなら分断]W[fb]
+;C[左の石は強いとは言えない]B[ge]
+;W[ff];B[gf];W[fg];B[db];W[fc];B[fd];W[gb];B[hc];W[ed]
+;C[厳しい攻めは期待できない (要検証?]B[hh]
 )
 
 )
 (
-;FG[259:]PM[2];B[qm];W[db];B[hf];W[hd]
+;PM[2]FG[259:];B[qm];C[囲う]W[db];B[hf]
+;C[露骨に囲って白不満なし (スソアキを囲う]W[hd]
 )
 
 (
-;FG[259:]PM[2];B[dg]
+;PM[2]FG[259:]
+;C[好点だが]B[dg]
 (
-;W[gc]
+;C[白地が固まる]W[gc]
 )
 (
-;FG[259:]PM[2];W[db];B[gc]
+;PM[2]FG[259:]
+;C[これは打ちすぎ]W[db]
+;C[打ち込まれて心配 (要検証? (四子は弱いのか。。。]B[gc]
 )
 
 )

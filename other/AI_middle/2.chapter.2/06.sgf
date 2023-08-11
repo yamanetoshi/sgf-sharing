@@ -1,42 +1,44 @@
 
-(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[pd][pc][pe][pp][dq][eq][fq][gp][go][hq][cn][cl][ck][dc][cb][eb][fc]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]AW[cc][dd][ed][bd][cf][dl][dn][cp][dp][cq][fp][fo][ip][nq][qc][qd][rf]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[pe][cn][cb][eb][go][dc][fc][gp][dq][eq][ck][fq][hq][pc][cl][pp][pd]FG[259:]AW[dn][rf][fo][cc][cp][dp][bd][fp][dd][cq][ed][ip][dl][qc][cf][nq][qd]PW[ ]PM[2]GN[ ]
 (
 ;B[lq]
 (
-;W[no]
+;C[これにどう対応するのか]W[no]
 (
 ;B[lo]
 (
 ;W[pn];B[gm];W[qq]
-;LB[qp:a][pq:b]B[ch]C[右下隅は a, b のアジが残っている]
+;C[右下隅は a, b のアジが残っている]LB[qp:a][pq:b]B[ch]
 )
 (
-;FG[259:]PM[2]
-;W[iq]C[AI はこちらが勝ると判断]
+;PM[2]FG[259:]
+;C[AI はこちらが勝ると判断]W[iq]
 ;B[hn];W[in]
-;LB[pn:a]B[hm]C[こうなるなら黒 M5 は a にあるより働いている]
+;C[こうなるなら黒 M5 は a にあるより働いている]LB[pn:a]B[hm]
 )
 
 )
 (
-;FG[259:]PM[2]
-;B[pn]C[こうすると大変]
+;PM[2]FG[259:]
+;C[こうすると大変]B[pn]
 ;W[iq];B[lo]
-;W[in]C[下辺の黒の眼形も微妙]
+;C[下辺の黒の眼形も微妙]W[in]
 )
 
 )
 (
-;FG[259:]PM[2]
-;W[dm]C[O5 が利かないのであれば直接下辺を分断]
-;B[bo];W[iq];B[lo];W[in];B[gm];W[hr];B[gr];W[jr]
+;PM[2]FG[259:]
+;C[O5 が利かないのであれば直接下辺を分断]W[dm]
+;B[bo];W[iq];B[lo];W[in];B[gm];W[hr];B[gr]
+;C[やや白持ち]W[jr]
 )
 
 )
 (
-;FG[259:]PM[2]
-;B[oq]C[AI 推奨手順]
-;W[np];B[jr];W[po];B[qo];W[qn];B[qp];W[pn];B[op];W[no];B[oo];W[on];B[nn]
+;PM[2]FG[259:]
+;C[AI 推奨手順]B[oq]
+;W[np];B[jr];W[po];B[qo];W[qn];B[qp];W[pn];B[op];W[no];B[oo];W[on]
+;C[隅の封鎖を怖れない AI の特徴が出た打ち方]B[nn]
 )
 
 )

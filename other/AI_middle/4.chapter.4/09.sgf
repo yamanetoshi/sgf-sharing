@@ -1,17 +1,26 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[dc][dd][de][eb][fb][hc][kc][qq][qp][qn][nq][mp][dp][eq][ep][fp][ho][bq][cq][co][cn][dj]AB[pd][qg][pp][oq][np][mq][lq][cc][db][cb][cd][cf][fc][cp][bp][dq][cr][br][dr][er][fq][gq]PB[ ]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[cb][db][cc][bp][cp][qg][fc][cd][dq][fq][br][gq][cr][np][dr][er][pp][lq][cf][mq][pd][oq]FG[259:]AW[qq][cn][co][eb][fb][dc][ho][dp][ep][fp][dj][hc][qn][bq][dd][cq][kc][eq][de][mp][qp][nq]C[右上の構え方の問題]PW[ ]PM[2]GN[ ]
 (
-;B[nc]
+;C[広く構えて入ってこい]B[nc]
 (
-;W[qi];B[no];W[re];B[qe];W[rf];B[rd];W[rg];B[qf];W[qh]
+;W[qi];B[no]
+;C[隅は簡単に手になるが]W[re]
+;B[qe];W[rf];B[rd];W[rg];B[qf]
+;C[地が固まって満足]W[qh]
 )
 (
-;PM[2]FG[259:];W[qd];B[qe];W[pc];B[qc];W[rd];B[rc];W[od];B[pe];W[oc];B[nf];W[me];B[mf];W[le];B[ql]
+;PM[2]FG[259:]
+;C[狙いの筋]W[qd]
+;B[qe];W[pc];B[qc];W[rd];B[rc];W[od];B[pe];W[oc];B[nf];W[me];B[mf];W[le]
+;C[これが厳しく黒が打ちやすい]B[ql]
 )
 
 )
 (
-;PM[2]FG[259:];B[oc];W[qi];B[no];W[qe];B[qd];W[pe];B[oe];W[of];B[re];W[ne];B[od];W[ph]
+;PM[2]FG[259:]
+;C[人間の打ち方]B[oc]
+;W[qi];B[no];W[qe];B[qd];W[pe];B[oe];W[of];B[re];W[ne];B[od]
+;C[凝り形]W[ph]
 )
 
 )

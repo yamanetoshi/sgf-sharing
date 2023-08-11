@@ -1,34 +1,48 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[dd][dp][oc][qh][oh][po][qn][pn]AB[fc][kc][qd][pf][qp][qo][pq][oq]PB[ ]
-;B[qg]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[kc][qo][pf][qp][oq][fc][qd][pq]FG[259:]AW[pn][oh][qn][dd][qh][po][oc][dp]PW[ ]PM[2]GN[ ]
+;C[(AI は先手かどうかをシビアに判断します]B[qg]
 (
-;W[qc]
+;C[正解 (AI はスルーが多い]W[qc]
 (
-;B[rh];W[pd];B[qi];W[cf]
+;C[大きく見えるが]B[rh]
+;C[隅の荒らしも大きな戦果]W[pd]
+;B[qi]
+;C[AI は白が打ちやすいという評価]W[cf]
 )
 (
-;PM[2]FG[259:];B[rc];W[pd];B[qe];W[hc];B[rh];W[fd]
-)
-
-)
-(
-;PM[2]FG[259:];W[rh];B[pc]
-(
-;W[od];B[nf]
-)
-(
-;PM[2]FG[259:];W[pb];B[qb];W[of];B[oe];W[nf]
+;PM[2]FG[259:];B[rc];W[pd]
+;C[ここまで受けさせれば利かし]B[qe]
+;C[右辺の受けは眼中にない]W[hc]
+;B[rh];W[fd]
 )
 
 )
-
 (
-;PM[2]FG[259:];W[rg];B[rf];W[pg];B[qf];W[qc];B[rc];W[qb];B[rh];W[ri];B[sg]
+;PM[2]FG[259:]
+;C[普通に見えるが]W[rh]
+;B[pc]
 (
-;W[cf]
+;W[od]
+;C[右辺大きいが打ち込みの余地あり]B[nf]
 )
 (
-;PM[2]FG[259:];W[qi]
+;PM[2]FG[259:]
+;C[AI 推奨手順]W[pb]
+;B[qb];W[of];B[oe];W[nf]
+)
+
+)
+
+(
+;PM[2]FG[259:]
+;C[別案 (サガリで受けるよりも]W[rg]
+;B[rf];W[pg];B[qf];W[qc];B[rc];W[qb];B[rh];W[ri];B[sg]
+(
+;C[AI は手抜き推奨]W[cf]
+)
+(
+;PM[2]FG[259:]
+;C[これもあるが]W[qi]
 )
 
 )

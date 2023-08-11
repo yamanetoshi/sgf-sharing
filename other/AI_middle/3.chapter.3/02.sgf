@@ -1,28 +1,44 @@
 
-(;AP[GOWrite:3.0.18]FF[4]CA[UTF-8]GM[1]SZ[19]ST[2]FG[259:]PW[ ]GN[ ]PM[2]AW[cd][dc][fc][qf][pi][qo][op][np][cq][dp][do][dr][fq]AB[qd][nc][pq][oq][mr][cp][bq][bo][cn][dl][di][de][ce]PB[ ]
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[mr][cn][bo][di][cp][bq][ce][nc][de][dl][oq][qd][pq]FG[259:]AW[qf][do][dc][dp][fc][cd][cq][fq][qo][pi][np][dr][op]PW[ ]PM[2]GN[ ]
 (
-;B[ok]
+;C[消しにきたところ]B[ok]
 (
-;W[qk]
+;C[正解]W[qk]
 (
-;B[on];W[pm];B[om];W[pp];B[qq];W[nj]
+;B[on];W[pm];B[om];W[pp];B[qq]
+;C[弱点がなくなってから攻める]W[nj]
 )
 (
-;PM[2]FG[259:];B[oi];W[oh];B[ni];W[nh];B[mh];W[mi]
-)
-
-)
-(
-;PM[2]FG[259:];W[nj];B[qj];W[qi];B[nk];W[mj];B[mk];W[lk];B[ll];W[kl];B[lm]
-)
-
-(
-;PM[2]FG[259:];W[pk];B[pl];W[ol];B[om];W[nl];B[qk];W[pj];B[qm];W[nm];B[on]
+;PM[2]FG[259:]
+;C[白を凝り形にする作戦]B[oi]
+;W[oh];B[ni];W[nh];B[mh]
+;C[白は連絡した強い石なので戦い歓迎]W[mi]
 )
 
 )
 (
-;PM[2]FG[259:];B[qk];W[ok];B[ri];W[qh];B[qm];W[om];B[rh];W[rg];B[rn];W[lq]
+;PM[2]FG[259:]
+;C[打ちすぎ]W[nj]
+;B[qj];W[qi];B[nk];W[mj];B[mk];W[lk];B[ll];W[kl]
+;C[右下の白は強くないです]B[lm]
+)
+
+(
+;PM[2]FG[259:]
+;C[力強い]W[pk]
+;B[pl]
+;C[成立すれば最強手段だが]W[ol]
+;B[om];W[nl];B[qk];W[pj];B[qm];W[nm]
+;C[右辺で生きられると甘くなる怖れがある]B[on]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[深く入った場合]B[qk]
+;C[連絡重視]W[ok]
+;B[ri];W[qh];B[qm];W[om];B[rh];W[rg];B[rn]
+;C[直接やっつけるのではなくて自分を強化してやんわり攻めるのが AI 流]W[lq]
 )
 
 )
