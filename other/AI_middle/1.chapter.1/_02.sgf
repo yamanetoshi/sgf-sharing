@@ -1,0 +1,41 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[pd];W[dd];B[pp];W[dp];B[pj];W[qc];B[qd];W[pc];B[nc];W[oc];B[od];W[nb];B[mc];W[mb];B[lc];W[qq];B[qp];W[pq];B[nq];W[oq];B[op];W[nr];B[mq];W[mr]
+;C[右辺の黒模様が気になる局面。すでに隅を荒らしているのである程度辺に黒地を与えても構わない]B[lq]
+(
+;W[ne]C[ノゾキも AI が好む手だが]
+;C[この局面ではスルーされる]B[ni]
+;W[nd];B[le];
+)
+(
+;W[oj]C[正解。次にハネなどの連打は大変なので黒は受ける必要がある (手抜きさせない、が AI 流]
+(
+;B[oi];W[pk]
+(
+;FG[259:]PM[2]
+;C[筋の良い手]B[qk]
+;W[ok];B[ni];W[qj];B[pi];W[ql];B[rk];W[pm];B[rj]
+;W[ll]C[白不満のないワカレ (右下黒が薄くなっている]
+)
+(
+;B[ok];W[nj];B[pl];W[qk];B[pi];W[ol];B[nk];W[om];B[mj]
+;W[qm]C[治まれば成功 (半分取られても構わない]
+)
+
+)
+(
+;FG[259:]PM[2]
+;C[冷静だが利かされ]B[pk]
+;W[oi];B[pi];W[oh];B[ph]
+;W[ok]C[右辺は地になるがこれでは足りない]
+)
+
+)
+
+(
+;FG[259:]PM[2]
+;W[nj]C[AI は打たない (ツケる狙いがあるが強烈ではないのでスルー]
+;B[cf]
+)
+
+)

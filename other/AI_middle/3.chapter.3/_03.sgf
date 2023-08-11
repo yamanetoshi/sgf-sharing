@@ -1,0 +1,44 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[dc];W[pd];B[dp];W[pp];B[df];W[cq];B[cp];W[dq];B[ep];W[fq];B[fp];W[gp];B[gq];W[hq];B[eq];W[gr];B[er];W[gn]
+;C[カカッたところ (手順大丈夫?
+白石が多いところだがどちらから迫るのが良いか]B[nq]
+(
+;
+)
+(
+;FG[259:]PM[2]
+;W[lq]C[正解 (下辺は狭く見えるが AI は左側の白石を強化することを重視する]
+(
+;
+)
+(
+;B[lp];W[kp];B[mp]
+;W[ko]C[凝り形にされたように見えるが AI はありがたいと判断]
+;B[pn];W[or];B[nm];W[qn];B[qm]
+;W[qo]C[隅の根拠を確保して万全の体制になってから攻めを考える]
+)
+
+(
+;FG[259:]PM[2]
+;C[一番わかりやすい打ち方]B[qq]
+;W[pq];B[qp];W[po];B[pr];W[or];B[qr];W[nr]
+;C[重複気味に見えるが AI は白持ち]B[qn]
+)
+
+(
+;FG[259:]PM[2]
+;C[AI 推奨]B[qn]
+;W[pn];B[pm];W[on];B[qq];W[qo];B[pq];W[qm];B[mq]
+;W[lp]C[AI は無理して攻めない]
+)
+
+)
+
+(
+;FG[259:]PM[2];W[oq];B[np];W[pn]
+;C[左の白は強く見えるが現実にはまだ生きていないので一方的に攻めることはできない]B[kq]
+;W[jo]C[AI 流];B[ko];W[kn];B[lo];W[jp];B[mm];W[pk]
+)
+
+)

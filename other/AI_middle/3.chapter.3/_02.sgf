@@ -1,0 +1,56 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[qd];W[dc];B[pq];W[dp];B[nc];W[qo];B[cn];W[fq];B[cp];W[cq];B[bq];W[do];B[bo];W[dr];B[ce];W[cd];B[de];W[fc];B[di];W[op];B[oq];W[np];B[mr];W[pi];B[dl];W[qf]
+(
+;
+)
+(
+;C[消しにきたところ (手順微妙。。。]B[ok]
+(
+;
+)
+(
+;FG[259:]PM[2]
+;W[qk]C[正解 (打ちこんできた石を攻めたいがそのためには白が強くなければならない (AI は連絡を重視する傾向がある]
+(
+;
+)
+(
+;B[on];W[pm];B[om];W[pp];B[qq]
+;W[nj]C[強くなったので攻めを開始]
+)
+
+(
+;FG[259:]PM[2]
+;C[白を凝らせる作戦]B[oi]
+;W[oh];B[ni];W[nh];B[mh]
+;W[mi]C[戦いは白歓迎]
+)
+
+)
+
+(
+;FG[259:]PM[2]
+;W[nj]C[すぐに攻めるのは打ちすぎ]
+;B[qj];W[qi];B[nk];W[mj];B[mk];W[lk];B[ll];W[kl]
+;C[右下白は強いとは言えず、どちらが攻めているのかわからない格好]B[lm]
+)
+
+(
+;FG[259:]PM[2];W[pk];B[pl]
+;W[ol]C[力強い打ち方]
+;B[om];W[nl];B[qk];W[pj];B[qm];W[nm]
+;C[右辺で生きられると甘くなる]B[on]
+)
+
+)
+
+(
+;FG[259:]PM[2]
+;C[深く入られた場合は?]B[qk]
+;W[ok]C[連絡重視]
+;B[ri];W[qh];B[qm];W[om];B[rh];W[rg];B[rn]
+;W[lq]C[直接やっつけるのではなく、自分を強化してやんわり攻めるのが AI 流]
+)
+
+)

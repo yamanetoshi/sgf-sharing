@@ -1,0 +1,55 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[qd];W[cc];B[cp];W[pp];B[eq];W[df];B[nq];W[pn];B[jp];W[qj];B[cj];W[oc];B[pe];W[kc];B[ej];W[od];B[pc];W[pg];B[pb]
+;W[eo]C[消しにきた (手順微妙
+
+左辺と下辺どちらかを受けるのか、それとも上から封鎖するのか]
+(
+;C[強硬策 (AI は滅多に選ばない]B[fn]
+;W[fo];B[gn];W[fq];B[fr];W[dq];B[dr];W[ep];B[er];W[go];B[in]
+;W[co]C[この局面は人間の感覚でも黒大変に見える]
+;
+)
+(
+;FG[259:]PM[2]
+;C[左辺を受けるのが正解]B[dn]
+;W[fq];B[fr];W[gr]C[手筋];B[er]
+;W[io]C[下辺は破れる]
+(
+;
+)
+(
+;C[ここですぐに攻めずに自分を強化するのが AI 流]B[oo]
+;W[po]
+;C[遠目からじっくり攻めを狙う]B[pr]
+)
+
+(
+;FG[259:]PM[2]
+;C[ここから攻めるのは気分が良いが]B[jo]
+;W[en];B[dm];W[in];B[jn];W[im];B[kl]
+;W[gq]C[白の形が決まって安心させてしまう意味がありこの場合はよくない]
+)
+
+)
+
+(
+;FG[259:]PM[2]
+;C[人間はこちらが多いとのこと]B[fp]
+(
+;
+)
+(
+;W[fo];B[go];W[co];B[dp];W[gn];B[hn];W[gm];B[em];W[dk];B[ek]
+;W[dm]C[AI は左辺の黒二目が弱体化するのを嫌っている模様]
+)
+
+(
+;FG[259:]PM[2];W[co];B[dp];W[gn]
+;C[AI の第一感]B[pk]
+;W[pj];B[oo];W[po];B[pr];W[do];B[nk]
+)
+
+)
+
+)

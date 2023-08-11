@@ -1,0 +1,40 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[pd];W[dd];B[pp];W[dp];B[nq];W[qc];B[qd];W[pc];B[nc];W[oc];B[od];W[nb];B[mc];W[mb];B[lc];W[gq]
+;C[右辺の消しが焦点、対称形ではないので選択肢が広いがここでも AI 好みの着点がある]B[qk]
+(
+;W[oj]C[人間の感覚では普通だがやや深入り]
+;B[mj];W[qj];B[pk];W[pj]
+;C[白窮屈、そして右下隅が大きい]B[ok]
+;
+)
+(
+;W[nj]C[正解]
+(
+;B[lj];W[pj];B[qj];W[pi];B[ol]
+;LB[pk:a]W[qi]C[a の狙いがある]
+)
+(
+;FG[259:]PM[2];B[pi]
+;W[mp]C[利かしと見て]
+;B[np]
+;W[mn]C[黒地が固まったが発展性がなくなっている]
+)
+
+)
+
+(
+;FG[259:]PM[2]
+;W[pj]C[自然に見えるが]
+;B[pk];W[oj];B[ok];W[nj];B[nk];W[mj]
+;C[囲われることが心配]B[ll]
+)
+
+(
+;FG[259:]PM[2]
+;W[pk]C[ツケもない訳ではないが AI 評価値は下がるとのこと]
+;B[pl];W[qj];B[pj];W[ok];B[qi];W[rj];B[ql];W[pi];B[oj];W[oh];B[nk]
+;W[qh]C[右下隅を立体的な黒地にしてはいけない]
+)
+
+)

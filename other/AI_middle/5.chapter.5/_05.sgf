@@ -1,0 +1,23 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[qd];W[dd];B[cp];W[pp];B[fc];W[cf];B[db];W[cc];B[ic];W[eq];B[dn];W[cr];B[ch];W[cb];B[ck];W[qf];B[oc];W[qi];B[ip];W[gq]
+;C[左上は今では珍しくなった形 (手順。。。
+
+このツケは先手の利かしとして打たれていたが AI なら受けないのではないかと思い調べてみたら案の定だった]B[bf]
+(
+;
+)
+(
+;FG[259:]PM[2]
+;W[cg]C[ブツカリが正解]
+;B[bg];W[dh];B[di];W[eh];B[ei];W[fh]
+;C[黒は先手を取るために頑張ったが白厚い]B[nq]
+)
+
+(
+;FG[259:]PM[2]
+;W[be]C[今までの常識]
+;LB[df:a]C[黒は a を残したことに満足して他に打つ]B[nq]
+)
+
+)

@@ -1,0 +1,49 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[dd];W[pc];B[dp];W[pq];B[po];W[qo];B[qn];W[qp];B[pn];W[nq];B[qe];W[pi];B[oe];W[od];B[nd];W[nc];B[md];W[mc];B[ld];W[lc];B[kd]
+;W[jc]C[右辺白をどうやって攻めるかが焦点 (手順?
+
+具体的な着点というより、どういった方針で攻めるかが重要]
+(
+;C[人間的な感覚]B[ni]
+(
+;
+)
+(
+;W[qk];B[ok];W[qg];B[og];W[fq];B[eq];W[fp];B[dn]
+;W[mo]C[AI は好まないが評価値はそれほど落ちないのでこの図を選んでも問題ないとのこと]
+;
+)
+
+(
+;FG[259:]PM[2]
+;W[ok]C[封鎖を避けた]
+;C[ぴったり]B[qk]
+;W[oi];B[nj];W[pk];B[rj];W[nk]
+;C[黒が完全に連絡してしまうのであとは白が攻められるだけ]B[qh]
+)
+
+)
+(
+;FG[259:]PM[2]
+;LB[pj:a][pk:b]C[根拠を奪って攻めるのが AI 流。黒の強化にもなっている。(a, b も正解]B[qk]
+;W[ni];B[oj];W[oi];B[ri]
+;W[nf]C[サバキの手筋]
+;B[of];W[og]
+;C[ここまでいい勝負 (ツガずに、なんですね]B[mf]
+)
+
+(
+;FG[259:]PM[2];B[pk];W[ni]
+;C[じっくり攻める]B[cn]
+;W[nf]C[周りの黒石が薄くなるので一長一短]
+)
+
+(
+;FG[259:]PM[2]
+;C[これも有力]B[pj]
+;W[oi]C[ここではいろいろ変化があり、難しい]
+;B[qj];W[qi];B[oj];W[ni];B[mk];W[lj];B[kh]
+)
+
+)

@@ -1,0 +1,41 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[pd];W[dd];B[pq];W[dp];B[fc];W[cf];B[fq];W[cn];B[nc];W[eq];B[pn]
+;W[fp]C[厚みへの対応は AI 得意]
+;FG[259:]PM[2]
+;C[正解 (厚い石はさらに厚くさせて凝り形に]B[cm]
+(
+;W[cl]C[頑張った手]
+;B[gp];W[gq];B[dm];W[bm];B[bn];W[bl];B[fr];W[hq];B[cq];W[cp];B[er];W[dq];B[fo];W[ep];B[co];W[dn];B[do];W[en]
+;C[絵にかいたようなハマリ]B[eo]
+;
+)
+(
+;FG[259:]PM[2];W[bm];B[cl];W[bl];B[cj];W[ck];B[dk];W[bk]
+;C[手抜く]B[fe]
+;W[dj]
+;C[白の強い場所でこれだけ二線に打たせれば満足]B[pi]
+)
+
+(
+;FG[259:]PM[2];W[dn]
+;C[利かしと見て他に打つ]B[dc]
+;W[cc];B[cb]
+)
+
+(
+;W[dm];B[cl];W[bn];B[dl]
+(
+;W[em]
+;C[地が増えたというより制限されたカンジ]B[ch]
+)
+(
+;FG[259:]PM[2]
+;W[di]C[厳しい打ち方]
+;B[em];W[dn]
+;LB[gp:a]C[a からサバく調子残り]B[fk]
+)
+
+)
+
+)

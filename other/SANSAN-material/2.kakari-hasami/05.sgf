@@ -1,0 +1,37 @@
+
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[13]PB[ ]PW[ ]PM[2]AB[jd]GN[ ]FG[259:]
+;W[kf];B[kh];W[kc];B[kd];W[jc];B[id];W[ld];B[le];W[lc];B[ke]
+;C[黒は他に打ちますが、その後の候補として A から C (すぐには打たない]W[hc]LB[fc:A][ge:B][hd:C]
+(
+;
+)
+(
+;PM[2]FG[259:];B[fc]
+(
+;W[gc]
+;C[黒後手]B[fd]
+)
+(
+;PM[2]FG[259:];C[白]W[dj];B[ib];W[ic];B[hb];W[jb];B[gb]
+)
+
+)
+
+(
+;PM[2]FG[259:];B[ge];W[gc]
+)
+
+(
+;PM[2]FG[259:];B[hd]
+(
+;W[gc]
+;C[オシには必ず受ける (が 14 に白が受けるかどうかは分からない]B[gd]
+)
+(
+;PM[2]FG[259:];W[gd];B[ic];W[ib];B[hb];W[gc]
+;C[ハネては]B[jb]
+)
+
+)
+
+)

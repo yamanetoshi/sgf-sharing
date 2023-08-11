@@ -1,0 +1,37 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[pd];W[dd];B[qp];W[dp];B[oq];W[qf];B[qi];W[qc];B[qd];W[pc];B[od];W[rd];B[re];W[rc];B[qe];W[nc];B[nd];W[mc];B[md];W[fq]
+;C[手順??
+
+AI が好む着点とは]B[lc]
+(
+;
+)
+(
+;FG[259:]PM[2]
+;W[lb]C[ハネが正解]
+(
+;
+)
+(
+;C[この交換は得という判断]B[kb]
+;LB[mb:a]W[pj]C[a は先手にならない、のがポイント]
+)
+
+(
+;FG[259:]PM[2]
+;C[手抜き]B[gp]
+;W[ld];B[kc]
+;W[kd]C[黒がつぶれる訳ではないが白戦える]
+)
+
+)
+
+(
+;FG[259:]PM[2];W[pj]
+;C[AI はこれを先手で打たれることを嫌う]B[lb]
+;W[oc];B[pi]
+;LB[ld:a]W[oj]C[a キリがあるので人間はこちらを選んでいた]
+)
+
+)

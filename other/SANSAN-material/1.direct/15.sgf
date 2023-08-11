@@ -1,0 +1,5 @@
+
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[13]PB[ ]PW[ ]PM[2]AB[jd]GN[ ]FG[259:]
+;W[kc];B[kd];W[jc];B[id];W[ic];B[hc]
+;C[相手もノビてきた場合? (ここで黒は保留 (後で A か B を選択]W[hb]LB[gc:A][lc:B]
+)

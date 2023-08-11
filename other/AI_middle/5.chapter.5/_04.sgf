@@ -1,0 +1,63 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[qd];W[dd];B[pq];W[dp];B[fc];W[po];B[qo];W[qn];B[qp];W[pn];B[nq];W[oc];B[kc];W[qh];B[pf];W[oh]
+;C[(手順?
+
+AI は先手かどうかをシビアに判断]B[qg]
+(
+;W[rg];B[rf];W[pg]
+;C[先手を取る打ち方]B[qf]
+;W[qc];B[rc];W[qb];B[rh];W[ri];B[sg]
+(
+;
+)
+(
+;W[cf];
+)
+
+(
+;FG[259:]PM[2]
+;W[qi]C[これもあるが AI 第一感は手抜き]
+)
+
+)
+(
+;FG[259:]PM[2];W[qc]C[正解]
+(
+;
+)
+(
+;B[rh];W[pd];B[qi]
+;W[cf]C[フリカワリ、AI は白が打ちやすいと判断]
+)
+
+(
+;FG[259:]PM[2];B[rc];W[pd]
+;C[受けさせれば利かし]B[qe]
+;W[hc]C[これ以上は先手にならないので大場へ]
+;B[rh]
+;W[fd]C[右辺の受けは眼中にない]
+)
+
+)
+
+(
+;FG[259:]PM[2]
+;W[rh]C[これが普通に見えますが利かされのよう]
+;B[pc]
+(
+;
+)
+(
+;W[od]
+;C[右辺大きいが打ち込みの余地あり]B[nf]
+)
+
+(
+;FG[259:]PM[2];W[pb];B[qb];W[of];B[oe]
+;W[nf]C[AI 推奨手順]
+)
+
+)
+
+)

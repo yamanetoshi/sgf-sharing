@@ -1,0 +1,44 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[pd];W[dd];B[pq];W[dp];B[fq];W[eq];B[fp];W[dn];B[jp];W[qo];B[op];W[ql];B[cq]
+;W[er]C[AI は根拠を奪う手と考えている]
+(
+;
+)
+(
+;FG[259:]PM[2];C[正解]B[bo]
+(
+;W[co];B[bp];W[bn];B[cm];W[cn];B[bm];W[ao]
+;C[白にヨリツキできると判断]B[br]
+)
+(
+;FG[259:]PM[2];W[bp];B[cp];W[co];B[bq];W[bn]
+;LB[cm:a][eo:b]C[ノゾキが厳しく白重い]B[ap]
+)
+
+)
+
+(
+;FG[259:]PM[2]
+;C[これが良いとされていた]B[co]
+;W[do]
+(
+;B[cn];W[cm]
+(
+;B[bm];W[bl];B[cl];W[dm];B[bk]
+;W[cp]C[AI は白有利]
+)
+(
+;FG[259:]PM[2];B[cp]
+;W[dm]C[白厚い]
+)
+
+)
+(
+;FG[259:]PM[2];B[bn];W[cn];B[bo];W[cl]
+;C[これも白有利]B[br]
+)
+
+)
+
+)
