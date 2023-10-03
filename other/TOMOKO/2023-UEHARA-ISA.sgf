@@ -1,5 +1,5 @@
 
-(;ST[2]AP[GOWrite:3.0.18]SZ[19]FF[4]CA[UTF-8]GM[1]PB[ ]GN[ ]PW[ ]FG[259:]PM[2]
+(;GM[1]CA[UTF-8]ST[2]AP[GOWrite:3.0.18]SZ[19]FF[4]PW[ ]PM[2]FG[259:]PB[ ]GN[ ]
 ;B[pd];W[cq];B[pq];W[dc];B[ce];W[ed]
 (
 ;B[qo];W[ch]
@@ -21,76 +21,90 @@
 ;W[bn];B[bq];W[cm];B[ck];W[dl];B[dk]
 (
 ;W[aq];B[br];W[dn];B[eo];W[fl];B[ek];W[fn];B[dg];W[dh];B[eh];W[ei]
+(
+;B[fi];W[eg];B[fh]
+(
+;W[df];B[cg];W[cf];B[bg];W[bf];B[bh];W[qn];B[pn];W[qm];B[ro];W[pm];B[on];W[qi];B[qg];W[jc];B[ef];W[de];B[ge];W[gc];B[bl];W[bm]
 )
 (
-;FG[259:]PM[2];W[br];B[aq];W[dq];B[dp];W[ap];B[dr];W[cq];B[dq];W[ar];B[cq];W[dn]
+;PM[2]FG[259:];W[bf];B[df];W[ef];B[be];W[bh];B[bc];W[bj];B[di];W[bl];B[cb]
 )
 
 )
 (
-;FG[259:]PM[2];W[br];B[dq];W[bq];B[bn]
+;PM[2]FG[259:];B[cg];W[di];B[fi];W[fj];B[fh];W[ej];B[gj];W[fk];B[hc]
 )
 
 )
 (
-;FG[259:]PM[2];W[br]
-)
-
-(
-;FG[259:]PM[2];W[bn]
+;PM[2]FG[259:];W[br];B[aq];W[dq];B[dp];W[ap];B[dr];W[cq];B[dq];W[ar];B[cq];W[dn]
 )
 
 )
 (
-;FG[259:]PM[2];B[co];W[do];B[go];W[eo];B[hr];W[ho];B[gr];W[cn]
+;PM[2]FG[259:];W[br];B[dq];W[bq];B[bn]
 )
 
 )
 (
-;FG[259:]PM[2];W[gp]
+;PM[2]FG[259:];W[br]
+)
+
+(
+;PM[2]FG[259:];W[bn]
+)
+
+)
+(
+;PM[2]FG[259:];B[co];W[do];B[go];W[eo];B[hr];W[ho];B[gr];W[cn]
+)
+
+)
+(
+;PM[2]FG[259:];W[gp]
 (
 ;B[gq];W[fo];B[ep];W[eq]
 )
 (
-;FG[259:]PM[2];B[eq];W[gq];B[ep];W[do];B[fn];W[dm];B[io]
+;PM[2]FG[259:];B[eq];W[gq];B[ep];W[do];B[fn];W[dm];B[io]
 )
 
 )
 
 )
 (
-;FG[259:]PM[2];B[lp];W[lq];B[mo];W[np];B[nq]
+;PM[2]FG[259:];B[lp];W[lq];B[mo];W[np];B[nq]
 )
 
 (
-;FG[259:]PM[2];B[np];W[lp];B[no]
-)
-
-)
-(
-;FG[259:]PM[2];W[nq];B[fq]
+;PM[2]FG[259:];B[np];W[lp];B[no]
 )
 
 )
 (
-;FG[259:]PM[2];B[fp]
+;PM[2]FG[259:];W[nq];B[fq]
+)
+
+)
+(
+;PM[2]FG[259:];B[fp]
 (
 ;W[dn];B[iq]
 )
 (
-;FG[259:]PM[2];W[hq];B[do];W[co];B[cn];W[dn];B[cp];W[bo];B[eo];W[bp];B[dm]
+;PM[2]FG[259:];W[hq];B[do];W[co];B[cn];W[dn];B[cp];W[bo];B[eo];W[bp];B[dm]
 )
 
 )
 
 )
 (
-;FG[259:]PM[2];B[df];W[bd];B[ff];W[hd]
+;PM[2]FG[259:];B[df];W[bd];B[ff];W[hd]
 )
 
 )
 (
-;FG[259:]PM[2];B[ch]
+;PM[2]FG[259:];B[ch]
 )
 
 )
