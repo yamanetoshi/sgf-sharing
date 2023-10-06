@@ -38,7 +38,14 @@
 (
 ;W[mh]
 (
-;B[ni];W[kg];B[je]
+;B[ni];W[kg];B[je];W[ki]
+(
+;B[hd];W[hf];B[ig];W[ie];B[id];W[jf];B[jd];W[if];B[ib];W[la];B[na];W[hb];B[ic];W[ja];B[mg];W[mi];B[nh];W[nj];B[em]
+)
+(
+;PM[2]FG[259:];B[mg];W[mf];B[lg];W[nh];B[oe];W[nf];B[ne];W[pf]
+)
+
 )
 (
 ;PM[2]FG[259:];B[mg];W[mf];B[lg];W[nh];B[oe];W[nf];B[ne];W[pf];B[oi]
