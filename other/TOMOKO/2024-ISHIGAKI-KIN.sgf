@@ -28,7 +28,14 @@
 (
 ;B[pb]
 (
-;W[lb];B[ob];W[mb];B[qb];W[mg]
+;W[lb];B[ob];W[mb];B[qb];W[mg];B[lg];W[lf]
+(
+;B[ng];W[mh];B[nh];W[lh];B[kj];W[ki];B[lj];W[jj];B[ji];W[ik];B[kh];W[kg];B[li];W[rj];B[ri];W[rk];B[qi];W[jh];B[dq];W[cp];B[dp];W[do];B[bk];W[bl];B[bj]
+)
+(
+;FG[259:]PM[2];B[lh];W[nf];B[me];W[mh];B[mi];W[ne];B[md];W[od];B[ng];W[nh];B[oe];W[og];B[of];W[pg];B[ng];W[li];B[jh];W[ki];B[jg];W[oi];B[oj];W[pi];B[pj];W[qi]
+)
+
 )
 (
 ;FG[259:]PM[2];W[qb];B[ob];W[rb];B[pc];W[pa];B[od];W[oa];B[pe];W[rd];B[re];W[sc]
