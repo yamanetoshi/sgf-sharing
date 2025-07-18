@@ -1,0 +1,38 @@
+
+(;SZ[13]FF[4]AP[GOWrite:3.0.20]GM[1]ST[2]CA[UTF-8]PM[2]PB[ ]PW[ ]AW[db][eb][ec][kb][jb][jc][ic][hb][hd][gd][fd][fe][ef][eg][lg][lh][kh][jg][jf][ig][ih][hh][gi][fi][fj][fk][jj][kk]AB[bc][cb][dc][dd][de][df][dg][di][dj][dk][ei][eh][ee][ge][he][if][hg][gg][gh][fh][id][jd][ke][kf][kg][lf][kc][lc][lb]FG[259:]GN[ ]
+(
+;C[両先手 6]W[el]
+;B[dl];W[dm];B[cm];W[em];B[cl]
+;C[後手4]W[ff]
+(
+;C[先手1]B[ek]
+;W[fl]
+;C[逆ヨセ3?]B[ka]
+;W[ja];B[la]
+;C[先手0.5?]W[je]
+;B[ie]
+;C[先手 0.5?]W[gf]
+;B[hf]
+;C[後手1]W[ca]
+;B[ba];W[da]
+;C[後手1]B[mg]
+;W[mh]
+;C[白 34+11 \; 45
+黒 8 + 27 + 7 \; 42]B[mf]
+)
+(
+;PM[2]FG[259:]
+;C[逆ヨセよりも片先手]B[ka]
+;W[ja];B[la];W[je];B[ie];W[gf];B[hf];W[ek];B[mg];W[mh];B[mf];W[ca];B[ba]
+;C[white 11+35 \; 46
+black 8 + 27 + 7 \; 42]W[da]
+)
+
+)
+(
+;PM[2]FG[259:];W[ff];B[el];W[fl];B[fm];W[gm];B[em];W[gl];B[ka];W[ja];B[la];W[ek];B[dl];W[je];B[ie];W[gf];B[hf];W[ca];B[ba];W[da];B[mg];W[mh]
+;C[black 8 + 37 \; 45
+white 11 + 31 \; 42]B[mf]
+)
+
+)

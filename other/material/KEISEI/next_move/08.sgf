@@ -1,0 +1,41 @@
+
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]PW[ ]PM[2]GN[ ]FG[259:]
+;B[pd];W[dp];B[pq];W[dd];B[cq];W[dq];B[cp];W[do];B[cn];W[qo];B[bm];W[op];B[oq];W[np];B[mq];W[mp];B[lq];W[lp];B[kq];W[kp]
+;C[ここまでの交換は白が得しているように見えるが左の白の厚みが働きにくい]B[jq]
+;W[pi]LB[qk:A][qf:B]
+(
+;
+)
+(
+;PM[2]FG[259:];B[qf];W[qh]
+(
+;B[mc];W[mi]
+;C[AI 互角]B[fc]
+)
+(
+;PM[2]FG[259:]
+;C[これもアリ]B[ni]
+;W[nh];B[mh];W[ng];B[li];W[mg];B[lg];W[lf];B[kg];W[kf]
+;C[上辺に白の厚み]B[jg]
+)
+
+)
+
+(
+;PM[2]FG[259:]
+;C[深く入ると攻められる]B[qk]
+;W[pk]
+(
+;B[pl];W[ok];B[qi];W[qh];B[qj]
+;C[AI 白良し]W[ph]
+;C[生きに行く]B[qm]
+;W[nm];B[ro];W[rp];B[rn];W[qp];B[nc]
+;C[白厚い、右下黒が傷んだ]W[lc]
+)
+(
+;PM[2]FG[259:];B[pj];W[qj];B[oj];W[qi]
+)
+
+)
+
+)

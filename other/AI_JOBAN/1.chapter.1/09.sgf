@@ -1,0 +1,38 @@
+
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]PW[ ]PM[2]GN[ ]FG[259:]
+;B[pd];W[dd];B[qp];W[dq];B[nq];W[qf];B[nc];W[qj];B[co];W[ck];B[fp];W[ep];B[eo];W[fq];B[gp];W[gq];B[hp];W[hq];B[ip];W[iq];B[ci];W[ek];B[cf];W[ei];B[bd];W[ef];B[fd];W[df];B[ce];W[ed];B[jd];W[jp];B[jo];W[kp];B[fc];W[rd];B[dj];W[ej];B[dh]
+(
+;C[切ると取られなのでツナぐ一手に見えるが]W[fn]
+(
+;C[気合い (左下は切られても左上を取ればヤレるという判断]B[eh]
+;W[ge];B[gh];W[fo];B[hd];W[hg];B[gg];W[cj];B[hf]
+;C[フリカワったが黒良さげ]W[bq]
+;C[渋い好手 (動きだしも見ている]LB[cm:A]B[bi]
+;W[hj];B[pf];W[pg];B[of];W[ph];B[jj];W[mh];B[jl];W[le];B[lc];W[if];B[he];W[qn];B[op]
+)
+(
+;PM[2]FG[259:]
+;C[利かされ]B[fo]
+;W[eh];B[dk];W[dl];B[el]
+;C[先手?]W[dm]
+;B[fl];W[cg]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[こうしたい]W[eh]
+(
+;B[dk];W[dl]
+;C[デギりが怖いが]B[el]
+;W[cg];B[bg]
+;C[二段にハネて白ヤレそう?]W[bh]
+)
+(
+;PM[2]FG[259:];B[dg];W[dk];B[eg];W[fg];B[ff];W[fe];B[gf];W[ge];B[hf];W[he];B[if];W[hc]
+;C[黒も戦えそう]B[db]
+)
+
+)
+
+)

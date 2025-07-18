@@ -1,0 +1,31 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[pd];W[dp];B[pp];W[dd];B[fc]
+;LB[db:A][jd:B][dg:C]W[cf]
+;C[Zen チョイス]B[dg]
+;W[fd]C[7];B[gd]
+;LB[eb:A][ec:B][dc:C]W[fe]C[人間ならどう打っても一局となりそうなところ]
+(
+;
+)
+(
+;FG[259:]PM[2];B[eb];W[db];B[dc];W[cc];B[ec];W[cd]
+;C[わずかに黒有利と判断]B[ge]
+;W[ff];B[gf];W[fg]
+;C[わずかに黒有利との判断 (Zen
+
+左辺黒△は白△との手割りで損はない?]TR[dg][cf]B[mc]
+)
+
+(
+;FG[259:]PM[2];B[dc];W[gc]C[妙手];B[ec];W[hc];B[cd]
+;W[df]C[互角のワカレ]
+)
+
+(
+;FG[259:]PM[2];B[ec];W[dc]
+;C[踏み込み不足]B[ge]
+;W[ff]
+)
+
+)

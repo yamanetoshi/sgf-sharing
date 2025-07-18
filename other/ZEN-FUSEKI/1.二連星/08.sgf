@@ -1,0 +1,37 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[pd];W[dp];B[pp];W[dd];B[fc]
+;LB[db:A][jd:B][dg:C]W[cf]
+;C[Zen チョイス]B[dg]
+;W[cg];B[di];W[fd]C[ ];B[gd]
+;LB[eb:A][dc:B]W[fe]
+(
+;
+)
+(
+;FG[259:]PM[2]
+;C[この配石だとこちらを選択]B[dc]
+(
+;
+)
+(
+;W[gc];B[ec];W[hc];B[cd];W[df]
+;C[△の交換が黒有利に働いているとのこと]TR[cg][di]B[cn]
+)
+
+(
+;FG[259:]PM[2];W[cc];B[ec];W[cd];B[ge];W[ff];B[gf];W[fg]
+;C[上辺を広げて黒優勢と判断
+
+△の交換は黒の得と見ている (左辺侵入の足掛かり]TR[cg][dg][cf][di]B[mc]
+)
+
+)
+
+(
+;FG[259:]PM[2]
+;LB[ec:a]C[戦いに弱い (a に石があった方が戦いになったときにつよい]B[eb]
+;W[cc];B[ge];W[gf];B[mc]
+)
+
+)

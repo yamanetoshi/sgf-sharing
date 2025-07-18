@@ -1,0 +1,18 @@
+
+(;SZ[19]FF[4]AP[GOWrite:3.0.20]GM[1]ST[2]CA[UTF-8]PM[2]PB[ ]PW[ ]AW[nc][ne][jd]AB[dd][pd][qf][pi]FG[259:]GN[ ]
+;C[ヒラキ]B[hc]
+;C[打ち込みf]W[fc]
+(
+;C[打ち込んだ形に]CR[hc]B[cf]
+;W[jc];B[gd];W[dc];B[cc];W[cb];B[ec];W[db];B[ed];W[cd];B[bc];W[bd];B[bb];W[ba];B[eb];W[ac]
+)
+(
+;PM[2]FG[259:];B[he];W[cc];B[dc];W[cd];B[de];W[db];B[eb];W[cb];B[ec]
+;C[○に石がない場合は打ち込みがあるのでアリ (○の有無で×の価値がかわる]CR[ne]MA[he]W[cf]
+)
+
+(
+;PM[2]FG[259:];B[ec];W[fd];B[df];W[hd];B[fb];W[gb];B[eb];W[gc]
+)
+
+)

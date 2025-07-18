@@ -1,0 +1,37 @@
+
+(;SZ[19]FF[4]AP[GOWrite:3.0.20]GM[1]ST[2]CA[UTF-8]PM[2]PB[ ]PW[ ]AW[dd][cd][ed][bo][cn][cm][bm][do][dp][dq][er][fq][qo][pl][rj][ri][pi][ph][jc][qd][qc][qb][ob][nb][mc][qh][qg][pf][og][rf][re][sg]AB[pd][qp][pq][op][cq][dr][cs][br][cp][bp][co][dn][bn][qj][qk][oj][ok][rk][oh][nh][ng][of][pe][pc][rd][rc][qe][rb][pb][nc][cc][dc]FG[259:]GN[ ]
+;C[スベったところ (どちらが大きいか問題]LB[gc:A][kp:B]B[fb]
+;PM[2]FG[259:];W[gc];B[gb]
+;C[上辺白が生きているならつながる必要はない (左上三子が不安なら a あたり]LB[di:a]W[hc]
+;C[ヒラいた (左辺の模様を広げたいが黒模様も気になる]B[kq]
+(
+;
+)
+(
+;C[地を囲うのはよくない]W[jh]
+;B[jj];W[hi];B[hk];W[fj];B[hp];W[go]
+;C[黒地、大きすぎる]B[in]
+)
+
+(
+;PM[2]FG[259:]
+;C[中央付近ならこのあたり]W[jk]
+(
+;B[ji];W[hj];B[hh];W[fi];B[gg];W[eg]
+)
+(
+;PM[2]FG[259:]
+;C[これを狙われる]B[en]
+;W[iq];B[el];W[dk];B[ek];W[dj];B[ej]
+)
+
+)
+
+(
+;PM[2]FG[259:]
+;C[ここか a が正しい感覚]LB[jn:a]W[jp]
+;B[jq];W[ip];B[kp];W[jn];B[ko]
+;C[a の弱点に備える、白模様を広げる、黒地を減らす、という目的を達成する着点を探す必要があった]LB[en:a]W[ik]
+)
+
+)

@@ -1,0 +1,40 @@
+
+(;SZ[19]FF[4]AP[GOWrite:3.0.20]GM[1]ST[2]CA[UTF-8]PM[2]PB[ ]PW[ ]AW[cn][cp][cq][cr][dr][fq][pq][qp][po][ql][ok][nj][mk][kh][ke][je][jc][kc][mb][nb][ra][rb][qc][pc][sc][rd][re][rf][of][oi][pi][ph]AB[dd][pd][ic][id][ie][dp][dq][eq][er][fp][do][op][oq][lq][qj][qi][qg][rg][qf][qd][od][oc][nc][ob][pb][qb][ld][mf][mh][ni][mj][lj][og]FG[259:]GN[ ]
+(
+;W[ih]
+;C[上辺の白をどうするか]B[if]
+(
+;
+)
+(
+;PM[2]FG[259:]
+;C[我慢してつながる]W[jg]
+;
+)
+
+(
+;PM[2]FG[259:]
+;C[上辺で生きようとするのは]W[ib]
+;B[hb];W[ia];B[kg]
+(
+;C[これが省けない]W[kb]
+;C[大場に回られる (中央二子もおいてけぼり]B[cf]
+)
+(
+;PM[2]FG[259:]
+;C[手抜くと]W[cf]
+;B[lc];W[lb]
+;C[部分的に一手で生きない形の場合は中央への進出が基本]B[ka]
+)
+
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[こうするべきでした]W[if]
+;B[hf]
+;C[しっかりした形で眼形の確保にもなっている (先を急ぎすぎずに形を整えることが重要]W[ig]
+)
+
+)

@@ -1,0 +1,45 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[pd];W[dp];B[pp];W[dd];B[pj];W[nc];B[pf]
+;LB[qc:A][fq:B][jp:C]W[pb]
+;C[深い意味のある手]B[jp]
+;W[qc]C[2];B[fq]
+;LB[fo:A][dm:B]W[cn]
+;C[カタツキ]B[dm]
+;W[cm];B[dk];W[cf];B[dg];W[df]
+;C[カタツキで模様を広げる打ち方]B[fg]
+;LB[pq:A][qp:B]W[qq]C[ ]
+(
+;
+)
+(
+;FG[259:]PM[2]
+;C[こちらが正しい]B[pq]
+;W[qp];B[qn];W[rn]
+(
+;
+)
+(
+;B[qm];W[qo];B[po];W[rm]
+;C[下辺黒模様]B[eo]
+;W[ql];B[pl];W[pm];B[pn];W[pk];B[ol];W[qk]
+;LB[re:a]C[後手だが問題なし (左辺は地になりにくい]B[ok]
+)
+
+(
+;FG[259:]PM[2]
+;C[これも有力とのこと]B[rm]
+;W[qo];B[pn];W[po];B[oo];W[pr];B[or];W[on];B[no];W[ro];B[ql];W[qr]
+;C[全局的に黒模様が大きい]B[nq]
+)
+
+)
+
+(
+;FG[259:]PM[2]
+;C[方向違い]B[qp]
+;W[pq];B[nq];W[nr];B[mq];W[oq];B[op]
+;W[mr]C[△の位置が甘い?]TR[fq]
+)
+
+)

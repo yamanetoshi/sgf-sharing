@@ -1,41 +1,41 @@
 
-(;CA[UTF-8]GM[1]SZ[19]ST[2]FF[4]AP[GOWrite:3.0.18]PB[ ]PW[ ]GN[ ]FG[259:]PM[2]
+(;SZ[19]GM[1]ST[2]FF[4]AP[GOWrite:3.0.20]CA[UTF-8]PW[ ]PM[2]PB[ ]FG[259:]GN[ ]
 ;B[pd];W[dp];B[pp];W[dd];B[fq];W[nc];B[cn];W[dn];B[dm];W[en]
 (
 ;B[co];W[cp]
 (
 ;B[em];W[fp];B[gp];W[eq];B[fo];W[ep];B[fm];W[gq];B[hp]
-;W[cf]C[両がかりした割にはやれてない]
+;C[両がかりした割にはやれてない]W[cf]
 )
 (
-;FG[259:]PM[2];B[gp];W[er];B[eq]
-;W[dr]C[両方治まっていない]
+;PM[2]FG[259:];B[gp];W[er];B[eq]
+;C[両方治まっていない]W[dr]
 )
 
 )
 (
-;FG[259:]PM[2];B[cp]
+;PM[2]FG[259:];B[cp]
 (
 ;W[cq];B[co];W[dq];B[gp];W[gn];B[cj]
-;W[jp]C[黒悪いわけではないが、白不満なし]
+;C[黒悪いわけではないが、白不満なし]W[jp]
 )
 (
-;FG[259:]PM[2];W[cm]
+;PM[2]FG[259:];W[cm]
 (
 ;B[co]
-;W[dl]C[△のかかりがあるのでしちょう▽]TR[nc]
+;C[△のかかりがあるのでしちょう▽]TR[nc]W[dl]
 ;B[dq];W[em];B[qf];W[cq]
 (
 ;B[bq];W[eq];B[cr];W[er]
 )
 (
-;FG[259:]PM[2];B[ep];W[dr];B[do];W[bq];B[er];W[cs]
+;PM[2]FG[259:];B[ep];W[dr];B[do];W[bq];B[er];W[cs]
 )
 
 )
 (
-;FG[259:]PM[2];B[cl];W[co];B[bm]
-;W[cq]C[白良し]
+;PM[2]FG[259:];B[cl];W[co];B[bm]
+;C[白良し]W[cq]
 )
 
 )

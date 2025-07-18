@@ -1,0 +1,25 @@
+
+(;FF[4]AP[GOWrite:3.2.1]CA[UTF-8]SZ[9]GM[1]ST[2]FG[259:]PM[2]AB[ba][cb][cc][bd][dd][ed][fd][eb][fb][gb][ee][ge][gf][hf][if][gg][gh][gi]PB[ ]AW[bb][bc][cd][be][ce][de][df][ef][ff][fe][fh][eh][gd][he][id][gc][hb]GN[ ]PW[ ]
+;W[ha]C[右上の白を取れるか勝負]
+(
+;
+)
+(
+;FG[259:]PM[2];B[ib]
+(
+;W[ic];B[hd]
+)
+(
+;FG[259:]PM[2];W[hd];B[ic]
+)
+
+)
+
+(
+;FG[259:]PM[2]
+;B[hd]C[ホウリコミは]
+;W[hc];B[ie];W[ib];B[hd]
+;W[dc]C[コウになる]
+)
+
+)

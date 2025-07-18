@@ -1,0 +1,37 @@
+
+(;SZ[19]GM[1]ST[2]FF[4]AP[GOWrite:3.0.20]CA[UTF-8]PB[ ]PM[2]PW[ ]FG[259:]GN[ ]
+;B[pd];W[dd];B[qp];W[dq];B[nq];W[qf];B[nc];W[qj];B[co];W[ck];B[fp];W[ep];B[eo];W[fq];B[gp];W[gq];B[hp];W[hq];B[ip]
+(
+;C[ある理想的な図を狙った手]W[iq]
+(
+;C[白のもくろみを阻止する手]B[ci]
+;C[気合い]W[jp]
+;B[cf]
+;C[気になる]W[fo]
+;B[dp];W[eq];B[fn];C[ ]W[go]
+;C[四子ステ]B[en]
+;W[gn];B[cq];W[gm];B[fc];W[fd];B[gd];W[fe];B[ec];W[dc];B[be];W[cr]
+;C[黒が足早に立ち回った印象]B[fl]
+)
+(
+;PM[2]FG[259:]
+;C[立派だが]B[jp]
+;C[白の狙いはここだった (A もあるが B が気になる]LB[ch:A][cc:B]W[cf]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[トビなら?]W[jq]
+;C[打ち込み (前の手のトビは甘い]B[ci]
+)
+
+(
+;PM[2]FG[259:]
+;C[手抜きは]W[cf]
+;C[これが大きい]B[iq]
+;W[qm]
+;C[白薄い]B[bq]
+)
+
+)

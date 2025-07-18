@@ -1,0 +1,19 @@
+
+(;FF[4]AP[GOWrite:3.2.1]CA[UTF-8]SZ[9]GM[1]ST[2]FG[259:]PM[2]AB[ba][bb][cb][bc][cd][be][bf][ag][cg][gi][gh][fg][gf][ff][ef][ge][gd][fd][gc][fb][eb]PB[ ]AW[ca][da][db][dc][cc][ec][fc][ed][ee][fe][ce][cf][df][dg][eg][fh][gg][hh][bg][bh]GN[ ]PW[ ]
+;W[af]C[黒は左辺を生きれば勝ちとのこと]
+(
+;
+)
+(
+;FG[259:]PM[2];B[ab];W[ad]
+;B[bd]C[このパターンか]
+)
+
+(
+;FG[259:]PM[2]
+;B[ae]C[抜きでは]
+;W[bd];B[ad]
+;W[ab]C[スペースが足りない]
+)
+
+)

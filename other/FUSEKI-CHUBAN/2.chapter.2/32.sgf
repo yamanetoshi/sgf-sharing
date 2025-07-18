@@ -1,0 +1,21 @@
+
+(;SZ[19]FF[4]AP[GOWrite:3.0.20]GM[1]ST[2]CA[UTF-8]PM[2]PB[ ]PW[ ]AW[dp][fp][cq][jp][nq][dj][di][ci][be][ce][de][ee][dd][cd][fd][hd][fc][fb]AB[pd][pp][pn][cn][bp][dl][ck][cj][cc][bc][bd][ec][ed][eb][fe][ef][cf][ic]FG[259:]GN[ ]
+;C[左上を生きた、白はどちら?]LB[df:A][ge:B]B[dc]
+(
+;
+)
+(
+;PM[2]FG[259:]
+;C[単に出るのが良い]W[df]
+;C[筋違い]B[ge]
+;W[id];B[kc];W[if]
+)
+
+(
+;PM[2]FG[259:]
+;C[アタリすると黒が強くなる]W[ge]
+;B[ff];W[bf];B[df];W[bh];B[cg];W[bg]
+;C[お互い不安定なので互角の競り合い]B[hg]
+)
+
+)

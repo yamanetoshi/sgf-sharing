@@ -1,39 +1,48 @@
 
-(;CA[UTF-8]GM[1]SZ[19]ST[2]AP[GOWrite:3.0.18]FF[4]PW[ ]FG[259:]GN[ ]PM[2]AB[pd][pp][dp][dd]PB[ ]
-;W[cn];B[fp];W[fc];B[df];W[ch];B[id]
+(;FF[4]SZ[19]AP[GOWrite:3.2.1]GM[1]CA[UTF-8]ST[2]PB[ ]GN[ ]PM[2]PW[ ]FG[259:]
+;B[pd];W[dp];B[pq];W[dd];B[fq];W[cn];B[jp];W[qn];B[qp];W[qk];B[qi];W[nc];B[on];W[ok];B[qf];W[pb]
 (
-;W[fe];B[eg];W[he];B[ec];W[fb]
+;B[pm];W[qm];B[pl];W[pk];B[ql];W[rl]
 (
-;B[di];W[cj];B[kd];W[hh];B[hd];W[gd];B[gg];W[ie];B[je];W[hg];B[gf];W[ge];B[jg];W[gh];B[dj];W[ck];B[dk];W[cl];B[fk]
+;B[rm]
+(
+;W[rn];B[rk];W[sm];B[rj]
+(
+;W[po];B[oo];W[pp];B[op];W[qq];B[qr];W[rq];B[or];W[rr];B[rs];W[rp];B[md];W[nd];B[ne];W[mc];B[ld];
 )
 (
-;PM[2]FG[259:];B[ie];W[hf];B[if];W[hg];B[jh];W[hi]
+;FG[259:]PM[2];W[rp];B[rq];W[qo];B[op];W[sq];B[sr];W[sp];B[md]
+)
+
+(
+;FG[259:]PM[2];W[oo];B[po];W[pn];B[om];W[no];B[nl];W[rp];B[rq];W[qo];B[pp];W[sq];B[sr];W[sp];B[nq]
 )
 
 )
 (
-;PM[2]FG[259:]
-;W[dc]C[これは向きがおかしい]
-;B[cc];W[cb];B[ec];W[db];B[ed];W[eb];B[fd];W[gc];B[gd];W[hc];B[hd];W[ck]
-;B[ic]TR[ch]C[△が強い石の近くにある形になっている]
+;FG[259:]PM[2];W[rj];B[sl];W[rk];B[rn]
 )
 
+)
 (
-;PM[2]FG[259:]
-;W[db]C[地でないところをあらしにいくのはおかしい]
-;B[fd];W[gd];B[ec];W[fe];B[ed];W[eb];B[gc];W[fb];B[ge];W[hd];B[he];W[hc];B[ff]
+;FG[259:]PM[2];B[rk];W[rj];B[rm];W[sk];B[rn]
 )
 
-(
-;PM[2]FG[259:];W[he]
-(
-;B[ie];W[hf];B[if];W[hg];B[jh]
-;W[hi]C[左上黒を弱くしている]
 )
 (
-;PM[2]FG[259:];B[eg];W[hd];B[ec];W[ic];B[fb];W[nc];B[qf];W[ck];B[gc]
-;W[jd]C[この手で白は生き認定なので a つけが生じる]LB[nd:a]
-;B[jq]
+;FG[259:]PM[2];B[pl]
+(
+;W[pk];B[rm]
+)
+(
+;FG[259:]PM[2];W[ql];B[pk]
+(
+;W[pj];B[qj];W[pm];B[ol];W[om];B[nl];W[nm];B[ml]
+)
+(
+;FG[259:]PM[2];W[pm];B[om];W[pj];B[ol];W[qj]
+)
+
 )
 
 )

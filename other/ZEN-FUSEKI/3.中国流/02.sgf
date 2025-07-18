@@ -1,0 +1,32 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[pd];W[dp];B[pq];W[dd];B[qk];W[nc];B[pf];W[qc];B[pc]
+;LB[ob:A][fq:B]W[pb]C[最近はカカリから三々が定跡化]
+;B[fq];W[cn]
+;LB[ob:a][qd:b]C[面白い構え、この後の展開次第で a, b を選択]B[lp]
+;LB[np:A][qp:B]W[po]C[カカリに対してどのように攻めの構想を描くか。。。]
+(
+;
+)
+(
+;FG[259:]PM[2];B[np];W[qq];B[qr];W[qp];B[rr]
+;W[qm]C[定石形]
+;C[圧迫]B[on];W[pk];B[qj];W[pl];B[qd];W[rb];B[rc];W[qb];B[oi]
+;LB[lq:a]W[nk]C[この時、△が良い位置 (無ければ a に迫るのが厳しい]TR[lp]
+;C[先行できる]B[dm]
+;W[cm];B[cf];W[fc]
+;C[先行して黒好調]B[dk]
+)
+
+(
+;FG[259:]PM[2]
+;C[根拠を取る手]B[qp]
+;W[ol];B[pi]
+;W[oq]C[ツケが上手いサバキ]
+;B[pp];W[op]
+;C[分断を狙うが]B[oo]
+;W[no];B[on];W[nn];B[pn];W[mp];B[lo]
+;LB[ql:a][lq:b]W[mm]C[白から手が豊富 (黒の攻めが空振り]
+)
+
+)

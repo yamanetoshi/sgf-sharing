@@ -1,0 +1,32 @@
+
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]PW[ ]PM[2]GN[ ]FG[259:]
+;B[pd];W[pp];B[dc];W[cp];B[cf];W[ep];B[nq];W[qn];B[pr];W[nc];B[qf];W[id];B[oc];W[nd]
+;C[Aが気になるが単に守るのではなく働いた打ち方で打ち込みを牽制したい]LB[kd:A]B[gc]
+(
+;C[働いた打ち方]W[dd]
+;B[cd];W[ec];B[de];W[ed];B[db]
+;C[厚くなったので打ち込みが狙いづらくなった]W[gd]
+;B[hd];W[cc];B[cb];W[he];B[hc];W[ic];B[ie];W[hf];B[je];W[ib];B[eb];W[fc];B[gb];W[ee];B[ef];W[ff];B[eg];W[fb];B[fa]
+;W[fe]LB[kc:A][kb:B]
+)
+(
+;PM[2]FG[259:]
+;C[守るだけなら]W[hc]
+;B[gd]
+;C[打ち込みは防げるが]W[kd]
+;B[nb];W[mb];B[co];W[do];B[cn];W[bp]
+;C[これは白悪い]B[dn]
+)
+
+(
+;PM[2]FG[259:]
+;C[手抜き]W[dj]
+;C[打ち込みが厳しい]B[kd]
+)
+
+(
+;PM[2]FG[259:]
+;C[打ち込みをカバーした手 (甘くなる怖れあり]W[of]LB[pf:A][og:B][ph:C]
+)
+
+)

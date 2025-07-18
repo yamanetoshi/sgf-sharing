@@ -1,0 +1,19 @@
+
+(;SZ[19]FF[4]AP[GOWrite:3.0.20]GM[1]ST[2]CA[UTF-8]PM[2]PB[ ]PW[ ]AW[jd][fc][lc]AB[dd][cf][pd][nc]FG[259:]GN[ ]
+(
+;C[A がある状態での打ち込みは良くない]LB[lc:A]B[hc]
+;C[黒は辺で生きるためのスペースが狭い形]W[hd]
+)
+(
+;PM[2]FG[259:]
+;C[これがある]B[id]
+;W[ic];B[hc];W[hd];B[ie]
+)
+
+(
+;PM[2]FG[259:];B[tt]
+;C[守られると手をつけていくのが難しくなる]W[fe]
+;B[id];W[ie];B[hd];W[je]
+)
+
+)

@@ -1,0 +1,34 @@
+
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]PW[ ]PM[2]GN[ ]FG[259:]
+;B[qd];W[dp];B[pq];W[dd];B[od];W[qo];B[np];W[ql];B[lc];W[fc];B[fq];W[ip];B[cq];W[dq];B[cp];W[do];B[dr];W[er];B[cr];W[fr];B[gq];W[eq];B[cn];W[lq];B[qp];W[po];B[mq]
+;W[lp]LB[dn:A][ho:B]
+(
+;
+)
+(
+;PM[2]FG[259:];B[ho];W[hp];B[fo]
+(
+;W[dn];B[cm];W[dm];B[fm];W[dk];B[gj]
+)
+(
+;PM[2]FG[259:];W[gp];B[dn];W[fp];B[cf]
+)
+
+)
+
+(
+;PM[2]FG[259:];B[dn];W[en];B[em];W[fn]
+(
+;B[fm];W[gm];B[gn];W[go];B[hn]
+;C[白有利判定]W[ho]
+)
+(
+;PM[2]FG[259:]
+;C[これから逃げるのは]B[go]
+;W[fm];B[hn]
+;C[逃げるスペ-スが少なくなっていて黒が苦しい (石を捨てるか助けるかの判断は取られた時効率の良い形かどうかを手割りで考えてみる方法がある]W[el]
+)
+
+)
+
+)

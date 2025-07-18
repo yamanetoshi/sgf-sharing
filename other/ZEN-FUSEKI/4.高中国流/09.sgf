@@ -1,0 +1,61 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[pd];W[dp];B[pq];W[dd];B[pk]
+;LB[po:A][jp:B]W[mp]C[5 (裏ガカリ]
+;B[po];W[jp];B[cn];W[fp]
+;C[無難に進行するのが良い、とのこと]B[bp]
+;W[cq];B[ck]
+;LB[pf:A][qf:B]W[nc]C[6]
+;C[高い中国流なのでこう受けやすい]TR[pk]B[qf]
+;W[pb];B[fc];W[cf]
+;C[隅より辺を重視した打ち方]B[lc]
+;W[qc];B[oc];W[ob];B[nd];W[md];B[mc];W[nb]
+;C[定石 (△が白からの辺への進出を止めているので三々を譲りやすい]TR[qf]B[me]
+;W[dl]C[7];B[cl]
+;LB[co:A][jf:B][ld:C]W[dn]C[シチョウアタリ]
+;LB[fe:a]C[全局に目一杯働かせて取る (後に黒 a と打てばそのまま地になりそうな形]B[jf]
+;LB[bn:A][dm:B]W[co]C[8 (AI の特徴として、ただ守るという手はあまり打たないとのこと]
+;C[少しでも白にキズを残す受けを選ぶ]B[dm]
+;W[em];B[cm]
+;W[bo]C[隅を取られるが]
+;B[en];W[do]
+;C[これを]B[ch]
+;W[db]C[決めてから]
+;C[大場へ回って黒十分との判断]B[mn]
+;LB[pm:A][qo:B][qk:C]W[qm]C[9 (打ち込みに対する攻めの構想]
+(
+;
+)
+(
+;FG[259:]PM[2]
+;C[一番大きくなりそうなところを守る]B[qk]
+;W[qp];B[pp];W[qo];B[qq];W[pn]
+;C[白を攻めつつ模様を確定地に]B[nl]
+;
+)
+
+(
+;FG[259:]PM[2]
+;C[中央を厚くする打ち方だが]B[pm]
+;W[qn];B[qo];W[pn];B[on];W[pl];B[om];W[qk];B[ol];W[ql];B[pj]
+;W[ri]C[右辺の黒模様に入り込まれてはいけない]
+)
+
+(
+;FG[259:]PM[2]
+;C[これには]B[qo]
+;W[qk];B[qj]
+;W[pj]C[ツケ切りが手筋]
+;C[眼を奪ったときに]B[qi]
+;W[nm]C[これが妙手]
+;B[nn]
+;W[pl]C[ここから]
+;B[ok]
+;W[nk]C[これが手筋]
+;B[rk];W[ol];B[ql];W[oj]
+;C[シボって]B[qk]
+;W[on];B[oo]
+;W[ll]C[見事なサバキ]
+)
+
+)

@@ -1,0 +1,34 @@
+
+(;SZ[19]GM[1]ST[2]FF[4]AP[GOWrite:3.0.20]CA[UTF-8]PB[ ]PM[2]PW[ ]FG[259:]GN[ ]
+;B[pd];W[dd];B[qp];W[dq];B[nq];W[qf];B[nc];W[qj];B[co];W[ck];B[fp];W[ep];B[eo];W[fq];B[gp];W[gq];B[hp];W[hq];B[ip];W[iq];B[ci];W[jp];B[cf];W[fc];B[ej];W[el];B[jo];W[kp];B[gk];W[cm];B[dp];W[eq];B[fm];W[bi];B[bh];W[bj];B[cc];W[cd];B[bd];W[dc];B[bb];W[cb];B[bc]
+;C[黒 A, B なら普通]LB[qh:A][rd:B]W[ic]
+;C[様子見 (普通に受けるとキカシになる]B[gd]
+(
+;W[he];B[ge]
+;C[白は一方的にキカされていないと主張 (ただし黒 A にハネられると悪手になる]LB[hf:A]W[hb]
+;B[rd];W[bp];B[qh];W[qn];B[ql];W[ph];B[pg];W[pi];B[qg];W[qq];B[pq];W[rp];B[rq];W[qr];B[ro];W[pp];B[qo];W[oq];B[op];W[pr];B[po];W[np];B[pq];W[or]
+;C[白は隅をエグったが黒もここからの攻めで代償を取り返す]B[nh]
+;W[oo];B[on];W[pp];B[no];W[op];B[pn];W[ni];B[mi];W[nj];B[mj];W[nk];B[mk];W[nl];B[lm];W[oh];B[og];W[qk];B[pl];W[rl];B[rm];W[sk];B[ri];W[mm];B[mn];W[ll];B[ml];W[nm];B[kn];W[mh];B[ng];W[rj];B[lh];W[hf]
+;C[黒はうまく]B[hh]
+)
+(
+;PM[2]FG[259:]
+;C[つらい手 (黒 A とか D とか]LB[jc:A][jb:B][kb:C][db:D]W[gc]
+)
+
+(
+;PM[2]FG[259:]
+;C[工夫した受け]W[eb]
+;B[jc]
+(
+;W[jd]
+;C[連結が弱いのでこれで大変]B[id]
+)
+(
+;PM[2]FG[259:];W[id]
+;C[△が急所]B[ib]TR[gd]
+)
+
+)
+
+)

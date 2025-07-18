@@ -1,0 +1,27 @@
+
+(;FF[4]AP[GOWrite:3.2.1]CA[UTF-8]SZ[9]GM[1]ST[2]FG[259:]PM[2]AB[ch][dh][eg][fg][df][cf][ee][ed][ec][fc][gd][gb][dc][cb][bc]PB[ ]AW[dd][cc][bd][be][bf][cg][bh][gg][ff][fe][fd][gc][hc][hb]GN[ ]PW[ ]
+;W[bi]C[左下の白を取らないと勝てない]
+(
+;
+)
+(
+;FG[259:]PM[2]
+;B[ad]C[死はハネにあり、という格言]
+;W[ae];B[ag]
+(
+;W[bg];B[ah]
+)
+(
+;FG[259:]PM[2];W[ah];B[bg];W[af];B[bg]
+)
+
+)
+
+(
+;FG[259:]PM[2]
+;B[ag]C[急所に見えるが]
+;W[bg];B[ah];W[ad]
+;B[af]C[セキ (しかも白先手]
+)
+
+)

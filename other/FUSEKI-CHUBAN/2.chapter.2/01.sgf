@@ -1,0 +1,45 @@
+
+(;SZ[19]GM[1]ST[2]FF[4]AP[GOWrite:3.0.20]CA[UTF-8]PW[ ]PM[2]PB[ ]FG[259:]GN[ ]
+;B[pd];W[dp];B[pq];W[dd];B[nc];W[qo];B[op];W[pl];B[cq];W[dq];B[cp];W[cn];B[co];W[do];B[bn];W[cr];B[br];W[bo];B[dr];W[bm];B[bp];W[er];B[cs];W[fq];B[dn];W[cm]
+;C[ツメてきた (左下の手順微妙]LB[fc:A][qh:B][kp:C]B[qj]
+(
+;
+)
+(
+;PM[2]FG[259:]
+;C[急場を兼ねた大場]W[kp]
+)
+
+(
+;PM[2]FG[259:]
+;C[文句なしの大場 (ただし下辺に先着される]W[fc]
+)
+
+(
+;PM[2]FG[259:]
+;C[難しい打ち方]W[qh]
+;B[oj]
+(
+;W[oh]
+;C[右下も不安]B[mj]
+)
+(
+;PM[2]FG[259:]
+;C[打ちたい大場がたくさんある時に相手の地を荒らす打ち方を選択するのはその後の戦いが不利になりやすいので注意が必要]W[qd]
+;B[qe];W[re];B[pe];W[rd];B[rf]
+(
+;W[pc];B[oc];W[pb]
+;C[打ちこんだ石が取り残されて黒の厚みが勝る]B[qg]
+)
+(
+;PM[2]FG[259:]
+;C[切って打ち込んだ石を活用しなければならない]W[qf]
+;B[qg];W[pf];B[rh];W[pg];B[rg];W[pc];B[oc];W[pb]
+;C[ここで白は手抜いて四子の活用はあとで考える]B[ne]
+)
+
+)
+
+)
+
+)

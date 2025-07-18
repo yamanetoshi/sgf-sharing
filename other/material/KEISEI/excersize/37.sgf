@@ -1,0 +1,15 @@
+
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]PW[ ]PM[2]GN[ ]FG[259:]
+;B[pd];W[dc];B[dp];W[qp];B[ce];W[dh];B[fe];W[fc];B[ed];W[ec];B[he];W[cn];B[cl];W[cq];B[cp];W[dq];B[ep];W[bp];B[bo];W[bq];B[bn];W[fq];B[ic];W[bc];B[dj];W[fh];B[hh];W[hi];B[ii];W[gi];B[ih];W[hk];B[ik];W[il];B[jk];W[hl];B[jl];W[fp];B[fo];W[go];B[fn]
+;C[白中央の石を逃げて一段落、どちらが得した?]W[hp]
+(
+;C[黒 74.0%
+- 上辺から中央にかけての厚み
+- 左下の黒一団も中央白の石が働きにくくしている]B[tt]
+)
+(
+;PM[2]FG[259:];B[pf];W[qk]
+;C[広げながら隅を守る]B[qi]
+)
+
+)

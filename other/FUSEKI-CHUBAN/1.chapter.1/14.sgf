@@ -1,0 +1,42 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[pd];W[dc];B[pp];W[dp];B[pj];W[nc];B[de];W[pg];B[oe];W[qc];B[pc];W[pb]C[ ];FG[259:]PM[2];B[ob];W[rb];B[pa];W[qb];B[oc]
+;W[qf]C[連絡 (△の位置が微妙]TR[pj]
+;B[cc];W[cb];B[cd];W[eb];B[ci];W[gc];B[kc];W[cn];B[cl];W[jq];B[nq];W[ro];B[qp];W[ql];C[ ]B[qn];FG[259:]PM[2];W[rn]C[ ];FG[259:]PM[2];B[qm];W[rm];B[pl];W[qk];B[pk]
+;W[ri]C[この厚みを活かすにはどう打つか]
+;LB[eq:A][cq:B]C[ツケにどうするか]B[dq]
+(
+;
+)
+(
+;FG[259:]PM[2]
+;W[eq]C[こちらが正しい]
+;B[er]
+(
+;
+)
+(
+;FG[259:]PM[2]
+;W[cq]C[先手をとりたいとき]
+;B[dr];W[fq];B[fr];W[gq];B[bq];W[cp];B[cr];W[ng]
+)
+
+(
+;W[ep];B[dr];W[fr];B[cp];W[co];B[bp]
+;W[gq]C[△が弱くならなかったことで満足]TR[jq]
+)
+
+(
+;FG[259:]PM[2];W[dr]C[微妙];B[cq];W[cr];B[ep];W[fq];B[cp];W[do];B[fr];W[br];B[gq];W[fp];B[gp];W[fo];B[go];W[fn]
+;C[△が]TR[jq]B[jo]
+)
+
+)
+
+(
+;FG[259:]PM[2]
+;W[cq]C[こっちは白の苦しい流れになる]
+;B[eq];W[cr];B[hq];W[jo];B[ep];W[do];B[ho]
+)
+
+)

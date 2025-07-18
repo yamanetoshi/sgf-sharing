@@ -1,5 +1,5 @@
 
-(;CA[UTF-8]GM[1]SZ[19]ST[2]FF[4]AP[GOWrite:3.0.18]PB[ ]PW[ ]GN[ ]FG[259:]PM[2]
+(;SZ[19]GM[1]ST[2]FF[4]AP[GOWrite:3.0.20]CA[UTF-8]PW[ ]PM[2]PB[ ]FG[259:]GN[ ]
 ;B[pd];W[dp];B[pp];W[dd];B[pj];W[nc]
 (
 ;B[nd]
@@ -7,54 +7,54 @@
 ;W[md];B[ne]
 (
 ;W[oc];B[pc];W[jc]
-;B[pg]C[黒満足]
+;C[黒満足]B[pg]
 )
 (
-;FG[259:]PM[2];W[pc];B[qc];W[oc];B[qd];W[jc]
-;B[cf]C[右辺に入りにくい]
+;PM[2]FG[259:];W[pc];B[qc];W[oc];B[qd];W[jc]
+;C[右辺に入りにくい]B[cf]
 )
 
 (
-;FG[259:]PM[2];W[qc];B[oc]
+;PM[2]FG[259:];W[qc];B[oc]
 (
 ;W[rf];B[qd];W[rd];B[qf];W[re];B[qg]
 )
 (
-;FG[259:]PM[2];W[re]
-;B[rg]C[隅で小さく生かす]
+;PM[2]FG[259:];W[re]
+;C[隅で小さく生かす]B[rg]
 )
 
 )
 
 (
-;FG[259:]PM[2];W[ob];B[qc];W[me];B[mf]
-;W[nf]C[白の工夫]
+;PM[2]FG[259:];W[ob];B[qc];W[me];B[mf]
+;C[白の工夫]W[nf]
 )
 
 )
 (
-;FG[259:]PM[2];W[od]
+;PM[2]FG[259:];W[od]
 (
 ;B[oc];W[oe]
 (
 ;B[pc]
-;W[md]C[しちょうが成立しなければならないという縛り]
+;C[しちょうが成立しなければならないという縛り]W[md]
 )
 (
-;FG[259:]PM[2];B[mc]C[AI];W[pc];B[nb];W[ob];B[nc];W[qd];B[pb];W[pe];B[qb];W[qh]
-;B[fc]C[黒やや良し、が AI 評価]
+;PM[2]FG[259:];C[AI]B[mc];W[pc];B[nb];W[ob];B[nc];W[qd];B[pb];W[pe];B[qb];W[qh]
+;C[黒やや良し、が AI 評価]B[fc]
 )
 
 )
 (
-;FG[259:]PM[2];B[oe];W[oc]
+;PM[2]FG[259:];B[oe];W[oc]
 (
 ;B[pe];W[pc];B[qc];W[qb];B[rb];W[rc];B[qd];W[ra];B[mc];W[sb];B[md]
-;W[fc]C[a という消しの手掛り]LB[nf:a]
+;C[a という消しの手掛り]LB[nf:a]W[fc]
 )
 (
-;FG[259:]PM[2];B[pc]
-;W[pe]C[黒、芳しくない]
+;PM[2]FG[259:];B[pc]
+;C[黒、芳しくない]W[pe]
 )
 
 )
@@ -62,29 +62,29 @@
 )
 
 (
-;FG[259:]PM[2];W[oc]C[AI];B[od];W[pc];B[qc];W[md]
+;PM[2]FG[259:];C[AI]W[oc];B[od];W[pc];B[qc];W[md]
 (
 ;B[qd]
-;W[lc]C[代表的な進行]
+;C[代表的な進行]W[lc]
 )
 (
-;FG[259:]PM[2]
-;B[mc]C[もう一つの選択肢]
+;PM[2]FG[259:]
+;C[もう一つの選択肢]B[mc]
 ;W[qb];B[rb];W[lc];B[mb];W[lb];B[nb];W[pb];B[rd];W[ma];B[me];W[ld]
-;B[fq]C[消しの手掛り残り]LB[nf:a]
+;C[消しの手掛り残り]LB[nf:a]B[fq]
 )
 
 )
 
 )
 (
-;FG[259:]PM[2];B[lc];W[qc];B[qd];W[pc];B[od]
+;PM[2]FG[259:];B[lc];W[qc];B[qd];W[pc];B[od]
 (
 ;W[nb];B[me]
 )
 (
-;FG[259:]PM[2];W[rc];B[nd];W[mc];B[md]
-;W[lb]C[黒いまいち]
+;PM[2]FG[259:];W[rc];B[nd];W[mc];B[md]
+;C[黒いまいち]W[lb]
 )
 
 )

@@ -1,0 +1,40 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[pd];W[dp];B[pq];W[dd];B[qk]
+;LB[po:A][jp:B]W[mp]C[6 (裏ガカリ]
+;B[po];W[jp]
+;C[無難に受けて不満なし]B[cn]
+;LB[en:A][cq:B]W[cl]C[7 (どちらも定石だが Zen は優劣をはっきり決めているとのこと]
+(
+;
+)
+(
+;FG[259:]PM[2];B[cq];W[dq];B[cp];W[do];B[bn];W[em]
+;C[先手を取って上辺先着]B[fc]
+;
+)
+
+(
+;FG[259:]PM[2]
+;C[7 の変化]B[en]
+;W[fp];B[dk]
+(
+;
+)
+(
+;W[co]C[これで良いと見ている]
+;B[eq];W[ep];B[ck];W[bn];B[cm];W[bm]
+;C[部分的に互角]B[bl]
+;W[nc]C[手どまりの大場]
+;B[pf];W[qc]
+)
+
+(
+;FG[259:]PM[2];W[dl];B[el];W[ck];B[dj];W[cj];B[di];W[ch];B[gn];W[hp];B[eg]
+;W[cg]C[定石だが]
+;C[こうなると黒理想形]B[fd]
+)
+
+)
+
+)

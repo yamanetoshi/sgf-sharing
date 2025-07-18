@@ -1,0 +1,44 @@
+
+(;SZ[19]FF[4]AP[GOWrite:3.0.20]GM[1]ST[2]CA[UTF-8]PM[2]PB[ ]PW[ ]AW[dd][cf][qf][pi]AB[fc][jd][pd][nc]FG[259:]GN[ ]
+;C[打ち込み]W[lc]
+(
+;C[サガリが正解 (打ち込み防止]LB[hc:A]B[jc]
+;W[le]
+(
+;B[pf];W[pg];B[of];W[qe];B[qd];W[kf];B[og];W[ph]
+;C[白を逃がしながら周囲を固めて十分 (中盤の戦いでは不安定な石の有無が重要]B[fe]
+)
+(
+;PM[2]FG[259:]
+;C[代表的な間違いその一]B[ne]
+;W[kf];B[fe];W[qc];B[qd];W[rd]
+)
+
+(
+;PM[2]FG[259:]
+;C[代表的な間違いその二]B[rd]
+;C[封鎖された]W[of]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[最もよく打たれる間違い]B[ld]
+;W[kc];B[kd];W[mc];B[nd]
+;C[右辺に白があり外勢が働く可能性が薄い]W[ic]
+)
+
+(
+;PM[2]FG[259:]
+;C[コスミも失着]B[md]
+;W[jc];B[ic];W[kd];B[jb];W[je];B[kc];W[kb];B[jc]
+;C[サバキに成功した格好]W[ld]
+)
+
+(
+;PM[2]FG[259:]
+;C[これもミス]B[ne]
+;W[jc];B[ic];W[kd];B[jb];LB[qc:A]W[kb]
+)
+
+)

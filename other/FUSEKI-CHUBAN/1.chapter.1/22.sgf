@@ -1,0 +1,35 @@
+
+(;SZ[19]GM[1]ST[2]FF[4]AP[GOWrite:3.0.20]CA[UTF-8]PW[ ]PM[2]PB[ ]FG[259:]GN[ ]
+;B[pp];W[pd];B[dp];W[dc];B[pf];W[qf];B[qg];W[qe];B[pg];W[nc];B[de]
+;C[A があるが B と C ならどちらを選択?]LB[cc:A][fe:B][ef:C]W[cg]
+(
+;
+)
+(
+;PM[2]FG[259:];B[fe]
+;C[ワタられる]W[ce]
+(
+;B[dd];W[cd];B[ec];W[db]
+)
+(
+;PM[2]FG[259:]
+;C[分断しようとしても]B[cd]
+;W[dd];B[cf];W[be];B[df]
+;C[ワタられる]W[bf]
+)
+
+)
+
+(
+;PM[2]FG[259:]
+;C[コスむと]B[ef]
+(
+;W[cd];B[ce];W[fc];B[dh]
+)
+(
+;PM[2]FG[259:];W[ce];B[cd];W[dd];B[cf];W[be];B[bf];W[bd];B[dj]
+)
+
+)
+
+)

@@ -1,0 +1,17 @@
+
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[fq]FG[259:]AW[dp][cn]PW[ ]PM[2]GN[ ]
+;C[スベリに]B[dr]
+;C[ツケ]W[gq];B[gr];W[fr];B[gp];W[hq];B[hr];W[eq];B[fp];W[er]
+;C[黒番で左下にどんな手があるか (なので次の白は pass]B[iq]
+;W[tt];C[三々]B[cq]
+(
+;W[cp];B[br];W[bp];B[cs];W[bq];B[dq];W[ep];B[ar]
+)
+(
+;PM[2]FG[259:]
+;C[無理矢理取りにきた]W[bp]
+;B[cp];W[co];B[bq];W[bo];C[手筋]B[do];W[eo];B[ep];W[dq];B[fs];W[dn]
+;C[繋がった]B[es]
+)
+
+)

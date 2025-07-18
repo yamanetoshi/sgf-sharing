@@ -1,0 +1,41 @@
+
+(;SZ[19]FF[4]AP[GOWrite:3.0.20]GM[1]ST[2]CA[UTF-8]PM[2]PB[ ]PW[ ]AW[cn][cp][cq][cr][dr][fq][pq][qp][po][ql][ok][nj][mk][kh][ke][je][jc][kc][mb][nb][ra][rb][qc][pc][sc][rd][re][rf][of][oi][pi][ph]AB[dd][pd][ic][id][ie][dp][dq][eq][er][fp][do][op][oq][lq][qj][qi][qg][rg][qf][qd][od][oc][nc][ob][pb][qb][ld][mf][mh][ni][mj][lj][og]FG[259:]GN[ ]
+;W[ih];C[ ]B[if];PM[2]FG[259:];C[ ]W[ib];B[hb];W[ia];B[gc];W[cf];B[cd];W[di];B[dk];W[dn];B[fk]
+;C[打ち込んできた (候補手が色々ある状況だが石の強弱をどう考えるかで選ぶ手が違ってくるとのこと]W[jq]
+(
+;
+)
+(
+;PM[2]FG[259:]
+;C[右下を補強しながら攻めたい]B[ko]
+)
+
+(
+;PM[2]FG[259:]
+;C[守りに重点を置いた]B[lo]
+;W[jo];B[fn]
+)
+
+(
+;PM[2]FG[259:]
+;C[右下は強いので攻めたい]B[jo]
+;W[kp];B[ln]
+(
+;W[lp];B[mq];W[mo];B[oo];W[mn]
+;C[右下白に影響して黒順調]B[pn]
+)
+(
+;PM[2]FG[259:];C[反撃]W[ko];B[kn];C[反撃]W[jn];B[io]
+(
+;W[mp];B[lp];W[lo];B[mo];W[mq];B[kq];W[jp];B[nq]
+)
+(
+;PM[2]FG[259:]
+;C[これもある]W[mo]
+)
+
+)
+
+)
+
+)

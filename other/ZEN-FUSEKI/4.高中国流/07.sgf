@@ -1,0 +1,41 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[pd];W[dp];B[pq];W[dd];B[pk]
+;LB[po:A][jp:B]W[mp]C[5 (裏ガカリ]
+;B[po];W[jp];B[cn];W[fp]
+;C[無難に進行するのが良い、とのこと]B[bp]
+;W[cq];B[ck]
+;LB[pf:A][qf:B]W[nc]C[6]
+;C[高い中国流なのでこう受けやすい]TR[pk]B[qf]
+;W[pb];B[fc];W[cf]
+;C[隅より辺を重視した打ち方]B[lc]
+;W[qc];B[oc];W[ob];B[nd];W[md];B[mc];W[nb]
+;C[定石 (△が白からの辺への進出を止めているので三々を譲りやすい]TR[qf]B[me]
+;W[dl]C[7];B[cl]
+;LB[co:A][jf:B][ld:C]W[dn]C[シチョウアタリ]
+(
+;
+)
+(
+;FG[259:]PM[2]
+;LB[fe:a]C[全局に目一杯働かせて取る (後に黒 a と打てばそのまま地になりそうな形]B[jf]
+;
+)
+
+(
+;FG[259:]PM[2];B[ld]
+;W[qm]C[一昔前は普通だったが評価値が下がるので働きが足りないと Zen は判断]
+)
+
+(
+;FG[259:]PM[2]
+;C[シチョウの逃げ出しを迎えうつという作戦]B[co]
+;W[ld];B[kc];W[ne];B[od];W[le];B[mf];W[lf]
+;C[愚直に動きだすのが有力]B[mg]
+;W[lg];B[mh]
+;W[lh]C[大胆に決め]
+;B[mi]
+;W[hc]C[打ち込みから白に主導権が渡る (シチョウアタリの手抜きの咎め方が参考になる場面]
+)
+
+)

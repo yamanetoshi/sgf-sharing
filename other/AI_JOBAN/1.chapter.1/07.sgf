@@ -1,0 +1,42 @@
+
+(;SZ[19]GM[1]ST[2]FF[4]AP[GOWrite:3.0.20]CA[UTF-8]PB[ ]PM[2]PW[ ]FG[259:]GN[ ]
+;B[pd];W[pp];B[dc];W[cp];B[cf];W[jc];B[eq];W[iq];B[do];W[co];B[dn];W[cm];B[nq];W[oq];B[np];W[pn];B[kq];W[io];B[ko];W[fo];B[gq];W[gp];B[hq];W[hp];B[ir];W[hr];B[gr];W[jr];B[hs]
+;C[A の切断がある]LB[dp:A]W[jq]
+(
+;C[薄み放置 (次の手で下辺の打ち方を決める]B[ql]
+(
+;W[dp];B[ep];W[eo]
+;C[二目を一旦捨てる姿勢]B[km]
+(
+;C[手抜いた]W[rn]
+;B[dm];W[dl];B[fm];W[cn];B[el];W[dk]
+;C[白苦戦]B[hm]
+)
+(
+;PM[2]FG[259:]
+;C[二目取りだがここに手を掛けるのではつらいとの判断]W[dm]
+;B[qq];W[pq];B[ol];W[qp];B[lc];W[gc]
+;C[黒ヤレそう]B[qf]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[コスミだと]W[om]
+;C[トビ (地合いで先行されない]B[km]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[守りたくなるが]B[dp]
+;C[地が損で嫌味残り (なので切らせて打つ方が得と判断]LB[er:A]W[cq]
+)
+
+(
+;PM[2]FG[259:]
+;C[これも立派だが]B[km]
+;C[足早に打たれてしまう (下辺白に厳しい手がないと]W[qk]
+)
+
+)

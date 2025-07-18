@@ -1,0 +1,19 @@
+
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[dq][dp][dn][fp][fo][pp][lq]FG[259:]AW[jq][gp][fq][eq]C[白がこの状態で手抜いた局面]PW[ ]PM[2]GN[ ]
+;C[急所]B[hq]
+(
+;W[gq]
+;C[気がつきにくい]B[iq]
+;W[jp];B[jr];W[kr]
+;C[飛び出し]B[ho]
+;W[hp];B[ip]
+;C[切ると?]W[io]
+;B[jo];W[in]
+;C[右が取れる_]B[kp]
+)
+(
+;PM[2]FG[259:];W[hp];B[iq];W[ip]
+;C[上からだとワタることができます]B[jr]
+)
+
+)

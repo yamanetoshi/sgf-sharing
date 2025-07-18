@@ -1,0 +1,31 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[pd];W[dp];B[pq];W[dd];B[pk]
+;LB[po:A][jp:B]W[mp]C[5 (裏ガカリ]
+;B[po];W[jp];B[cn];W[fp]
+;C[無難に進行するのが良い、とのこと]B[bp]
+;W[cq];B[ck]
+;LB[pf:A][qf:B]W[nc]C[6]
+(
+;
+)
+(
+;FG[259:]PM[2]
+;C[高い中国流なのでこう受けやすい]TR[pk]B[qf]
+;W[pb];B[fc];W[cf]
+;C[隅より辺を重視した打ち方]B[lc]
+;W[qc];B[oc];W[ob];B[nd];W[md];B[mc];W[nb]
+;C[定石 (△が白からの辺への進出を止めているので三々を譲りやすい]TR[qf]B[me]
+;
+)
+
+(
+;FG[259:]PM[2]
+;C[少し甘い]B[pf]
+;W[qc];B[pc];W[pb];B[ob];W[qb];B[oc]
+;W[re]C[今主流の打ち方]
+;B[rf];W[qe];B[qf];W[nb];B[oa];W[qd];B[pe]
+;W[jc]C[白実利と黒外勢のフリカワリ (この時△が右辺の発展性を阻害しておりこのワカレは黒不満との判断]TR[jp][mp]
+)
+
+)

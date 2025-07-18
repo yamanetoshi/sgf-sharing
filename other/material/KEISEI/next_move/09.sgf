@@ -1,0 +1,33 @@
+
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]PW[ ]PM[2]GN[ ]FG[259:]
+;B[pd];W[dp];B[pp];W[dd];B[fq];W[hp];B[go];W[cn];B[ho];W[jp];B[ip];W[iq];B[io];W[jq];B[nq];W[kn];B[lq]
+(
+;W[lp];B[mp];W[lo];B[jo];W[kq];B[lr];W[mo];B[pn];W[np];B[mq]
+;W[jl]LB[fc:A][hl:B]
+(
+;
+)
+(
+;PM[2]FG[259:];B[hl];W[ij];B[dm];W[cm]
+;C[黒優勢]B[dk]
+;C[手抜いた]W[nc]
+;B[ll];W[lm];B[kl];W[jm];B[mm]
+;C[連絡するならここしかない]W[km]
+;B[mk];W[jk]
+;C[ダメをつながらせて大場先着]B[nd]
+;W[md];B[ne]
+)
+
+(
+;PM[2]FG[259:];B[fc]
+;C[攻められる (AI 評価は黒悪くないが中央での力関係は逆転]W[gl]
+;B[fm];W[fl];B[dm];W[dn];B[en];W[el];B[em];W[ck];B[cm];W[dr]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[こちらが正着]W[jo]
+)
+
+)

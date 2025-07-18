@@ -1,0 +1,40 @@
+
+(;SZ[19]FF[4]AP[GOWrite:3.0.20]GM[1]ST[2]CA[UTF-8]PM[2]PB[ ]LB[dj:A][pj:B]PW[ ]AW[nc][fc]AB[qf][dd][cf][pd][dj][pj]FG[259:]GN[ ]
+;W[jd];B[hc]
+(
+;W[hd]
+;C[A, B に石がある場合はワリコミが成立]LB[dj:A][pj:B]B[id]
+(
+;W[ie];B[ic];W[gd];B[jc];W[kd]
+;LB[he:A][je:B]B[lc]
+;W[ld];B[mc];W[md];B[nb];W[oc];B[pc];W[ob];B[gb]
+(
+;
+)
+(
+;PM[2]FG[259:];W[tt];C[狙い]B[if];W[je]
+;C[相手の石を取るのではなく包囲するのが大切]B[gf]
+;W[he];B[ih];W[kg]
+;C[白はダメしか打っていない感じ]B[ki]
+)
+
+)
+(
+;PM[2]FG[259:];W[ic];B[ie]
+(
+;W[hb];B[jc];W[gc];B[kd]TR[pj]
+)
+(
+;PM[2]FG[259:];W[jc];CR[dj]B[gd]
+)
+
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[正着 (打ち込まれたときはまず片方を守る]W[jc]
+;B[gd];W[dc];B[cc];W[cb];B[ec];W[db];B[ed];W[cd];B[bc];W[bd];B[bb];W[ba];B[eb];W[ac]
+)
+
+)

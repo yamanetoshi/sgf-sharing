@@ -1,0 +1,17 @@
+
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[pp][qo][mq][mo][fq][fo]FG[259:]AW[dp][dn][ip]PW[ ]PM[2]GN[ ]
+;C[ボウシは黒が強いところなので良い手]B[in]
+;W[gp];B[fp]
+;C[白の反撃にどのように応じるか問題]W[hn]
+(
+;C[ハネダシが絶対の反撃]B[ho]
+;W[io]
+;C[白を重くする手筋]B[hm]
+;W[gn];B[go]
+)
+(
+;PM[2]FG[259:];B[gn];W[hm];B[ho];W[io];B[go]
+;C[シチョウで抱えられては失敗]W[jn]
+)
+
+)

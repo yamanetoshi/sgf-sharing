@@ -1,46 +1,46 @@
 
-(;CA[UTF-8]GM[1]SZ[19]ST[2]AP[GOWrite:3.0.18]FF[4]PW[ ]FG[259:]GN[ ]PM[2]PB[ ]
+(;FF[4]SZ[19]AP[GOWrite:3.2.1]GM[1]CA[UTF-8]ST[2]PB[ ]GN[ ]PM[2]PW[ ]FG[259:]
 ;B[pd];W[dc];B[pp];W[cp];B[fq];W[ep];B[fp]
-;W[fo]C[a では先にここにのびられて競り負ける]LB[eq:a]
+;LB[eq:a]C[a では先にここにのびられて競り負ける]W[fo]
 (
-;B[eq]C[これが良い形]
+;C[これが良い形]B[eq]
 (
 ;W[dq];B[eo];W[dp];B[go];W[fn]
 (
-;B[hp]C[いったん力をためて次で競り勝とうという手]
+;C[いったん力をためて次で競り勝とうという手]B[hp]
 (
 ;W[gm];B[ci];W[ck];B[cf];W[nq];
 )
 (
-;W[ce]C[白がしまった場面]
-;B[gm]C[かけがいい手]
+;C[白がしまった場面]W[ce]
+;C[かけがいい手]B[gm]
 ;W[fm];B[fl];W[el];B[gn];W[fk];B[gl];W[em];B[hj];
 )
 
 (
-;PM[2]FG[259:]
-;W[gn]C[まがりは危険]
+;FG[259:]PM[2]
+;C[まがりは危険]W[gn]
 ;B[hn];W[hm];B[in];W[im];B[jm]
 (
 ;W[jn];B[jp];W[kn];B[jl]
-;W[gl]C[こう守らなければならない]
+;C[こう守らなければならない]W[gl]
 ;B[lp];W[lm]
-;B[jj]C[白三子がおいてきぼり]
+;C[白三子がおいてきぼり]B[jj]
 )
 (
-;PM[2]FG[259:]
-;W[jl]C[はねるのは競り負け]
+;FG[259:]PM[2]
+;C[はねるのは競り負け]W[jl]
 ;B[kl];W[jk];B[km]
-;W[di]C[a の断点がなんとも味悪]LB[gm:a]
-;B[cg]C[左辺が全部白地になると大きすぎてひどいので入る]
+;LB[gm:a]C[a の断点がなんとも味悪]W[di]
+;C[左辺が全部白地になると大きすぎてひどいので入る]B[cg]
 (
 ;W[ce]
-;B[gm]TR[fo][fn][gn]C[△は呼吸点二つ (二つだとどんなケンカでも楽勝]
+;C[△は呼吸点二つ (二つだとどんなケンカでも楽勝]TR[fn][fo][gn]B[gm]
 ;W[hk];B[ci];W[cj];B[dj];W[ck];B[dk];W[cl];B[dl];W[cm];B[fm];W[en];B[dn];W[do];B[em];W[eo];B[ei];W[dh];B[eg];W[eh];B[fh];W[fi];B[ej];W[fg];B[gh];W[dg];B[gg];W[ef];B[ij];W[ik];B[gj]
 )
 (
-;PM[2]FG[259:];W[ci]C[鉄柱]
-;B[gm]C[とりあえず切っておく]
+;FG[259:]PM[2];C[鉄柱]W[ci]
+;C[とりあえず切っておく]B[gm]
 ;W[hk];B[dd];W[cd];B[cc];W[cb];B[bc];W[de];B[ed];W[ce];B[ee];W[bb];B[ec];W[db];B[gl];W[en];B[gi];W[gk];B[fk];W[fl];B[ek];W[fm];B[eg];W[ck];B[jd]
 )
 
@@ -50,27 +50,27 @@
 
 )
 (
-;PM[2]FG[259:]
-;B[gn]C[おすのは]
+;FG[259:]PM[2]
+;C[おすのは]B[gn]
 ;W[fm];B[gm];W[fl];B[gl];W[fk];B[mp]
-;W[gi]C[車の後押し]
+;C[車の後押し]W[hj]
 )
 
 )
 (
-;PM[2]FG[259:]
-;W[eo]C[つぐと]
-;B[dq]C[でられる]
+;FG[259:]PM[2]
+;C[つぐと]W[eo]
+;C[でられる]B[dq]
 ;W[cq];B[go];W[gn];B[ho];W[hn]
-;B[in]C[白 a は考えない]LB[im:a]
-;W[io]C[これが駄目ならそもそも押さない]
+;LB[im:a]C[白 a は考えない]B[in]
+;C[これが駄目ならそもそも押さない]W[io]
 ;B[hq];W[jo];B[im];W[fm];B[jq];W[kn]
-;B[ik]C[右の二連星がはたらいて少し黒良し]
+;C[右の二連星がはたらいて少し黒良し]B[ik]
 )
 
 )
 (
-;B[go]C[黒はねは?]
+;C[黒はねは?]B[go]
 ;W[eq];B[gn];W[gp];B[hp];W[gq];B[fr];W[hr];B[jq];W[gr]
 )
 

@@ -1,0 +1,28 @@
+
+(;SZ[19]FF[4]AP[GOWrite:3.0.20]GM[1]ST[2]CA[UTF-8]PM[2]PB[ ]PW[ ]AW[fc][nc][fd]AB[dd][cf][pd][qf][ec]FG[259:]GN[ ]
+;C[この後黒から打ち込む場合]W[kc]
+(
+;C[四線の打ち込みの原理は同じ]B[hd]
+(
+;W[ff];B[ee];W[fe];B[jd];W[kd]
+;C[無理に上辺のワタリを止めようとしない (狭いところは譲る]B[jf]
+)
+(
+;PM[2]FG[259:];W[hc];B[ic];W[id];B[jd];W[ie]
+;C[一子は捨てて頭を出す]B[jc]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[三線は不十分]B[hc]
+;W[hd];B[id];W[ic];B[jc];W[ib];B[ie];W[jb];B[gd];W[he];B[ge];W[hf];B[gc]
+;C[黒が損なフリカワリ]W[if]
+)
+
+(
+;PM[2]FG[259:];C[危険]B[ic];W[jd];B[he];W[hd];B[id]
+;C[閉じこめられる (打ち込みのミスは三線が原因になることが多い]W[ie]
+)
+
+)

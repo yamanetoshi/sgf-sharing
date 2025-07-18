@@ -1,0 +1,30 @@
+
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]PW[ ]PM[2]GN[ ]FG[259:]
+;B[qd];W[dd]
+(
+;B[pq];W[dq];B[do];W[eo];B[cq];W[dp];B[cp];W[dn];B[co];W[cn];B[en];W[fo];B[em]
+(
+;W[cr];B[br];W[dr];B[bn];W[cl];B[cm];W[dl];B[dm]
+;C[どちらが良い?]W[hp]
+;C[黒 82.5%
+- 効率の良い取り方
+- カス石
+- 左下は手割りで検証すると白が良くない手を打っている]B[tt]
+)
+(
+;PM[2]FG[259:]
+;C[これが大切だった]W[dl]
+;B[dr];W[er];B[cr];W[gm];B[fl];W[dk]
+)
+
+)
+(
+;C[手順をかえてみた]PM[2]FG[259:]
+;B[do];W[dq];B[cq];W[dp];B[cp]
+;C[ダメヅマリで良くない]W[eo]
+;B[en];W[fo];C[黒得]B[co];W[cr];B[br];W[dr];B[pq];W[dn];B[dm];W[cn]
+;C[黒おおもうけ]B[bn]
+;W[cl];B[cm];W[dl];B[em];W[hp]
+)
+
+)

@@ -1,0 +1,40 @@
+
+(;SZ[19]FF[4]AP[GOWrite:3.0.20]GM[1]ST[2]CA[UTF-8]PM[2]PB[ ]PW[ ]AW[dd][cf][qf][pi]AB[pd][nc][fc]FG[259:]GN[ ]
+;C[高い二間ビラキ]B[id]
+;C[打ち込みにどう対応するか]W[hc]
+(
+;C[中央からオサえる]B[hd]
+;W[gc]
+(
+;C[A ではない]LB[fd:A]B[gd]
+;C[これにどう対応する?]W[fb]
+;C[ノビましょう]B[ec]
+;W[eb];B[dc]
+(
+;W[db];B[cc]
+)
+(
+;PM[2]FG[259:]
+;C[オサエには?]W[cc]
+;B[db];W[jb];B[jc];W[ib];B[kb]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[薄い (弱点残り]LB[gd:A]B[fd]
+;C[弱点が負担になり白を攻めるのが難しい格好]W[jc]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[こちらからオサエると]B[ic]
+;C[ここから]W[gc]
+;B[fd]
+;C[中央へ進出?]W[he]
+;B[hd];W[gd];B[ge];W[fe];B[gf]
+;C[黒が応手に困る?]W[fb]
+)
+
+)

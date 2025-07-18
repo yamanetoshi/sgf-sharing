@@ -1,0 +1,33 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[pd];W[dp];B[pq];W[dd];B[qk];W[fq];B[fc]
+;LB[db:A][jd:B][mc:C]W[cf]C[9]
+(
+;
+)
+(
+;FG[259:]PM[2]
+;C[大きく構えるのが Zen の得意な打ち方]B[mc]
+;W[hc];B[ge];
+)
+
+(
+;FG[259:]PM[2]
+;C[スベリには?]B[db]
+;W[nc];B[pf]
+;W[gc]C[これで困ると判断]
+;B[gb];W[fb];B[hc];W[gd]
+;LB[hb:a][eb:b][ic:c]C[シチョウが良ければ黒有利だったが]B[fa]
+;W[fd]C[捨てる]
+;B[eb];W[hd];B[ic];W[qc];B[pc];W[pb];B[ob];W[qb];B[oc]
+;W[re]C[実利を稼がれて黒非勢と判断 (左上は黒を低位にして利かしという見方で参考になる]
+)
+
+(
+;FG[259:]PM[2]
+;C[ヒラキには]B[jd]
+;W[qc]C[三々がぴったりとのこと (△の位置に不満?]TR[jd][qk]
+;B[qd];W[pc];B[oc];W[ob];B[nc];W[nb];B[mc];W[rd];B[re];W[rc];B[qf];W[po]
+)
+
+)

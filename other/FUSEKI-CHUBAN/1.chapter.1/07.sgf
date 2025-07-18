@@ -1,0 +1,41 @@
+
+(;AP[GOWrite:3.0.20]GM[1]FF[4]SZ[19]CA[UTF-8]ST[2]PM[2]AW[dd][dp][fq][nc][pc][qc][rc][rd][qf][ch]PW[ ]GN[ ]AB[cf][qp][oq][qj][pf][qe][re][qd][pd][od]FG[259:]PB[ ]
+;B[ef];W[fd];B[di];W[dh];B[eh];W[ei]C[ ];FG[259:]PM[2];B[ci];W[bi];B[bj];W[bh];B[fh];W[cj];B[dj];W[ck];B[dk];W[dl]
+;C[白どうするか]B[fj]
+;FG[259:]PM[2];W[el];B[fk]
+;W[ce]C[黒はここでどうするか]
+(
+;
+)
+(
+;FG[259:]PM[2];B[hc];W[ge];B[cc];W[bf];B[fb]
+;W[fm]C[弱点を守る絶好点]
+)
+
+(
+;FG[259:]PM[2]
+;C[ここから左下を狙いたい]B[cl]
+;W[bk];B[bl];W[aj];B[cn]
+(
+;
+)
+(
+;W[en];B[bp];W[cq]
+;C[これが左辺へ先手になれば黒大成功]B[bf]
+;W[bg];B[bq];W[br];B[cp];W[dq]
+;C[これで生き]B[dn]
+)
+
+(
+;FG[259:]PM[2];W[dn];B[co];W[cp];B[do];W[eo];B[en];W[fn];B[dm];W[em];B[bp];W[bq];B[ep];W[dn];B[cq];W[dq];B[en];W[fo];B[ao];W[cr]
+;C[難しい変化]B[bf]
+)
+
+)
+
+(
+;FG[259:]PM[2]
+;LB[gp:a][jp:b]C[これも好点 (他に a, b]B[gm]
+)
+
+)

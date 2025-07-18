@@ -1,0 +1,53 @@
+
+(;ST[0]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]RE[B+R]BR[九段]DT[2006-06-01]WR[九段]PB[張栩]FG[259:]KM[6.5]PW[本田邦久]PM[2]GN[第31期棋聖戦Aリーグ]
+;B[qd];W[dc];B[de];W[cp];B[pp];W[nq];B[pn];W[cg];B[ep];W[gq];B[fo];W[dq];B[eq];W[cn];B[hp];W[jp];B[hq];W[pq];B[qq]
+;C[ツケ二段はサバキの手段]W[qr]
+;C[普通に受けると白も立派になるので積極的に打った]B[oq]
+;W[pr];B[np];W[or]
+;C[ツガづにアテた]B[mq]
+;W[op];B[oo]
+(
+;C[コウに]W[qp]
+;B[oq]
+(
+;C[白がコウ材を打ったところ (コウに負けたときの損を減らす工夫?]W[gp]
+(
+;C[工夫の一手]B[qo]
+(
+;W[go]
+;C[すかさず解消 (a と打たなくても右下白はほぼ死に?]LB[nr:a]B[rp]
+;W[ho];B[dm];W[cm];B[fm];W[op];B[ir];W[gr];B[kq];W[hl];B[fk];W[mp];B[oq];W[el];B[hm];W[op];B[no];W[dl];B[gm];W[im];B[il];W[jq];B[nr];W[hk];B[in];W[jm];B[gk];W[hj];B[jn];W[km];B[kn];W[lm];B[oq];W[gi];B[hn];W[nd];B[io];W[er];B[dr];W[fr];B[cc];W[db];B[dg];W[dh];B[eg];W[cf];B[ce];W[gc];B[ch];W[ci];B[bh];W[bi];B[hd];W[gd];B[hf];W[he];B[ie];W[ge];B[ig];W[jf];B[if];W[jc];B[kj];W[eh];B[fh];W[fi];B[ei];W[di];B[df];W[fg];B[bf];W[ah];B[bg];W[ki];B[jk];W[lj];B[lk];W[mk];B[ml];W[ll];B[kk];W[li];B[ji];W[jh];B[mm];W[ln];B[ii];W[ih];B[kh]
+)
+(
+;PM[2]FG[259:]
+;C[取ると?]W[rq]
+;B[go]
+;C[この後に a と取ったときの形が違うことに着目 (上の変化]W[op]LB[po:a]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[受けると]B[go]
+;C[コウ材がない (a の取られは損が大きいけど打ちたくはない]W[op]LB[po:a]
+)
+
+(
+;PM[2]FG[259:]
+;C[これは]B[nr]
+;C[出られる (右下白は無条件で生きているので黒不満]W[go]
+)
+
+)
+(
+;PM[2]FG[259:]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[これは負けたときの損が大きい]W[mp]
+;B[oq];W[gp];B[nr];W[go]
+)
+
+)

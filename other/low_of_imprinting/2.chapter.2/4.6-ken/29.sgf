@@ -1,0 +1,17 @@
+
+(;SZ[19]FF[4]AP[GOWrite:3.0.20]GM[1]ST[2]CA[UTF-8]PM[2]PB[ ]PW[ ]AW[dg][dd][fg][de][eh][jd][pc][pj][dc]AB[cg][cd][bf][di][cc][dh]FG[259:]GN[ ]
+;C[アルファ碁はここか A のシマリを好む]LB[pf:A]W[pe]
+;C[中央から削減]B[kg]
+(
+;W[le];B[if];W[he]
+;C[大模様に対しては隅や辺をある程度譲り、中央の削減に集中]B[hf]
+;W[ge];C[重要]B[kj];W[fj];B[qh];W[qj];B[oh];
+)
+(
+;PM[2]FG[259:]
+;C[ボウシは怖くない]W[ki]
+;C[カタツキがぴったりで黒は形を整えるのが楽な格好]B[ke]
+;W[kd];B[je];W[ie];B[if];W[hf];B[ig];W[he];B[ii]
+)
+
+)

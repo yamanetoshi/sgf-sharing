@@ -1,0 +1,39 @@
+
+(;SZ[19]FF[4]AP[GOWrite:3.0.20]GM[1]ST[2]CA[UTF-8]PM[2]PB[ ]PW[ ]AW[bo][hn][do][bi][eo][fo][aj][cj][cd][ip][bk][fd][nc][hq][jd][cl][dl][mq][oo][qp][ro][sn][rm][ql][ol][ok][ik][kj][lj][mj][mh][mg][ni][oi][og][ph][qh][rh][rf]AB[fm][fg][dh][pf][bp][ep][pn][fp][ej][gp][cq][ck][dk][el][gr][pd][hl][pq][rq][pp][po][on][nn][rn][pj][pi][qj][ri][re][pg][oh][nh][ng][nf][mi][li][ki][ji][il]FG[259:]GN[ ]
+;W[qq];B[qr]
+;C[右下黒を狙ってきた (黒白どちらが強いと感じるかで正解が違う]W[rp]
+(
+;
+)
+(
+;PM[2]FG[259:]
+;C[△が弱い]B[jq]TR[mq]
+;W[jp];B[kq];W[kp]
+(
+;B[lq];W[lp];B[mr];W[nr];B[nq];W[mp];B[or]
+)
+(
+;PM[2]FG[259:]
+;C[左と連絡]B[hr]
+;W[lq];B[iq];W[or];B[pr]
+;C[右下が攻められる (石の連絡は不安な石同士が一番効率が良い]W[mo]
+)
+
+)
+
+(
+;PM[2]FG[259:]
+;C[右下が弱いと感じたときはこちら]B[or]
+;C[守れば]W[hr]
+;C[大場へ先行できる]B[hc]
+)
+
+(
+;PM[2]FG[259:]
+;C[生きるだけなら]B[rr]
+;W[or];B[pr];W[mo]
+;C[白を狙っていないので後手を引く]B[no]
+;W[hd]
+)
+
+)

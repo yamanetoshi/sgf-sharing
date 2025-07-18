@@ -1,0 +1,17 @@
+
+(;SZ[19]FF[4]AP[GOWrite:3.0.20]GM[1]ST[2]CA[UTF-8]PM[2]PB[ ]PW[ ]AW[dd][cd][ed][bo][cn][cm][bm][do][dp][dq][er][fq][qo][pl][rj][ri][pi][ph][jc][qd][qc][qb][ob][nb][mc][qh][qg][pf][og][rf][re][sg]AB[pd][qp][pq][op][cq][dr][cs][br][cp][bp][co][dn][bn][qj][qk][oj][ok][rk][oh][nh][ng][of][pe][pc][rd][rc][qe][rb][pb][nc][cc][dc]FG[259:]GN[ ]
+;C[スベったところ (どちらが大きいか問題]LB[gc:A][kp:B]B[fb]
+(
+;
+)
+(
+;PM[2]FG[259:];W[gc];B[gb]
+;C[上辺白が生きているならつながる必要はない (左上三子が不安なら a あたり]LB[di:a]W[hc]
+)
+
+(
+;PM[2]FG[259:]
+;C[a もアリ (右の黒が良い形なので控える]LB[jp:a]W[kp]
+)
+
+)

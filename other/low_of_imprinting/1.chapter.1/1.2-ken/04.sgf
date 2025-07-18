@@ -1,0 +1,33 @@
+
+(;SZ[19]FF[4]AP[GOWrite:3.0.20]GM[1]ST[2]CA[UTF-8]PM[2]PB[ ]LB[dc:A]PW[ ]AW[qf][pi][ce][dc]AB[pd][nc][jd]FG[259:]GN[ ]
+;B[gc];W[ic];C[基本]B[id];W[hc];B[hd];W[gb]
+;C[この場合二段バネ (1 が二路の感覚がある場合]B[fb]
+(
+;W[fc];B[gd]
+(
+;W[eb];B[hb];W[fa]
+;C[黒有利なワカレ]B[ib]
+)
+(
+;PM[2]FG[259:];W[hb];B[ec];W[fd];B[ed];W[fe];B[db];W[kc]
+;C[白の負担が大きい進行]B[ee]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[単ツギには]W[hb]
+;C[カケツギ]B[ec]
+(
+;W[dd]
+;C[白取られ]B[jc]
+)
+(
+;PM[2]FG[259:];C[キリ]W[gd];B[fc]
+;C[オサエ]W[fd]
+;C[ハネて攻め合い勝ち]B[ga]
+)
+
+)
+
+)

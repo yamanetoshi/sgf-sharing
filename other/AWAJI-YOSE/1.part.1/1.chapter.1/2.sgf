@@ -1,17 +1,46 @@
 
-(;SZ[19]CA[UTF-8]GM[1]FF[4]ST[2]AP[GOWrite:3.0.18]AB[pd][qd][mc]PM[2]PB[ ]FG[259:]GN[ ]PW[ ]C[危険度 60% (大ゲイマだとここまで危険度が上がります]AW[kc][hc][qf][qi]
+(;AP[GOWrite:3.0.20]GM[1]FF[4]SZ[19]CA[UTF-8]ST[2]PM[2]C[危険度 60% (大ゲイマだとここまで危険度が上がります]AW[qi][hc][qf][kc]PW[ ]GN[ ]AB[pd][mc][qd]FG[259:]PB[ ]
 ;W[oc]C[急所、受け方には工夫がある]
 (
 ;B[od];W[nc];B[nd];W[mb];B[md];W[ob]
-;B[pb]C[穏やか]
+;C[穏やか]B[pb]
 )
 (
-;FG[259:]PM[2];B[nd]C[最強];W[rc];B[rd];W[nb]
+;FG[259:]PM[2];C[最強]B[nd]
+(
+;W[rc];B[rd];W[nb]
 (
 ;B[mb];W[qb];B[od];W[pb];B[ng]
 )
 (
 ;FG[259:]PM[2];B[pb];W[mb];B[od]
+)
+
+)
+(
+;FG[259:]PM[2];W[qb]C[最強];B[pf]
+(
+;W[pg];B[rc];W[mb];B[lb];W[nb];B[lc];W[rb];B[og]
+(
+;W[pe];B[od];W[sb];B[of]
+)
+(
+;FG[259:]PM[2];W[ph];B[sb];W[od];B[oe];W[ne];B[nf];W[me];B[kd];W[mf];B[mg];W[lg];B[mh]
+(
+;W[kf]
+;C[隅の白は生きていない]B[jc]
+)
+(
+;FG[259:]PM[2];W[kb];B[jc];W[jb];B[lf]
+)
+
+)
+
+)
+(
+;FG[259:]PM[2];W[rc];B[qg];W[rf];B[rd];W[ob];B[od];W[rg];B[mb];W[ra];B[oh]
+)
+
 )
 
 )

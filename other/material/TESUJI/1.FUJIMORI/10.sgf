@@ -1,0 +1,16 @@
+
+(;ST[2]AP[GOWrite:3.0.20]CA[UTF-8]FF[4]GM[1]SZ[19]PB[ ]AB[fq][jp]FG[259:]AW[dp][cn]PW[ ]PM[2]GN[ ]
+;C[実戦頻出の打ち込み]W[hq]
+;B[hp];W[iq];B[ip];W[jq];B[kq];W[kr];B[lq];W[lr];B[mq];W[gq];B[gp]
+;C[ここで黒はどこに石を置くか問題]W[eq]
+(
+;C[すぐに打たなくても良いがここが手筋]B[do]
+;W[co];B[ep];W[fr];B[dq]
+)
+(
+;PM[2]FG[259:]
+;C[すぐに繋ぐと]B[fp]
+;C[隅には手が残っていない]W[fr]
+)
+
+)

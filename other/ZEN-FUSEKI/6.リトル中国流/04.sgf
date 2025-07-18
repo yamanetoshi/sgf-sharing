@@ -1,0 +1,24 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[pd];W[dp];B[qp];W[dd];B[fq];W[cn];B[lq]
+;LB[qf:A][pk:B]W[qj]
+;B[qf];W[qm];B[pn];W[ro];B[pk];W[qo];B[po]
+;LB[op:A][qq:B]W[pp]
+;B[qq]
+;LB[no:A][or:B]W[op]
+(
+;
+)
+(
+;FG[259:]PM[2];B[no];W[pr];B[qr];W[pq];B[np];W[nq];B[mq];W[rr]
+;LB[nr:a]C[a アテが楽しみ]B[fo]
+)
+
+(
+;FG[259:]PM[2];B[or];W[pr]C[手筋];B[pq];W[oq];B[qr];W[nr];B[ps]
+;W[pm]C[先手で利かして急所]
+;B[no];W[mp];B[nn];W[lp];B[qk]
+;W[ol]C[下辺の模様が消えて黒不利判定 (勢力か実利で先行できないと黒番は不利]
+)
+
+)

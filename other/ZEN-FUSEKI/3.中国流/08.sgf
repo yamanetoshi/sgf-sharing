@@ -1,0 +1,53 @@
+
+(;AP[GOWrite:3.0.20]SZ[19]GM[1]CA[UTF-8]FF[4]ST[2]PM[2]PW[ ]GN[ ]FG[259:]PB[ ]
+;B[pd];W[dp];B[pq];W[dd];B[qk]
+;LB[po:A][jp:B]W[mp]C[6 (裏ガカリ]
+;B[po];W[jp]
+;C[無難に受けて不満なし]B[cn]
+;LB[en:A][cq:B]W[cl]C[7 (どちらも定石だが Zen は優劣をはっきり決めているとのこと]
+;B[cq];W[dq];B[cp];W[do];B[bn];W[em]
+;C[先手を取って上辺先着]B[fc]
+;W[id]C[8];B[cc];W[dc];B[cd];W[de];B[db];W[eb];B[cb];W[ec];B[cf];W[nc];B[pf];W[qc];B[pc];W[pb];B[qd];W[rb];B[rc]
+;LB[me:A][pi:B][mr:C]W[qb]
+(
+;
+)
+(
+;FG[259:]PM[2];B[me];W[ld];B[le];W[kd]
+;C[感覚的に好調な打ち方]B[mn]
+)
+
+(
+;FG[259:]PM[2]
+;C[手堅く守ると?]B[pi]
+;W[nm]C[ここから]
+;B[pm];W[op];B[pp];W[oi];B[oh]
+;W[ni]C[凝り形にさせてくる (堅すぎる打ち方を咎める手法として参考になる]
+)
+
+(
+;FG[259:]PM[2]
+;C[大きいが時期尚早]B[mr]
+(
+;
+)
+(
+;W[qq];B[qp]
+;W[oq]C[分断を残す良い利かし]
+;B[pr]
+;W[pj]C[先手を取ってカタツキ]
+;B[pk];W[nj]
+)
+
+(
+;FG[259:]PM[2]
+;W[pj]C[先に打つと?]
+;B[pk];W[nj];B[ok];W[qq]
+;C[右辺が強くなったのでこちらに打てる]B[or]
+;W[qp];B[qr];W[qn];B[pn];W[qm]
+;C[白取られ]B[rl]
+)
+
+)
+
+)

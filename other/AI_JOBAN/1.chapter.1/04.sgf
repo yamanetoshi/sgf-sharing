@@ -1,0 +1,43 @@
+
+(;SZ[19]GM[1]ST[2]FF[4]AP[GOWrite:3.0.20]CA[UTF-8]PB[ ]PM[2]PW[ ]FG[259:]GN[ ]
+;B[pd];W[pp];B[dc];W[cp];B[ce];W[eq];B[qf];W[qn];B[jc]
+;C[AI 好み]W[df]
+;B[de];W[ff];B[kq];W[mq]
+;C[白番だと遅れてしまうのではと]B[hq]
+(
+;C[盤面を立体的に使った打ち方]W[pg]
+;B[pf];W[ng];B[of];W[ip];B[iq];W[kp]
+(
+;B[jp];W[jo];B[jq];W[ko];B[lq];W[mp];B[og];W[ni]
+;C[下辺を放置で大場に]B[pj]
+;C[悠然と黒を生かして]W[hn]
+(
+;B[fr];W[fq];B[er];W[dr];B[gq];W[es];B[gs]
+;C[荒らしに回って黒もそんなに大きな地はできない]W[ob]
+;B[qb];W[lc]
+)
+(
+;PM[2]FG[259:]
+;C[手抜いた]B[di]
+;C[攻められる]W[gr]
+;B[io]
+;C[ヨリツキで白打てそう]W[ho]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[これは悪い打ち方]B[lp]
+;W[lq];B[jp];W[ko];B[jo]
+;C[A, B 残り]LB[jn:A][kr:B]W[kn]
+)
+
+)
+(
+;PM[2]FG[259:]
+;C[カタツキせずに、だと?]W[ip]
+;B[iq];W[kp];B[jp];W[jo];B[jq];W[ko];B[lq];W[mp]
+;C[このヒラキが実戦形と比べてスムーズ (カタツキには B]LB[pg:A][qg:B]B[pj]
+)
+
+)

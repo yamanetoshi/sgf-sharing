@@ -1,0 +1,42 @@
+
+(;SZ[19]GM[1]ST[2]FF[4]AP[GOWrite:3.0.20]CA[UTF-8]PW[ ]PM[2]PB[ ]FG[259:]GN[ ]
+;B[pp];W[pd];B[dp];W[dc];B[pf];W[qf];B[qg];W[qe];B[pg];W[nc];B[de]
+;C[ ]LB[cc:A][fe:B][ef:C]W[cg]
+;PM[2]FG[259:];B[fe]
+;C[ワタられる]W[ce]
+;B[dd];W[cd];B[ec];W[db];B[pk]
+;C[左上に一手かけてきた]W[df]
+(
+;
+)
+(
+;PM[2]FG[259:]
+(
+;C[強い石に近い]B[dj]
+;W[nq]
+)
+(
+;PM[2]FG[259:]
+;C[左辺をうつならこの辺りだが]B[cn]
+;C[このあたりに打たれて不満]LB[jq:a]W[nq]
+)
+
+)
+
+(
+;PM[2]FG[259:]
+;C[大場 (左上の黒は攻められる]B[nq]
+)
+
+(
+;PM[2]FG[259:]
+;C[これも良い]B[jp]
+;W[qq];B[qp];W[pq];B[oq];W[or];B[nq];W[nr];B[mq];W[rp];B[ro];W[rq]
+;C[右辺の幅が狭いのが不満]B[qn]
+)
+
+(
+;PM[2]FG[259:];C[急場]B[id]
+)
+
+)
