@@ -34,7 +34,14 @@
 (
 ;W[pm];B[rk]
 (
-;W[qk];B[sl];W[rj];B[ql];W[pl];B[qi]
+;W[qk];B[sl];W[rj];B[ql];W[pl];B[qi];W[qj];B[pg];W[pf];B[oi];W[pi];B[ph];W[rh];B[mg];W[mf];B[lf];W[me];B[ng];W[od];B[le];W[mc];B[mb];W[ob];B[oc]
+(
+;W[pb];B[md]
+)
+(
+;PM[2]FG[259:];W[md];B[nb];W[kd];B[jd];W[lc];B[kb];W[je]
+)
+
 )
 (
 ;PM[2]FG[259:];W[sl];B[qk];W[ql];B[pk];W[ok];B[ol];W[pl];B[oj];W[nk];B[pi]
