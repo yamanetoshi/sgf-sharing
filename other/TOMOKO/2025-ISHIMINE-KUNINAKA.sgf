@@ -1,5 +1,5 @@
 
-(;ST[2]CA[UTF-8]GM[1]AP[GOWrite:3.2.1]FF[4]SZ[19]PW[ ]FG[259:]GN[ ]PM[2]PB[ ]
+(;ST[2]AP[GOWrite:3.2.1]GM[1]CA[UTF-8]FF[4]SZ[19]PB[ ]GN[ ]FG[259:]PM[2]PW[ ]
 ;B[pd];W[dd];B[pq];W[dp];B[fc];W[qo];B[op];W[pk];B[cf];W[fd];B[gd];W[fe]
 (
 ;B[cc]
@@ -38,7 +38,21 @@
 (
 ;W[hn];B[km];W[kl];B[nn];W[mm];B[jn];W[jl];B[gn];W[ho];B[jj];W[kj];B[ji]
 (
-;
+;W[lh]
+(
+;B[lc];W[gi];B[hj];W[hi];B[kh];W[lg];B[jf];W[kd]
+(
+;B[ih];W[ii];B[ij];W[kg];B[jg];W[hd];
+)
+(
+;PM[2]FG[259:];B[lb];W[kg];B[jg];W[ii];B[ij];W[id]
+)
+
+)
+(
+;PM[2]FG[259:];B[gi]
+)
+
 )
 (
 ;PM[2]FG[259:];W[gi]
