@@ -1,5 +1,5 @@
 
-(;SZ[19]AP[GOWrite:3.2.1]ST[2]FF[4]CA[UTF-8]GM[1]PM[2]PB[ ]GN[ ]PW[ ]FG[259:]
+(;GM[1]ST[2]FF[4]SZ[19]CA[UTF-8]AP[GOWrite:3.2.1]PW[ ]FG[259:]GN[ ]PB[ ]PM[2]
 ;B[pd];W[co];B[qp];W[de];B[oq];W[nc];B[qf];W[ne];B[dq];W[fp]
 (
 ;B[do];W[dp];B[ep];W[cp]
@@ -34,90 +34,97 @@
 (
 ;B[mp];W[lp]
 (
-;B[nq];W[kn];B[lo];W[ko];B[mn];W[jq];B[hq];W[kl]
+;B[nq];W[kn];B[lo];W[ko];B[mn];W[jq];B[hq];W[kl];B[md];W[nd];B[jc];W[me];B[ke];W[kf];B[jf];W[kg]
+(
+;B[je];W[jg];B[hf];W[fg];B[ig];W[ji]
 )
 (
-;FG[259:]PM[2];B[mq];W[nn];B[lo];W[oo];B[po]
+;PM[2]FG[259:];B[jm];W[km];B[kj]
 )
 
 )
 (
-;FG[259:]PM[2];B[kp];W[nn];B[oo];W[km]
+;PM[2]FG[259:];B[mq];W[nn];B[lo];W[oo];B[po]
 )
 
 )
 (
-;FG[259:]PM[2];B[ro];W[ri];B[rn];W[rm];B[rk];W[si];B[sf];W[se];B[sg];W[sk];B[sl];W[rj];B[sj]
+;PM[2]FG[259:];B[kp];W[nn];B[oo];W[km]
 )
 
 )
 (
-;FG[259:]PM[2];W[ro]
+;PM[2]FG[259:];B[ro];W[ri];B[rn];W[rm];B[rk];W[si];B[sf];W[se];B[sg];W[sk];B[sl];W[rj];B[sj]
 )
 
 )
 (
-;FG[259:]PM[2];B[qn];W[pi];B[qi];W[ri];B[qh];W[rn];B[ro];W[sn];B[oi]
+;PM[2]FG[259:];W[ro]
 )
 
 )
 (
-;FG[259:]PM[2];W[ro];B[rp];W[ri];B[ph];W[qn]
+;PM[2]FG[259:];B[qn];W[pi];B[qi];W[ri];B[qh];W[rn];B[ro];W[sn];B[oi]
 )
 
 )
 (
-;FG[259:]PM[2];W[gr];B[gq];W[fr];B[fq];W[iq];B[kq];W[io]
+;PM[2]FG[259:];W[ro];B[rp];W[ri];B[ph];W[qn]
 )
 
 )
 (
-;FG[259:]PM[2];B[hm]
+;PM[2]FG[259:];W[gr];B[gq];W[fr];B[fq];W[iq];B[kq];W[io]
 )
 
 )
 (
-;FG[259:]PM[2];W[bg];B[bh];W[bi];B[ch];W[be];B[cd];W[ah]
+;PM[2]FG[259:];B[hm]
 )
 
 )
 (
-;FG[259:]PM[2];B[dh];W[cb];B[be];W[ef];B[dg];W[bc]
+;PM[2]FG[259:];W[bg];B[bh];W[bi];B[ch];W[be];B[cd];W[ah]
 )
 
 )
 (
-;FG[259:]PM[2];W[ee];B[ce];W[cf];B[be];W[bf]
+;PM[2]FG[259:];B[dh];W[cb];B[be];W[ef];B[dg];W[bc]
 )
 
 )
 (
-;FG[259:]PM[2];B[be];W[cf];B[bf];W[ch]
+;PM[2]FG[259:];W[ee];B[ce];W[cf];B[be];W[bf]
 )
 
 )
 (
-;FG[259:]PM[2];W[jd]
+;PM[2]FG[259:];B[be];W[cf];B[bf];W[ch]
 )
 
 )
 (
-;FG[259:]PM[2];B[en];W[cq];B[do];W[dm];B[eo]
+;PM[2]FG[259:];W[jd]
 )
 
 )
 (
-;FG[259:]PM[2];B[dn];W[cq];B[fq];W[fo];B[hq];W[bm];B[dl];W[ho];B[jp];W[gl]
+;PM[2]FG[259:];B[en];W[cq];B[do];W[dm];B[eo]
 )
 
 )
 (
-;FG[259:]PM[2];B[eo];W[eq];B[fq];W[er];B[gp]
+;PM[2]FG[259:];B[dn];W[cq];B[fq];W[fo];B[hq];W[bm];B[dl];W[ho];B[jp];W[gl]
 )
 
 )
 (
-;FG[259:]PM[2];B[ep];W[eo];B[fq];W[gp];B[gq];W[hp];B[hq];W[ip];B[jq]
+;PM[2]FG[259:];B[eo];W[eq];B[fq];W[er];B[gp]
+)
+
+)
+(
+;PM[2]FG[259:];B[ep];W[eo];B[fq];W[gp];B[gq];W[hp];B[hq];W[ip];B[jq]
 )
 
 )
